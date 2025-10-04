@@ -1,0 +1,49 @@
+[error]	2025-10-04 15:27:09.804818[Thread 0x0000000208504800]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-10-04 15:27:10.159239[Thread 0x000000016c753000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/1a65bfa7-0702-4f65-b260-653148effc83/Back_Right_Foot-extend.3mf
+[error]	2025-10-04 15:27:10.159249[Thread 0x000000016cb5f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/#Voron 0.2/Modifications/Stealth Skirts/V0.2 Stealth Skirt Front Center BTT 4.3.3mf
+[error]	2025-10-04 15:27:10.159266[Thread 0x000000016c753000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/fba4b0d9-ab59-4c51-b7ca-f48f852d9ad1/Back_Right_Foot-extend.3mf
+[error]	2025-10-04 15:27:10.159315[Thread 0x000000016db8f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/8d41cb1a-a841-4ff9-981d-5ce630965f44/v0.2-feet-accent-m-x2.3mf
+[error]	2025-10-04 15:27:10.159342[Thread 0x000000016cf6b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-10-04 15:27:10.159354[Thread 0x000000016df9b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-10-04 15:27:10.159360[Thread 0x000000016cf6b000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-10-04 15:27:10.159360[Thread 0x000000016e7b3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-10-04 15:27:10.159365[Thread 0x000000016df9b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[warning]	2025-10-04 15:27:11.183080[Thread 0x0000000208504800]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-04 15:27:12.217145[Thread 0x000000016bd97000]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Resolving timed out after 1003 milliseconds
+[Error 28]
+[warning]	2025-10-04 16:43:57.404651[Thread 0x0000000208504800]:04:43:57 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 16:43:57.404987[Thread 0x0000000208504800]:04:43:57 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 18:21:20.938359[Thread 0x0000000208504800]:06:21:20 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 18:21:20.938569[Thread 0x0000000208504800]:06:21:20 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 19:22:03.066826[Thread 0x0000000208504800]:07:22:03 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 19:22:03.257061[Thread 0x0000000208504800]:07:22:03 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-05 05:22:30.467747[Thread 0x0000000208504800]:05:22:30 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-05 05:22:30.468194[Thread 0x0000000208504800]:05:22:30 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-05 07:39:30.982740[Thread 0x0000000208504800]:07:39:30 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-05 07:39:31.609684[Thread 0x0000000208504800]:07:39:31 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-05 09:46:43.502673[Thread 0x0000000208504800]:09:46:43 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-05 09:46:43.504233[Thread 0x0000000208504800]:09:46:43 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-05 09:46:45.964026[Thread 0x0000000208504800]:09:46:45 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-05 09:46:46.234960[Thread 0x0000000208504800]:09:46:46 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-10-05 09:49:37.615362[Thread 0x0000000208504800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-05 09:55:34.201262[Thread 0x0000000208504800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-05 09:55:34.313212[Thread 0x0000000208504800]:validate_preset: preset_name Overture ABS - White, inherit_name Voron Generic ABS, can not found preset and inherit in list
+[warning]	2025-10-05 09:55:34.313227[Thread 0x0000000208504800]:validate_presets:file_name Tip_Catcher_MMU.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-10-05 09:55:34.313231[Thread 0x0000000208504800]:validate_preset: preset_name Overture ABS - White, inherit_name Voron Generic ABS, can not found preset and inherit in list
+[warning]	2025-10-05 09:55:34.313233[Thread 0x0000000208504800]:validate_presets:file_name Tip_Catcher_MMU.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-10-05 09:55:34.313234[Thread 0x0000000208504800]:validate_preset: preset_name Overture ABS - White, inherit_name Voron Generic ABS, can not found preset and inherit in list
+[warning]	2025-10-05 09:55:34.313235[Thread 0x0000000208504800]:validate_presets:file_name Tip_Catcher_MMU.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-10-05 09:55:34.313236[Thread 0x0000000208504800]:validate_preset: preset_name Overture ABS - White, inherit_name Voron Generic ABS, can not found preset and inherit in list
+[warning]	2025-10-05 09:55:34.313237[Thread 0x0000000208504800]:validate_presets:file_name Tip_Catcher_MMU.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-10-05 09:55:34.313242[Thread 0x0000000208504800]:validate_preset: preset_name Extrudr PLA, inherit_name Voron Generic PLA, can not found preset and inherit in list
+[warning]	2025-10-05 09:55:34.313243[Thread 0x0000000208504800]:validate_presets:file_name Tip_Catcher_MMU.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-10-05 09:55:34.313245[Thread 0x0000000208504800]:validate_preset: preset_name Extrudr PLA, inherit_name Voron Generic PLA, can not found preset and inherit in list
+[warning]	2025-10-05 09:55:34.313246[Thread 0x0000000208504800]:validate_presets:file_name Tip_Catcher_MMU.3mf, found the filament 6 preset not inherit from system
+[warning]	2025-10-05 09:55:34.313247[Thread 0x0000000208504800]:validate_presets:file_name Tip_Catcher_MMU.3mf, found self defined presets, count 2
+[error]	2025-10-05 09:55:35.987795[Thread 0x0000000208504800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-05 09:55:45.189816[Thread 0x0000000208504800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-05 10:03:05.305783[Thread 0x0000000208504800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-05 10:03:12.344892[Thread 0x0000000208504800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-05 10:04:51.714346[Thread 0x000000017e61f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-10-05 10:05:13.094777[Thread 0x0000000208504800]:tree_sel_change_delayedcan not find page with current selection 

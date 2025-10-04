@@ -1,0 +1,68 @@
+[error]	2025-09-20 12:27:02.154425[Thread 0x00000001f11b8800]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-09-20 12:27:02.557776[Thread 0x000000016d0bf000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-09-20 12:27:02.557820[Thread 0x000000016dce3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-09-20 12:27:02.557864[Thread 0x000000016ed13000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-09-20 12:27:02.557852[Thread 0x000000016e0ef000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/#Voron 0.2/Modifications/Stealth Skirts/V0.2 Stealth Skirt Front Center BTT 4.3.3mf
+[error]	2025-09-20 12:27:02.558048[Thread 0x000000016d4cb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/1a65bfa7-0702-4f65-b260-653148effc83/Back_Right_Foot-extend.3mf
+[error]	2025-09-20 12:27:02.558054[Thread 0x000000016d0bf000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-09-20 12:27:02.558057[Thread 0x000000016dce3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-09-20 12:27:02.558060[Thread 0x000000016d4cb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/8d41cb1a-a841-4ff9-981d-5ce630965f44/v0.2-feet-accent-m-x2.3mf
+[error]	2025-09-20 12:27:02.558053[Thread 0x000000016d8d7000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/fba4b0d9-ab59-4c51-b7ca-f48f852d9ad1/Back_Right_Foot-extend.3mf
+[warning]	2025-09-20 12:27:17.633626[Thread 0x00000001f11b8800]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-09-20 12:27:27.501919[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 12:27:46.463993[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 12:28:01.768617[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 12:28:04.442179[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 12:28:07.471090[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 12:41:03.796789[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 12:41:04.903390[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 12:41:30.880422[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 12:41:36.141137[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 12:41:46.501111[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 12:41:52.877052[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 12:44:09.635048[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 12:44:19.118432[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 12:44:22.434488[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 12:44:41.157320[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-09-20 12:44:46.334929[Thread 0x000000017dc97000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-20 12:45:49.727739[Thread 0x000000017dc97000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-20 12:45:49.845159[Thread 0x000000016f11f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-20 12:45:49.845745[Thread 0x000000016f11f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-20 12:45:49.846618[Thread 0x000000016f11f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-20 12:45:49.847062[Thread 0x000000016f11f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-20 14:03:23.207799[Thread 0x00000001f11b8800]:02:03:23 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-20 14:03:23.208389[Thread 0x00000001f11b8800]:02:03:23 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-09-20 14:04:04.264852[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 14:04:23.565243[Thread 0x00000001f11b8800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-20 14:04:32.424164[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 14:04:53.893263[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 14:04:54.686122[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 14:05:52.543545[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 15:27:57.301790[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 15:28:00.265972[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-20 15:28:14.424656[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-09-20 15:28:18.971503[Thread 0x000000017dc97000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-20 15:28:19.071405[Thread 0x000000016d0bf000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-20 15:28:19.072511[Thread 0x000000016d0bf000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-20 15:28:19.072910[Thread 0x000000016d0bf000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-20 15:28:19.073727[Thread 0x000000016d0bf000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-20 15:28:19.074143[Thread 0x000000016d0bf000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-20 15:28:19.074999[Thread 0x000000016d0bf000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-20 15:28:19.076371[Thread 0x000000016d0bf000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-20 15:43:15.899658[Thread 0x00000001f11b8800]:03:43:15 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-09-21 09:37:57.294707[Thread 0x00000001f11b8800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 09:37:57.348988[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-21 09:37:59.791608[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-21 09:38:14.685321[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-21 09:41:09.388917[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-09-21 09:48:22.837335[Thread 0x000000016c26b000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2025-09-21 09:48:22.857502[Thread 0x00000001f11b8800]:postprocess_bed_index_for_selected: can not be arranged inside plate!
+[warning]	2025-09-21 09:49:18.125251[Thread 0x000000016c26b000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2025-09-21 09:49:18.143817[Thread 0x00000001f11b8800]:postprocess_bed_index_for_selected: can not be arranged inside plate!
+[warning]	2025-09-21 09:49:41.143121[Thread 0x000000017dc97000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-21 09:49:58.386388[Thread 0x000000017dc97000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-21 09:50:15.805529[Thread 0x000000017dc97000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-21 10:31:43.639998[Thread 0x000000017dc97000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-21 10:32:58.647515[Thread 0x000000017dc97000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-09-21 12:02:47.372182[Thread 0x00000001f11b8800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 12:03:08.890603[Thread 0x00000001f11b8800]:calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,103 @@
+[error]	2025-07-31 18:38:57.648489[Thread 0x00000001fdefa0c0]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-07-31 18:38:57.936510[Thread 0x000000017416f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-07-31 18:38:57.936567[Thread 0x000000017519f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/1cc24a62-2d1d-4a0d-964e-57f495152bf9/[mc] Shroud_Body.3mf
+[error]	2025-07-31 18:38:57.936572[Thread 0x0000000173d63000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/8d41cb1a-a841-4ff9-981d-5ce630965f44/v0.2-feet-accent-m-x2.3mf
+[error]	2025-07-31 18:38:57.936576[Thread 0x000000017416f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-07-31 18:38:57.936612[Thread 0x00000001765db000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/#Voron 0.2/Modifications/Stealth Skirts/V0.2 Stealth Skirt Front Center BTT 4.3.3mf
+[error]	2025-07-31 18:38:57.936614[Thread 0x0000000175dc3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/fba4b0d9-ab59-4c51-b7ca-f48f852d9ad1/Back_Right_Foot-extend.3mf
+[error]	2025-07-31 18:38:57.936615[Thread 0x0000000173d63000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/1a65bfa7-0702-4f65-b260-653148effc83/Back_Right_Foot-extend.3mf
+[error]	2025-07-31 18:38:57.936615[Thread 0x0000000174987000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-07-31 18:38:57.936620[Thread 0x00000001761cf000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[warning]	2025-07-31 18:38:58.892676[Thread 0x00000001fdefa0c0]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-07-31 18:39:20.665976[Thread 0x0000000173727000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[error]	2025-07-31 18:39:37.060022[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-31 18:39:45.014700[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-31 18:39:45.034751[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-31 18:39:56.922315[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-31 18:39:56.945669[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-31 18:40:33.235942[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-31 18:41:20.976655[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-31 18:42:32.189335[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-31 18:42:32.228588[Thread 0x0000000173727000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[error]	2025-07-31 18:42:35.204173[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-31 18:43:01.158513[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:43:01.180736[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:43:01.201423[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:43:01.201443[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:43:01.201460[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:43:01.201569[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:43:01.201658[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:43:01.214916[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:43:01.214935[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:43:01.214953[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:43:01.215063[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:43:01.215168[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:43:01.228434[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:43:01.237433[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:43:01.250186[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:43:01.262886[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:43:01.277581[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-07-31 18:43:36.729751[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-31 18:44:02.208566[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-31 18:44:17.526937[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-31 18:44:20.323845[Thread 0x0000000173727000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[error]	2025-07-31 18:45:05.304013[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-31 18:45:17.093597[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:17.106678[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:17.119747[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:17.134843[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:17.150826[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:17.171550[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:17.192448[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:28.165307[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:28.165347[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:28.165368[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:28.165437[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:28.165488[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:28.178413[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:28.178438[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:28.178454[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:28.178515[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:28.178567[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:45:28.190805[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-07-31 18:46:52.162897[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-31 18:46:53.399913[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-07-31 18:47:09.985146[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-07-31 18:47:25.650577[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:47:25.650615[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:47:25.650635[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:47:25.650746[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:47:25.650834[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:47:25.664156[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:47:25.664185[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:47:25.664204[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:47:25.664313[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:47:25.664412[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:47:25.677721[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:48:17.775370[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:48:17.775443[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:48:17.775479[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:48:17.775612[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:48:17.775693[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:48:17.795937[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:48:17.795972[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:48:17.795995[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:48:17.796081[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:48:17.796152[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 18:48:17.812236[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 19:07:32.832069[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 19:07:32.845502[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 19:07:32.858346[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 19:07:32.872793[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 19:07:32.888394[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 19:07:32.909059[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 19:07:32.929871[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 20:51:36.359178[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 20:51:36.379661[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 20:51:36.396027[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 20:51:36.408325[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 20:51:36.420070[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 20:51:36.435929[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-07-31 20:51:36.450584[Thread 0x0000000435463000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-01 07:19:48.775407[Thread 0x00000001fdefa0c0]:07:19:48 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-01 07:19:49.391016[Thread 0x00000001fdefa0c0]:07:19:49 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')

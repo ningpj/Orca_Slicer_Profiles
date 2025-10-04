@@ -1,0 +1,16 @@
+{
+    "bridge_density": "90%",
+    "from": "User",
+    "inherits": "0.20mm Standard @Voron v24 0.4 nozzle",
+    "initial_layer_infill_speed": "100",
+    "initial_layer_speed": "100",
+    "internal_bridge_density": "90%",
+    "internal_bridge_flow": "0.85",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @Voron v24 0.6 1.1",
+    "print_settings_id": "0.20mm Standard @Voron v24 0.6 1.1",
+    "solid_infill_rotate_template": "",
+    "sparse_infill_rotate_template": "",
+    "version": "2.0.2.0",
+    "wall_loops": "3"
+}

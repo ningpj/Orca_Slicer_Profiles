@@ -1,0 +1,15 @@
+{
+    "default_acceleration": "5640",
+    "from": "User",
+    "inherits": "0.20mm 45-Degrees @Voron v24 0.4 nozzle",
+    "initial_layer_acceleration": "2000",
+    "initial_layer_infill_speed": "100",
+    "initial_layer_speed": "100",
+    "inner_wall_acceleration": "5640",
+    "interlocking_beam": "1",
+    "is_custom_defined": "0",
+    "name": "0.20mm 45-Degrees @Voron v24 0.4 1.1",
+    "outer_wall_acceleration": "5640",
+    "print_settings_id": "0.20mm 45-Degrees @Voron v24 0.4 1.1",
+    "version": "2.0.2.0"
+}

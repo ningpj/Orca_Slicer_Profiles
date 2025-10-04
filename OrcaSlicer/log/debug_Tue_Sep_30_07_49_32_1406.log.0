@@ -1,0 +1,21 @@
+[error]	2025-09-30 07:49:34.991436[Thread 0x0000000208504800]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-09-30 07:49:42.530001[Thread 0x0000000208504800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-30 07:49:42.543563[Thread 0x0000000171623000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-09-30 07:49:42.543564[Thread 0x0000000172653000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-09-30 07:49:42.543563[Thread 0x0000000172e6b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/fba4b0d9-ab59-4c51-b7ca-f48f852d9ad1/Back_Right_Foot-extend.3mf
+[error]	2025-09-30 07:49:42.543564[Thread 0x0000000170e0b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/1a65bfa7-0702-4f65-b260-653148effc83/Back_Right_Foot-extend.3mf
+[error]	2025-09-30 07:49:42.543743[Thread 0x0000000171623000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-09-30 07:49:42.543749[Thread 0x0000000170e0b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/8d41cb1a-a841-4ff9-981d-5ce630965f44/v0.2-feet-accent-m-x2.3mf
+[error]	2025-09-30 07:49:42.544465[Thread 0x0000000171623000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-09-30 07:49:42.544473[Thread 0x0000000171a2f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-09-30 07:49:42.544520[Thread 0x0000000172a5f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/#Voron 0.2/Modifications/Stealth Skirts/V0.2 Stealth Skirt Front Center BTT 4.3.3mf
+[error]	2025-09-30 07:49:43.870080[Thread 0x0000000208504800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-30 07:49:43.887047[Thread 0x0000000208504800]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-09-30 17:54:32.638583[Thread 0x0000000208504800]:05:54:32 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-30 20:03:20.358394[Thread 0x0000000208504800]:08:03:20 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-30 20:03:20.369260[Thread 0x0000000208504800]:08:03:20 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-30 20:51:13.111404[Thread 0x0000000208504800]:08:51:13 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-30 20:51:13.183314[Thread 0x0000000208504800]:08:51:13 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-01 07:10:25.024363[Thread 0x0000000208504800]:07:10:25 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-01 07:10:25.024769[Thread 0x0000000208504800]:07:10:25 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-10-01 07:11:01.440743[Thread 0x0000000208504800]:calc_exclude_triangles:Unable to create exclude triangles

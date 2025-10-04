@@ -1,0 +1,53 @@
+[error]	2025-08-10 07:59:51.067437[Thread 0x00000001fdefa0c0]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-08-10 07:59:51.366774[Thread 0x000000016d023000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/1a65bfa7-0702-4f65-b260-653148effc83/Back_Right_Foot-extend.3mf
+[error]	2025-08-10 07:59:51.366809[Thread 0x000000016dc47000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-08-10 07:59:51.366822[Thread 0x000000016e053000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-08-10 07:59:51.366902[Thread 0x000000016d023000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/fba4b0d9-ab59-4c51-b7ca-f48f852d9ad1/Back_Right_Foot-extend.3mf
+[error]	2025-08-10 07:59:51.366909[Thread 0x000000016d023000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/8d41cb1a-a841-4ff9-981d-5ce630965f44/v0.2-feet-accent-m-x2.3mf
+[error]	2025-08-10 07:59:51.366911[Thread 0x000000016d83b000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-08-10 07:59:51.366914[Thread 0x000000016d023000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/1cc24a62-2d1d-4a0d-964e-57f495152bf9/[mc] Shroud_Body.3mf
+[error]	2025-08-10 07:59:51.367217[Thread 0x000000016d42f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-08-10 07:59:51.367218[Thread 0x000000016e45f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-08-10 07:59:51.367549[Thread 0x000000016cc17000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/#Voron 0.2/Modifications/Stealth Skirts/V0.2 Stealth Skirt Front Center BTT 4.3.3mf
+[warning]	2025-08-10 07:59:52.105238[Thread 0x00000001fdefa0c0]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-08-10 08:00:04.922530[Thread 0x000000016c1cf000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[error]	2025-08-10 08:02:23.906561[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:02:34.691943[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:02:35.743005[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:02:48.627683[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:02:49.190258[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:02:53.838910[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:03:03.686093[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:03:09.325201[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:03:14.044678[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:03:22.466070[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:03:24.854721[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:03:55.058382[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:03:57.266933[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:03:57.721248[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:04:00.659826[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:04:38.515546[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:04:39.456219[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:04:41.703773[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-08-10 08:05:07.838445[Thread 0x0000000462d3b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-10 08:05:07.883013[Thread 0x0000000462d3b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-08-10 08:05:31.608492[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:05:34.937948[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:05:38.310102[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:05:45.619456[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-08-10 08:05:56.534057[Thread 0x0000000462d3b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-10 08:05:56.578612[Thread 0x0000000462d3b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-08-10 08:06:25.859828[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:06:27.556487[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:06:28.702562[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:06:29.670392[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:06:30.602775[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:06:31.829591[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-08-10 08:06:39.005771[Thread 0x000000016c1cf000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2025-08-10 08:06:45.785009[Thread 0x0000000462d3b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-08-10 08:31:39.122297[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-10 08:31:47.744951[Thread 0x00000001fdefa0c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-10 08:31:53.588694[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-08-10 08:37:13.763343[Thread 0x000000016c1cf000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2025-08-10 09:21:49.717439[Thread 0x00000001fdefa0c0]:09:21:49 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-08-10 09:22:08.844814[Thread 0x00000001fdefa0c0]:calc_exclude_triangles:Unable to create exclude triangles

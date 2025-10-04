@@ -1,0 +1,14 @@
+{
+    "enable_prime_tower": "0",
+    "from": "User",
+    "inherits": "0.20mm Standard @Voron v02 0.4 nozzle",
+    "inner_wall_speed": "120",
+    "internal_solid_infill_speed": "150",
+    "is_custom_defined": "0",
+    "name": "0.20mm Slow @Voron v02 0.4 nozzle",
+    "outer_wall_speed": "120",
+    "print_settings_id": "0.20mm Slow @Voron v02 0.4 nozzle",
+    "sparse_infill_speed": "150",
+    "support_speed": "150",
+    "version": "2.0.2.0"
+}

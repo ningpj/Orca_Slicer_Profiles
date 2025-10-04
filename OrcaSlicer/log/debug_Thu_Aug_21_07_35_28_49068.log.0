@@ -1,0 +1,41 @@
+[error]	2025-08-21 07:35:28.791640[Thread 0x00000001fdefa0c0]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-08-21 07:35:29.035032[Thread 0x000000016cdf7000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/1a65bfa7-0702-4f65-b260-653148effc83/Back_Right_Foot-extend.3mf
+[error]	2025-08-21 07:35:29.035051[Thread 0x000000016cdf7000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/fba4b0d9-ab59-4c51-b7ca-f48f852d9ad1/Back_Right_Foot-extend.3mf
+[error]	2025-08-21 07:35:29.035058[Thread 0x000000016cdf7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/#Voron 0.2/Modifications/Stealth Skirts/V0.2 Stealth Skirt Front Center BTT 4.3.3mf
+[error]	2025-08-21 07:35:29.035147[Thread 0x000000016c9eb000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-08-21 07:35:29.035154[Thread 0x000000016c9eb000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-08-21 07:35:29.035163[Thread 0x000000016c9eb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-08-21 07:35:29.035168[Thread 0x000000016c9eb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-08-21 07:35:29.035165[Thread 0x000000016d203000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-08-21 07:35:29.035205[Thread 0x000000016d203000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/8d41cb1a-a841-4ff9-981d-5ce630965f44/v0.2-feet-accent-m-x2.3mf
+[warning]	2025-08-21 07:35:29.882645[Thread 0x00000001fdefa0c0]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-08-21 07:35:37.244895[Thread 0x00000001fdefa0c0]:validate_preset: preset_name Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-08-21 07:35:37.244907[Thread 0x00000001fdefa0c0]:validate_presets:file_name Shacker Mk II - Relocated mount.3mf, found the printer preset not inherit from system
+[warning]	2025-08-21 07:35:37.244911[Thread 0x00000001fdefa0c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-08-21 07:35:37.244912[Thread 0x00000001fdefa0c0]:validate_presets:file_name Shacker Mk II - Relocated mount.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-08-21 07:35:37.244914[Thread 0x00000001fdefa0c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-08-21 07:35:37.244915[Thread 0x00000001fdefa0c0]:validate_presets:file_name Shacker Mk II - Relocated mount.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-08-21 07:35:37.244917[Thread 0x00000001fdefa0c0]:validate_preset: preset_name Orvil ABS+ - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-08-21 07:35:37.244918[Thread 0x00000001fdefa0c0]:validate_presets:file_name Shacker Mk II - Relocated mount.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-08-21 07:35:37.244919[Thread 0x00000001fdefa0c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-08-21 07:35:37.244920[Thread 0x00000001fdefa0c0]:validate_presets:file_name Shacker Mk II - Relocated mount.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-08-21 07:35:37.244921[Thread 0x00000001fdefa0c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-08-21 07:35:37.244922[Thread 0x00000001fdefa0c0]:validate_presets:file_name Shacker Mk II - Relocated mount.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-08-21 07:35:37.244924[Thread 0x00000001fdefa0c0]:validate_preset: preset_name eSun ABS - Natural White v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-08-21 07:35:37.244925[Thread 0x00000001fdefa0c0]:validate_presets:file_name Shacker Mk II - Relocated mount.3mf, found the filament 6 preset not inherit from system
+[warning]	2025-08-21 07:35:37.244926[Thread 0x00000001fdefa0c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-08-21 07:35:37.244927[Thread 0x00000001fdefa0c0]:validate_presets:file_name Shacker Mk II - Relocated mount.3mf, found the filament 7 preset not inherit from system
+[warning]	2025-08-21 07:35:37.244928[Thread 0x00000001fdefa0c0]:validate_preset: preset_name Wondershop ABS-GF - Default v1 @Voron v24 0.4 nozzle, inherit_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, can not found preset and inherit in list
+[warning]	2025-08-21 07:35:37.244930[Thread 0x00000001fdefa0c0]:validate_presets:file_name Shacker Mk II - Relocated mount.3mf, found the filament 8 preset not inherit from system
+[warning]	2025-08-21 07:35:37.244931[Thread 0x00000001fdefa0c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-08-21 07:35:37.244932[Thread 0x00000001fdefa0c0]:validate_presets:file_name Shacker Mk II - Relocated mount.3mf, found the filament 9 preset not inherit from system
+[warning]	2025-08-21 07:35:37.244933[Thread 0x00000001fdefa0c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-08-21 07:35:37.244934[Thread 0x00000001fdefa0c0]:validate_presets:file_name Shacker Mk II - Relocated mount.3mf, found the filament 10 preset not inherit from system
+[warning]	2025-08-21 07:35:37.244935[Thread 0x00000001fdefa0c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-08-21 07:35:37.244935[Thread 0x00000001fdefa0c0]:validate_presets:file_name Shacker Mk II - Relocated mount.3mf, found the filament 11 preset not inherit from system
+[warning]	2025-08-21 07:35:37.244967[Thread 0x00000001fdefa0c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-08-21 07:35:37.244969[Thread 0x00000001fdefa0c0]:validate_presets:file_name Shacker Mk II - Relocated mount.3mf, found the filament 12 preset not inherit from system
+[warning]	2025-08-21 07:35:37.244970[Thread 0x00000001fdefa0c0]:validate_presets:file_name Shacker Mk II - Relocated mount.3mf, found self defined presets, count 5
+[warning]	2025-08-21 07:35:55.140702[Thread 0x000000049813b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-22 07:20:50.113066[Thread 0x00000001fdefa0c0]:07:20:50 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-22 07:20:50.578171[Thread 0x00000001fdefa0c0]:07:20:50 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')

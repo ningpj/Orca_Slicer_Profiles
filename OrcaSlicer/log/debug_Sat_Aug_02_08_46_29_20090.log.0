@@ -1,0 +1,182 @@
+[error]	2025-08-02 08:46:30.091080[Thread 0x00000001fdefa0c0]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-08-02 08:46:30.417424[Thread 0x000000016cb8f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/8d41cb1a-a841-4ff9-981d-5ce630965f44/v0.2-feet-accent-m-x2.3mf
+[error]	2025-08-02 08:46:30.417471[Thread 0x000000016d3a7000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-08-02 08:46:30.417481[Thread 0x000000016cb8f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/1a65bfa7-0702-4f65-b260-653148effc83/Back_Right_Foot-extend.3mf
+[error]	2025-08-02 08:46:30.417490[Thread 0x000000016ebef000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/fba4b0d9-ab59-4c51-b7ca-f48f852d9ad1/Back_Right_Foot-extend.3mf
+[error]	2025-08-02 08:46:30.417490[Thread 0x000000016effb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-08-02 08:46:30.417496[Thread 0x000000016cb8f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/1cc24a62-2d1d-4a0d-964e-57f495152bf9/[mc] Shroud_Body.3mf
+[error]	2025-08-02 08:46:30.417498[Thread 0x000000016dbbf000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-08-02 08:46:30.417513[Thread 0x000000016e3d7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-08-02 08:46:30.429886[Thread 0x000000016e7e3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/#Voron 0.2/Modifications/Stealth Skirts/V0.2 Stealth Skirt Front Center BTT 4.3.3mf
+[warning]	2025-08-02 08:46:31.319205[Thread 0x00000001fdefa0c0]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-08-02 09:01:15.660975[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-02 09:01:15.706333[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-02 09:02:54.974082[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-02 09:02:55.018368[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-02 12:08:22.786656[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-02 12:08:22.818769[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-02 12:08:22.848495[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-02 12:08:22.859852[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-02 12:09:17.339120[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-02 12:09:17.365748[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-02 12:09:17.385226[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-02 12:09:17.392113[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-08-02 12:09:20.996115[Thread 0x0000000488f5b000]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_Idler_A_Tensioner_Lower_x1 (1)_ABS_0.4_30m21s
+ ^
+[warning]	2025-08-02 12:11:10.477685[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-02 12:11:27.877140[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-02 12:11:37.178382[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-02 12:12:30.173938[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-03 05:30:49.310089[Thread 0x00000001fdefa0c0]:05:30:49 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-03 05:30:49.310962[Thread 0x00000001fdefa0c0]:05:30:49 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-03 08:17:43.491378[Thread 0x00000001fdefa0c0]:08:17:43 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-03 08:17:43.925119[Thread 0x00000001fdefa0c0]:08:17:43 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-03 08:17:46.694598[Thread 0x00000001fdefa0c0]:08:17:46 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-03 08:17:46.950326[Thread 0x00000001fdefa0c0]:08:17:46 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-08-03 08:18:27.924513[Thread 0x00000001fdefa0c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-03 09:40:33.130191[Thread 0x00000001fdefa0c0]:09:40:33 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-03 12:44:10.393472[Thread 0x00000001fdefa0c0]:12:44:10 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-03 12:44:10.550550[Thread 0x00000001fdefa0c0]:12:44:10 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-08-03 12:45:20.849293[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-03 13:57:02.288989[Thread 0x00000001fdefa0c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-03 14:05:29.318304[Thread 0x000000016ebef000]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 30 NextTarget: 30 Distance to top: 50 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0x13832ea10: Radius: 1349954 at layer: 31 NextTarget: 31 Distance to top: 49 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2025-08-03 14:41:13.241511[Thread 0x00000001fdefa0c0]:02:41:13 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-04 07:31:29.184452[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-04 07:31:29.209919[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-04 19:37:50.230803[Thread 0x00000001fdefa0c0]:07:37:50 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-04 19:37:50.845303[Thread 0x00000001fdefa0c0]:07:37:50 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-08-04 19:57:45.964575[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-04 19:58:22.639862[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-04 19:58:22.986670[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-04 19:58:32.711976[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-04 19:58:38.705626[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-04 19:58:46.191734[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-04 19:58:48.429895[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-04 19:59:12.565495[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-08-04 19:59:21.616714[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-04 19:59:21.618272[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-05 07:38:14.151890[Thread 0x00000001fdefa0c0]:07:38:14 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-05 07:38:14.699184[Thread 0x00000001fdefa0c0]:07:38:14 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-05 08:02:25.295429[Thread 0x00000001fdefa0c0]:08:02:25 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-05 08:02:25.819965[Thread 0x00000001fdefa0c0]:08:02:25 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-05 09:08:13.043970[Thread 0x00000001fdefa0c0]:09:08:13 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-05 09:08:13.659772[Thread 0x00000001fdefa0c0]:09:08:13 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-05 10:39:27.516576[Thread 0x00000001fdefa0c0]:10:39:27 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-05 10:39:28.196919[Thread 0x00000001fdefa0c0]:10:39:28 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-08 15:51:37.058907[Thread 0x00000001fdefa0c0]:03:51:37 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-08 15:51:37.551597[Thread 0x00000001fdefa0c0]:03:51:37 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-08-08 15:57:03.112859[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-08 15:58:03.555562[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-08 15:58:17.229706[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-08 15:59:01.678287[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-08-08 16:00:32.497373[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 16:00:32.498724[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 16:00:32.519844[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 16:00:32.528401[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 16:00:32.554269[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 16:00:32.564065[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 16:00:32.589330[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-08-08 16:00:53.093976[Thread 0x0000000488f5b000]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_XY_Joint_Right_Upper_ABS_0.4_1h5m
+ ^
+[warning]	2025-08-08 16:01:09.916348[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 16:01:09.916755[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 16:01:09.948482[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 16:01:09.952519[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 16:01:09.969340[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 16:01:09.974932[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 16:01:09.989785[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-08-08 16:01:14.826840[Thread 0x0000000488f5b000]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_XY_Joint_Right_Upper_ABS_0.4_1h4m
+ ^
+[warning]	2025-08-08 18:14:49.392832[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:14:49.395593[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:14:49.432398[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:14:49.436935[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:14:49.455665[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:14:49.461858[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:14:49.478257[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:15:20.528864[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:15:20.529220[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:15:20.564584[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:15:20.569284[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:15:20.587740[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:15:20.593656[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:15:20.609319[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:15:59.340694[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:15:59.341108[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:15:59.359521[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:15:59.362696[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:15:59.378010[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:15:59.383171[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:15:59.398478[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:16:17.408571[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:16:17.408904[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:16:17.424339[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:16:17.427181[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:16:17.440514[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:16:17.445147[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:16:17.457414[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:17:35.623939[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:17:35.636166[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:17:35.640666[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-08 18:17:35.652826[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-08-08 18:17:57.146678[Thread 0x0000000488f5b000]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_Idler_A_Tensioner_Lower_LaztCam_x1_ABS_0.4_32m40s
+ ^
+[warning]	2025-08-09 07:30:34.737445[Thread 0x00000001fdefa0c0]:07:30:34 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-09 07:30:35.239272[Thread 0x00000001fdefa0c0]:07:30:35 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-09 09:09:42.012456[Thread 0x00000001fdefa0c0]:09:09:42 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-09 09:09:42.542169[Thread 0x00000001fdefa0c0]:09:09:42 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-09 09:09:45.261272[Thread 0x00000001fdefa0c0]:09:09:45 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-09 09:09:45.526386[Thread 0x00000001fdefa0c0]:09:09:45 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-09 10:16:22.892379[Thread 0x00000001fdefa0c0]:10:16:22 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-08-09 10:22:20.758965[Thread 0x00000001fdefa0c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-09 10:24:53.988793[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-09 10:48:16.424381[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-09 10:50:46.254735[Thread 0x00000001fdefa0c0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-09 10:51:49.248124[Thread 0x00000001fdefa0c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-09 11:46:37.976651[Thread 0x00000001fdefa0c0]:11:46:37 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-09 11:46:38.536264[Thread 0x00000001fdefa0c0]:11:46:38 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-08-09 11:46:53.030665[Thread 0x00000001fdefa0c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-09 12:51:02.425481[Thread 0x00000001fdefa0c0]:12:51:02 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-09 13:04:29.737911[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 13:04:32.264442[Thread 0x000000016dfcb000]:Influence area could not be increased! Data about the Influence area: Radius: 520000 at layer: 61 NextTarget: 61 Distance to top: 3 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0x13bcf8480: Radius: 520000 at layer: 62 NextTarget: 62 Distance to top: 2 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2025-08-09 13:06:01.442377[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 13:06:04.031179[Thread 0x000000016effb000]:Influence area could not be increased! Data about the Influence area: Radius: 520000 at layer: 61 NextTarget: 61 Distance to top: 3 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0x494627a80: Radius: 520000 at layer: 62 NextTarget: 62 Distance to top: 2 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2025-08-09 13:07:44.806345[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 13:08:16.020846[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 13:17:14.058232[Thread 0x00000001fdefa0c0]:01:17:14 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-09 13:17:14.262847[Thread 0x00000001fdefa0c0]:01:17:14 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-09 13:19:40.427330[Thread 0x00000001fdefa0c0]:validate_preset: preset_name Voron v02 0.6 nozzle, inherit_name Voron v02 0.4 nozzle, can not found preset and inherit in list
+[warning]	2025-08-09 13:19:40.427346[Thread 0x00000001fdefa0c0]:validate_presets:file_name Uno Card Box.3mf, found the printer preset not inherit from system
+[warning]	2025-08-09 13:19:40.427351[Thread 0x00000001fdefa0c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v02 0.4 nozzle, no inherit, set to not found
+[warning]	2025-08-09 13:19:40.427352[Thread 0x00000001fdefa0c0]:validate_presets:file_name Uno Card Box.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-08-09 13:19:40.427356[Thread 0x00000001fdefa0c0]:validate_presets:file_name Uno Card Box.3mf, found self defined presets, count 2
+[error]	2025-08-09 13:19:41.848001[Thread 0x00000001fdefa0c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-09 13:30:46.285209[Thread 0x00000001fdefa0c0]:01:30:46 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-09 13:40:53.662012[Thread 0x000000016c553000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2025-08-09 13:41:25.631468[Thread 0x000000016c553000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2025-08-09 13:41:32.143011[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 13:41:32.163996[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 13:41:32.280579[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 13:41:32.402153[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 13:41:32.425796[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 18:52:01.530818[Thread 0x00000001fdefa0c0]:06:52:01 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-09 18:52:01.965935[Thread 0x00000001fdefa0c0]:06:52:01 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-08-09 18:53:11.842542[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 18:53:11.863501[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 18:53:11.980363[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 18:53:12.102645[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 18:53:12.127380[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 18:53:43.378828[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 18:53:43.397924[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 18:53:43.482138[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 18:53:43.574710[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 18:53:43.590084[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 18:54:58.544349[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-08-09 18:54:58.624242[Thread 0x0000000488f5b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used

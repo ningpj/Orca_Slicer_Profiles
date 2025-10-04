@@ -1,0 +1,53 @@
+[error]	2025-09-26 11:17:24.743026[Thread 0x00000001f11b8800]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-09-26 11:17:25.068479[Thread 0x000000016ca0f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/#Voron 0.2/Modifications/Stealth Skirts/V0.2 Stealth Skirt Front Center BTT 4.3.3mf
+[error]	2025-09-26 11:17:25.068534[Thread 0x000000016c603000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/1a65bfa7-0702-4f65-b260-653148effc83/Back_Right_Foot-extend.3mf
+[error]	2025-09-26 11:17:25.068568[Thread 0x000000016ea6f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/8d41cb1a-a841-4ff9-981d-5ce630965f44/v0.2-feet-accent-m-x2.3mf
+[error]	2025-09-26 11:17:25.068580[Thread 0x000000016ce1b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/fba4b0d9-ab59-4c51-b7ca-f48f852d9ad1/Back_Right_Foot-extend.3mf
+[error]	2025-09-26 11:17:25.068661[Thread 0x000000016ca0f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-09-26 11:17:25.068664[Thread 0x000000016ce1b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-09-26 11:17:25.068671[Thread 0x000000016ca0f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-09-26 11:17:25.068672[Thread 0x000000016ea6f000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-09-26 11:17:25.068677[Thread 0x000000016ce1b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[warning]	2025-09-26 11:17:26.040839[Thread 0x00000001f11b8800]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-09-26 11:17:54.659997[Thread 0x00000001f11b8800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-26 13:26:02.264817[Thread 0x00000001f11b8800]:01:26:02 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-26 13:26:02.277310[Thread 0x00000001f11b8800]:01:26:02 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-09-26 13:26:30.799763[Thread 0x00000001f11b8800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-26 13:35:06.159916[Thread 0x000000016b3db000]:OctoPrint: Error uploading file: , HTTP 403, body: `{"error": {"code": 403, "message": "Forbidden", "traceback": "Traceback (most recent call last):\n\n  File \"/home/pi/moonraker/moonraker/components/file_manager/file_manager.py\", line 903, in _finish_gcode_upload\n    can_start = self._handle_operation_check(check_path)\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/pi/moonraker/moonraker/components/file_manager/file_manager.py\", line 563, in _handle_operation_check\n    raise self.server.error(\"File currently in use\", 403)\n\nmoonraker.utils.exceptions.ServerError: File currently in use\n\n\nDuring handling of the above exception, another exception occurred:\n\n\nTraceback (most recent call last):\n\n  File \"/home/pi/moonraker/moonraker/components/application.py\", line 1018, in post\n    result = await self.file_manager.finalize_upload(form_args)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/pi/moonraker/moonraker/components/file_manager/file_manager.py\", line 833, in finalize_upload\n    result = await self._finish_gcode_upload(upload_info)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/pi/moonraker/moonraker/components/file_manager/file_manager.py\", line 906, in _finish_gcode_upload\n    raise self.server.error(\n\nmoonraker.utils.exceptions.ServerError: File is loaded, upload not permitted\n\n\nDuring handling of the above exception, another exception occurred:\n\n\nTraceback (most recent call last):\n\n  File \"/home/pi/moonraker-env/lib/python3.11/site-packages/tornado/web.py\", line 1848, in _execute\n    result = await result\n             ^^^^^^^^^^^^\n\n  File \"/home/pi/moonraker/moonraker/components/application.py\", line 1020, in post\n    raise tornado.web.HTTPError(\n\ntornado.web.HTTPError: HTTP 403: Forbidden (File is loaded, upload not permitted)\n"}}`
+[warning]	2025-09-26 13:56:55.660193[Thread 0x00000001f11b8800]:01:56:55 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-26 19:40:01.689832[Thread 0x00000001f11b8800]:07:40:01 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-26 19:40:01.690402[Thread 0x00000001f11b8800]:07:40:01 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-27 07:27:10.791619[Thread 0x00000001f11b8800]:07:27:10 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-27 09:01:18.467374[Thread 0x000000016bbbb000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2025-09-27 09:01:24.365376[Thread 0x000000016f137000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-27 09:01:24.389283[Thread 0x000000016f137000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-27 09:01:24.407056[Thread 0x000000016f137000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-27 09:02:15.829663[Thread 0x000000016f137000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-27 09:02:15.852019[Thread 0x000000016f137000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-27 09:02:15.869612[Thread 0x000000016f137000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-27 10:52:25.022628[Thread 0x00000001f11b8800]:10:52:25 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-27 10:52:25.261576[Thread 0x00000001f11b8800]:10:52:25 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-09-27 10:53:54.714122[Thread 0x00000001f11b8800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-27 10:54:51.117680[Thread 0x000000016f137000]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_BFI_Carrier_BHCS_M3_Symmetrical_x2_ABS_0.4_22m33s
+ ^
+[warning]	2025-09-27 12:50:17.682755[Thread 0x00000001f11b8800]:12:50:17 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-27 18:05:03.670526[Thread 0x00000001f11b8800]:06:05:03 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-27 18:05:03.901464[Thread 0x00000001f11b8800]:06:05:03 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-09-27 18:05:26.092989[Thread 0x00000001f11b8800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-28 07:40:13.152900[Thread 0x00000001f11b8800]:07:40:13 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-09-28 08:37:15.507818[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-28 08:37:31.083842[Thread 0x00000001f11b8800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-28 08:37:48.875339[Thread 0x00000001f11b8800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-28 08:38:10.411477[Thread 0x00000001f11b8800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-28 08:39:05.715868[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-28 08:40:21.959316[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-28 08:41:38.795120[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-28 08:42:29.808289[Thread 0x00000001f11b8800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-28 08:43:05.072024[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-28 08:44:04.707442[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-28 08:44:18.497152[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-28 08:44:19.450594[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-28 08:44:21.722396[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-28 08:44:22.538147[Thread 0x00000001f11b8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-30 07:43:50.016318[Thread 0x00000001f11b8800]:calc_exclude_triangles:Unable to create exclude triangles

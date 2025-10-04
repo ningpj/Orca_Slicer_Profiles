@@ -1,0 +1,38 @@
+[error]	2025-10-03 18:25:50.422769[Thread 0x0000000208504800]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-10-03 18:25:50.779465[Thread 0x000000016d0a3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-10-03 18:25:50.779497[Thread 0x000000016dcc7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-10-03 18:25:50.779648[Thread 0x000000016d0a3000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-10-03 18:25:50.779528[Thread 0x000000016d4af000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/#Voron 0.2/Modifications/Stealth Skirts/V0.2 Stealth Skirt Front Center BTT 4.3.3mf
+[error]	2025-10-03 18:25:50.779679[Thread 0x000000016dcc7000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/8d41cb1a-a841-4ff9-981d-5ce630965f44/v0.2-feet-accent-m-x2.3mf
+[error]	2025-10-03 18:25:50.779690[Thread 0x000000016d0a3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-10-03 18:25:50.779697[Thread 0x000000016d0a3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/fba4b0d9-ab59-4c51-b7ca-f48f852d9ad1/Back_Right_Foot-extend.3mf
+[error]	2025-10-03 18:25:50.779523[Thread 0x000000016e4df000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-10-03 18:25:50.779497[Thread 0x000000016d8bb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/1a65bfa7-0702-4f65-b260-653148effc83/Back_Right_Foot-extend.3mf
+[warning]	2025-10-03 18:25:51.733171[Thread 0x0000000208504800]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-03 18:25:52.777806[Thread 0x000000016c2db000]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Resolving timed out after 1004 milliseconds
+[Error 28]
+[error]	2025-10-03 18:25:56.800060[Thread 0x0000000208504800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-03 19:22:50.475465[Thread 0x0000000208504800]:07:22:50 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-03 19:22:50.475877[Thread 0x0000000208504800]:07:22:50 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-03 22:06:16.375001[Thread 0x0000000208504800]:10:06:16 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 07:16:02.529318[Thread 0x0000000208504800]:07:16:02 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 07:16:03.241526[Thread 0x0000000208504800]:07:16:03 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 07:32:46.852357[Thread 0x000000017a9db000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-04 09:46:54.284989[Thread 0x0000000208504800]:09:46:54 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 09:46:54.309285[Thread 0x0000000208504800]:09:46:54 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 10:24:04.817451[Thread 0x0000000208504800]:10:24:04 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 10:24:05.607461[Thread 0x0000000208504800]:10:24:05 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 11:16:48.766074[Thread 0x0000000208504800]:11:16:48 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 11:16:49.441334[Thread 0x0000000208504800]:11:16:49 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 12:37:04.661388[Thread 0x0000000208504800]:12:37:04 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 12:37:04.661615[Thread 0x0000000208504800]:12:37:04 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 13:10:30.497085[Thread 0x0000000208504800]:01:10:30 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 13:10:30.497362[Thread 0x0000000208504800]:01:10:30 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 13:59:54.982610[Thread 0x0000000208504800]:01:59:54 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 13:59:55.717562[Thread 0x0000000208504800]:01:59:55 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 15:11:53.848340[Thread 0x0000000208504800]:03:11:53 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-04 15:11:54.590095[Thread 0x0000000208504800]:03:11:54 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-10-04 15:26:26.617327[Thread 0x0000000208504800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-04 15:26:30.971888[Thread 0x0000000208504800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-04 15:26:38.536254[Thread 0x0000000208504800]:tree_sel_change_delayedcan not find page with current selection 

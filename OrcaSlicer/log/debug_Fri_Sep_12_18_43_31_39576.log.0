@@ -1,0 +1,53 @@
+[error]	2025-09-12 18:43:32.232418[Thread 0x00000001f83020c0]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-09-12 18:43:32.473879[Thread 0x00000001f83020c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-12 18:43:32.478118[Thread 0x0000000170c9f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/#Voron 0.2/Modifications/Stealth Skirts/V0.2 Stealth Skirt Front Center BTT 4.3.3mf
+[error]	2025-09-12 18:43:32.478181[Thread 0x00000001718c3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-09-12 18:43:32.478254[Thread 0x0000000171ccf000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/fba4b0d9-ab59-4c51-b7ca-f48f852d9ad1/Back_Right_Foot-extend.3mf
+[error]	2025-09-12 18:43:32.478259[Thread 0x0000000170893000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/1a65bfa7-0702-4f65-b260-653148effc83/Back_Right_Foot-extend.3mf
+[error]	2025-09-12 18:43:32.478263[Thread 0x00000001710ab000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/8d41cb1a-a841-4ff9-981d-5ce630965f44/v0.2-feet-accent-m-x2.3mf
+[error]	2025-09-12 18:43:32.478261[Thread 0x00000001718c3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-09-12 18:43:32.478270[Thread 0x0000000170893000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-09-12 18:43:32.478273[Thread 0x00000001718c3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-09-12 18:43:32.478422[Thread 0x00000001710ab000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[warning]	2025-09-12 18:43:33.332971[Thread 0x00000001f83020c0]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-09-12 18:44:04.304934[Thread 0x000000016fe4b000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2025-09-12 18:45:38.652113[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-12 18:45:38.664458[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-12 18:45:38.674966[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-12 18:45:38.699529[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-12 18:45:38.703923[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-12 18:45:38.733708[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-12 18:48:07.206486[Thread 0x000000016fe4b000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2025-09-12 18:48:53.383740[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-12 18:48:53.398894[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-12 18:48:53.411602[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-12 18:48:53.435399[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-12 18:48:53.443291[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-12 18:48:53.465330[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-09-12 18:49:05.588614[Thread 0x000000016ffef000]:OctoPrint: Error getting version: curl:Couldn't resolve host name:
+Could not resolve host: voron24.local
+[Error 6], HTTP 0, body: ``
+[warning]	2025-09-12 20:11:32.665254[Thread 0x00000001f83020c0]:08:11:32 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-12 20:11:33.171432[Thread 0x00000001f83020c0]:08:11:33 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-13 10:38:46.525719[Thread 0x00000001f83020c0]:10:38:46 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-13 10:38:47.099821[Thread 0x00000001f83020c0]:10:38:47 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-09-13 11:33:27.315990[Thread 0x00000001f83020c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-13 11:34:45.428419[Thread 0x000000016fe4b000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2025-09-13 11:36:31.196188[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-13 11:36:31.207038[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-13 11:36:31.218014[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-13 11:36:31.243889[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-13 11:36:54.778671[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-13 11:36:54.786234[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-14 16:34:27.371941[Thread 0x00000001f83020c0]:04:34:27 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-14 16:34:27.886099[Thread 0x00000001f83020c0]:04:34:27 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-15 07:06:10.659871[Thread 0x00000001f83020c0]:07:06:10 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-15 07:06:11.189358[Thread 0x00000001f83020c0]:07:06:11 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-15 17:35:42.457359[Thread 0x00000001f83020c0]:05:35:42 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-15 17:35:42.921975[Thread 0x00000001f83020c0]:05:35:42 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-15 17:41:02.404330[Thread 0x00000001f83020c0]:05:41:02 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-15 17:41:02.820164[Thread 0x00000001f83020c0]:05:41:02 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-15 18:50:06.877653[Thread 0x000000016fe4b000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2025-09-15 18:50:20.499360[Thread 0x000000044a6e3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-09-15 22:04:03.612349[Thread 0x00000001f83020c0]:10:04:03 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-09-15 22:04:04.113861[Thread 0x00000001f83020c0]:10:04:04 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
