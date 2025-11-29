@@ -1,0 +1,51 @@
+[error]	2025-10-18 14:11:35.006939[Thread 0x00000002049cc800]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-10-18 14:11:35.845501[Thread 0x00000002049cc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-18 14:11:35.851897[Thread 0x000000016e9b3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-10-18 14:11:35.852008[Thread 0x000000016edbf000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/1a65bfa7-0702-4f65-b260-653148effc83/Back_Right_Foot-extend.3mf
+[error]	2025-10-18 14:11:35.852039[Thread 0x000000016f1cb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-10-18 14:11:35.852108[Thread 0x00000001701fb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/fba4b0d9-ab59-4c51-b7ca-f48f852d9ad1/Back_Right_Foot-extend.3mf
+[error]	2025-10-18 14:11:35.852284[Thread 0x0000000170e1f000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-10-18 14:11:35.852297[Thread 0x0000000170e1f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/8d41cb1a-a841-4ff9-981d-5ce630965f44/v0.2-feet-accent-m-x2.3mf
+[error]	2025-10-18 14:11:35.852304[Thread 0x0000000170607000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/#Voron 0.2/Modifications/Stealth Skirts/V0.2 Stealth Skirt Front Center BTT 4.3.3mf
+[error]	2025-10-18 14:11:35.852483[Thread 0x0000000170607000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-10-18 14:11:35.852478[Thread 0x0000000170e1f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-10-18 14:11:37.227704[Thread 0x00000002049cc800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-18 14:11:37.243038[Thread 0x00000002049cc800]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-10-18 14:16:17.447509[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-18 14:16:17.509084[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-18 14:16:17.534836[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-18 14:16:17.593039[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-18 20:16:39.608683[Thread 0x00000002049cc800]:08:16:39 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-18 20:16:39.636636[Thread 0x00000002049cc800]:08:16:39 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-18 21:59:53.673694[Thread 0x00000002049cc800]:09:59:53 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-18 21:59:54.317202[Thread 0x00000002049cc800]:09:59:54 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-19 07:03:32.848565[Thread 0x00000002049cc800]:07:03:32 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-19 07:03:34.089258[Thread 0x00000002049cc800]:07:03:34 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-19 11:18:34.741960[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:18:34.809945[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:18:34.842737[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:18:34.914337[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:24:47.551564[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:24:47.606326[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:24:47.627034[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:24:47.672366[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:24:47.692553[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:25:10.320708[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:25:10.368998[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:25:10.389490[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:25:10.434587[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:25:10.454759[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:32:48.101876[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:32:48.151846[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:32:48.172243[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:32:48.218605[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 11:32:48.238806[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 12:29:39.706437[Thread 0x00000002049cc800]:12:29:39 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-19 12:29:40.000420[Thread 0x00000002049cc800]:12:29:40 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-10-19 12:30:08.088324[Thread 0x00000002049cc800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-19 18:14:17.464686[Thread 0x00000002049cc800]:06:14:17 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-19 18:14:17.464983[Thread 0x00000002049cc800]:06:14:17 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-19 18:14:18.799319[Thread 0x00000002049cc800]:06:14:18 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-19 18:37:34.342007[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 18:38:04.064777[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-19 18:38:04.064891[Thread 0x0000000178c17000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used

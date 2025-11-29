@@ -1,0 +1,19 @@
+[error]	2025-11-02 07:35:23.043980[Thread 0x00000001ee5c8800]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-11-02 07:35:23.376722[Thread 0x0000000170067000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-11-02 07:35:23.376772[Thread 0x00000001720c7000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-11-02 07:35:23.376777[Thread 0x0000000171097000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-11-02 07:35:23.376776[Thread 0x00000001714a3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-11-02 07:35:23.377942[Thread 0x00000001724d3000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-11-02 07:35:23.377948[Thread 0x00000001724d3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/8d41cb1a-a841-4ff9-981d-5ce630965f44/v0.2-feet-accent-m-x2.3mf
+[warning]	2025-11-02 07:35:24.382838[Thread 0x00000001ee5c8800]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-02 07:35:44.966836[Thread 0x00000001ee5c8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-02 07:35:48.867446[Thread 0x00000001ee5c8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-02 07:37:34.633006[Thread 0x00000001ee5c8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-02 07:37:49.139918[Thread 0x00000001ee5c8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-02 07:37:55.970553[Thread 0x00000001ee5c8800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-02 07:38:37.222529[Thread 0x00000001730bf000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-02 07:39:59.514411[Thread 0x00000001730bf000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-02 07:40:37.440582[Thread 0x00000001730bf000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-02 07:41:00.828308[Thread 0x00000001730bf000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-02 07:41:16.913104[Thread 0x00000001730bf000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-02 07:41:39.222328[Thread 0x00000001730bf000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used

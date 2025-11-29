@@ -1,16 +1,22 @@
 {
-    "compatible_printers": [
-        "Voron v02 0.4 nozzle",
-        "Voron v02 0.6 nozzle",
-        "Voron v02 45-degree 0.4 nozzle",
-        "Voron v24 0.4 nozzle",
-        "Voron v24 0.6 nozzle"
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
+    "compatible_printers": [],
+    "fan_cooling_layer_time": [
+        "12"
+    ],
+    "fan_max_speed": [
+        "30"
+    ],
+    "fan_min_speed": [
+        "10"
     ],
     "filament_flow_ratio": [
         "0.87"
     ],
     "filament_max_volumetric_speed": [
-        "12"
+        "5"
     ],
     "filament_settings_id": [
         "Wondershop ABS-GF - Default v1 @Voron v24 0.4 nozzle"
@@ -26,10 +32,19 @@
     "is_custom_defined": "0",
     "name": "Wondershop ABS-GF - Default v1 @Voron v24 0.4 nozzle",
     "nozzle_temperature": [
-        "270"
+        "260"
     ],
     "nozzle_temperature_initial_layer": [
-        "270"
+        "260"
+    ],
+    "nozzle_temperature_range_high": [
+        "280"
+    ],
+    "nozzle_temperature_range_low": [
+        "240"
+    ],
+    "slow_down_layer_time": [
+        "4"
     ],
     "version": "2.0.2.0"
 }

@@ -1,0 +1,11 @@
+{
+    "bed_custom_texture": "/Volumes/u01/My Files/3DPrinting/Superslicer/V0_bed_smooth_pei_45_degree.png",
+    "from": "User",
+    "inherits": "Voron v02 0.4 nozzle",
+    "is_custom_defined": "0",
+    "layer_change_gcode": ";AFTER_LAYER_CHANGE\n_MMU_UPDATE_HEIGHT\nSET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}",
+    "name": "Voron v02 45-degree 0.4 nozzle",
+    "preferred_orientation": "45",
+    "printer_settings_id": "Voron v02 45-degree 0.4 nozzle",
+    "version": "2.0.2.0"
+}

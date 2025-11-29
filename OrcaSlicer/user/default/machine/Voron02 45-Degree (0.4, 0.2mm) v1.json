@@ -41,7 +41,7 @@
         "30",
         "12"
     ],
-    "machine_start_gcode": "SET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nSET_PA NOZZLE=[nozzle_diameter] FILAMENT=[filament_type]\nPRINT_START EXTRUDER=[first_layer_temperature[initial_extruder]] BED=[first_layer_bed_temperature] CHAMBER=[chamber_temperature] FILAMENT=[filament_type] NOZZLE=[nozzle_diameter] TOOL=[initial_extruder] SIZE={first_layer_print_min[0]}_{first_layer_print_min[1]}_{first_layer_print_max[0]}_{first_layer_print_max[1]}",
+    "machine_start_gcode": "SET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nPRINT_START EXTRUDER=[first_layer_temperature[initial_extruder]] BED=[first_layer_bed_temperature] CHAMBER=[chamber_temperature] FILAMENT=[filament_type] PA=[pressure_advance[]] NOZZLE=[nozzle_diameter] TOOL=[initial_extruder] SIZE={first_layer_print_min[0]}_{first_layer_print_min[1]}_{first_layer_print_max[0]}_{first_layer_print_max[1]}",
     "name": "Voron02 45-Degree (0.4, 0.2mm) v1",
     "nozzle_type": "brass",
     "nozzle_volume": "20",

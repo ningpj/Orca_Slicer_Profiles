@@ -1,0 +1,47 @@
+[error]	2025-11-28 02:10:05.108920[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-11-28 02:10:05.467689[Thread 0x000000016ff73000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-11-28 02:10:05.467838[Thread 0x000000016ef43000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-11-28 02:10:05.468661[Thread 0x000000016f75b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-11-28 02:10:05.476502[Thread 0x000000016fb67000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-11-28 02:10:05.476505[Thread 0x000000016ff73000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[warning]	2025-11-28 02:10:06.505393[Thread 0x00000001f058a080]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-28 02:10:07.107826[Thread 0x000000016e587000]:Error getting: `check_new_version_sf`: HTTP 503, 
+[warning]	2025-11-28 02:10:15.218469[Thread 0x00000001f058a080]:validate_preset: preset_name Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-28 02:10:15.218480[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the printer preset not inherit from system
+[warning]	2025-11-28 02:10:15.218487[Thread 0x00000001f058a080]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-28 02:10:15.218488[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-11-28 02:10:15.218492[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-28 02:10:15.218493[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-11-28 02:10:15.218495[Thread 0x00000001f058a080]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-28 02:10:15.218496[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-11-28 02:10:15.218497[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-28 02:10:15.218498[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-11-28 02:10:15.218499[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-28 02:10:15.218500[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-11-28 02:10:15.218501[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-28 02:10:15.218502[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 6 preset not inherit from system
+[warning]	2025-11-28 02:10:15.218503[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-28 02:10:15.218504[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 7 preset not inherit from system
+[warning]	2025-11-28 02:10:15.218505[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-28 02:10:15.218505[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 8 preset not inherit from system
+[warning]	2025-11-28 02:10:15.218507[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-28 02:10:15.218507[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 9 preset not inherit from system
+[warning]	2025-11-28 02:10:15.218508[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-28 02:10:15.218509[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 10 preset not inherit from system
+[warning]	2025-11-28 02:10:15.218510[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-28 02:10:15.218511[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 11 preset not inherit from system
+[warning]	2025-11-28 02:10:15.218512[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-28 02:10:15.218547[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 12 preset not inherit from system
+[warning]	2025-11-28 02:10:15.218549[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found self defined presets, count 3
+[warning]	2025-11-28 02:10:21.672696[Thread 0x0000000177f0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-28 02:10:21.672878[Thread 0x0000000177f0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-28 02:10:21.672952[Thread 0x0000000177f0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-28 02:10:21.673022[Thread 0x0000000177f0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-28 02:10:21.673087[Thread 0x0000000177f0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-28 02:10:21.701456[Thread 0x0000000177f0f000]:gcode path conflicts found between Cube and Cube
+[warning]	2025-11-28 02:15:46.255475[Thread 0x0000000177f0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-28 02:15:46.255699[Thread 0x0000000177f0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-28 02:15:46.255821[Thread 0x0000000177f0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-28 02:15:46.255931[Thread 0x0000000177f0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-28 02:15:46.256036[Thread 0x0000000177f0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-28 02:15:46.260797[Thread 0x0000000177f0f000]:gcode path conflicts found between Cube and Cube

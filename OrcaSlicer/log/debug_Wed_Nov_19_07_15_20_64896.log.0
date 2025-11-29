@@ -1,0 +1,11 @@
+[error]	2025-11-19 07:15:21.305080[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-11-19 07:15:21.644992[Thread 0x0000000170807000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-11-19 07:15:21.645061[Thread 0x0000000172867000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-11-19 07:15:21.645050[Thread 0x000000017101f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-11-19 07:15:21.647067[Thread 0x0000000170c13000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-11-19 07:15:21.647072[Thread 0x0000000171c43000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[warning]	2025-11-19 07:15:22.509403[Thread 0x00000001f058a080]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-19 07:15:23.039182[Thread 0x000000017338f000]:Error getting: `check_new_version_sf`: HTTP 503, 
+[warning]	2025-11-19 07:16:22.311128[Thread 0x000000017370f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-19 07:21:03.064132[Thread 0x000000017370f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-19 07:21:23.293375[Thread 0x000000017370f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used

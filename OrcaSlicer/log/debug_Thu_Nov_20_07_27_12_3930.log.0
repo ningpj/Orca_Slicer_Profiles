@@ -1,0 +1,13 @@
+[error]	2025-11-20 07:27:13.125124[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-11-20 07:27:13.455982[Thread 0x000000016c3c7000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-11-20 07:27:13.455987[Thread 0x000000016c7d3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-11-20 07:27:13.456639[Thread 0x000000016d3f7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-11-20 07:27:13.456721[Thread 0x000000016d3f7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-11-20 07:27:13.456733[Thread 0x000000016d3f7000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[warning]	2025-11-20 07:27:16.589343[Thread 0x00000001f058a080]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-20 07:27:18.161940[Thread 0x0000000175867000]:Error getting: `check_new_version_sf`: HTTP 503, 
+[error]	2025-11-20 07:27:27.045416[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-20 07:27:31.994679[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-20 07:27:43.114027[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-20 07:27:44.086149[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-20 07:31:40.146078[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 

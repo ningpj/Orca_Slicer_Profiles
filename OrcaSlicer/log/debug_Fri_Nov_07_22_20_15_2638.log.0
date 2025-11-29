@@ -1,0 +1,135 @@
+[error]	2025-11-07 22:20:16.302309[Thread 0x000000020b5fc800]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-11-07 22:20:16.655122[Thread 0x000000016f34f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-11-07 22:20:16.655130[Thread 0x000000017078b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-11-07 22:20:16.655130[Thread 0x000000016f75b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-11-07 22:20:16.655356[Thread 0x000000020b5fc800]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-11-07 22:20:16.655669[Thread 0x000000017037f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-11-07 22:20:16.655685[Thread 0x0000000170fa3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[warning]	2025-11-07 22:20:17.605450[Thread 0x000000020b5fc800]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-11-07 22:20:40.359293[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-07 22:49:33.173184[Thread 0x000000020b5fc800]:10:49:33 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-07 22:49:33.295452[Thread 0x000000020b5fc800]:10:49:33 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-08 07:20:57.733456[Thread 0x000000020b5fc800]:07:20:57 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-08 07:20:57.840011[Thread 0x000000020b5fc800]:07:20:57 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-08 07:20:59.523841[Thread 0x000000020b5fc800]:07:20:59 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-08 07:20:59.524228[Thread 0x000000020b5fc800]:07:20:59 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-08 07:21:35.760924[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 07:30:26.519082[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 07:37:24.041688[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 07:45:38.202247[Thread 0x000000020b5fc800]:07:45:38 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-08 07:45:39.192609[Thread 0x000000020b5fc800]:07:45:39 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-08 07:45:39.193021[Thread 0x000000020b5fc800]:07:45:39 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-08 08:22:58.758862[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 08:26:10.588564[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 08:26:10.640042[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 08:43:22.865642[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 08:43:22.874630[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 08:48:51.622748[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 08:48:51.634850[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-08 09:49:38.515081[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 09:49:43.824032[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-08 09:50:02.219076[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-08 09:51:17.895333[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-08 09:51:28.867568[Thread 0x000000016e0ef000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[error]	2025-11-08 09:51:58.635314[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-08 09:52:00.326519[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 09:52:00.338126[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-08 09:59:04.921440[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 09:59:19.658964[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-08 09:59:24.991492[Thread 0x000000016e0ef000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[error]	2025-11-08 09:59:28.093993[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 09:59:44.099198[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 10:00:08.488263[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-08 10:00:19.975670[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:00:20.004309[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:00:20.015514[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-08 10:00:49.503403[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-08 10:01:28.978922[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:01:29.013577[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:01:29.026041[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:01:37.756764[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:01:37.790466[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:01:37.802910[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:03:00.904415[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:03:00.938550[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:03:00.951490[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:03:21.693559[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:03:21.726413[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:03:21.739324[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:04:09.802550[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:04:09.835691[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:04:09.848658[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:05:12.506969[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:05:12.537783[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:05:12.546741[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:05:43.100171[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:05:43.129270[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:05:43.138208[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:05:54.863595[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:05:54.894926[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:05:54.907652[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-08 10:06:09.557158[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 10:06:10.629548[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 10:07:14.712380[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 10:07:33.432209[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-08 10:07:40.167367[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:07:40.176423[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 10:07:40.258949[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-08 10:12:13.969081[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 10:12:16.797474[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 10:12:17.389266[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 10:12:17.636592[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 10:12:18.575766[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 10:12:18.868648[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 10:12:31.089216[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 10:12:35.887820[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 10:12:47.895249[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-08 10:12:52.052373[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 14:12:12.326046[Thread 0x000000020b5fc800]:02:12:12 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-08 14:12:12.326464[Thread 0x000000020b5fc800]:02:12:12 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-08 14:24:10.411063[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 14:24:25.283548[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 14:24:33.987487[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 14:24:40.053272[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 14:24:40.910792[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 14:25:05.142873[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 14:25:22.161275[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 14:28:20.949488[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 14:28:30.442912[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 14:28:34.099284[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 14:28:38.226616[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 14:28:41.500020[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 14:28:45.123070[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 14:28:52.012273[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 14:28:53.932759[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 14:29:07.187348[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-08 14:29:24.458576[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-08 16:58:09.363583[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 16:58:21.915682[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 16:58:33.645115[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-08 16:58:48.469102[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-08 16:58:53.102035[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 17:00:48.842127[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 17:00:58.789325[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 17:01:01.362617[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 17:01:02.673052[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 17:01:06.189524[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 17:01:14.514949[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 17:01:28.515391[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 17:01:29.837937[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-08 17:01:46.964327[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-08 17:02:02.237501[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 17:02:07.294039[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 17:02:15.568289[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-08 17:02:25.695018[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-08 17:03:17.513446[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 17:03:24.092743[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 17:03:30.683524[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-08 17:03:36.411187[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-08 17:05:10.680175[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-08 20:30:16.042072[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 20:30:17.401962[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 20:32:10.205234[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-08 20:32:14.288258[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-08 20:32:29.474251[Thread 0x0000000171927000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-08 22:51:11.557748[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 

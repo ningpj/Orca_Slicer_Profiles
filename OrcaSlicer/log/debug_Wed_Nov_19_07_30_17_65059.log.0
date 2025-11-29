@@ -1,0 +1,18 @@
+[error]	2025-11-19 07:30:18.388731[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-11-19 07:30:18.702991[Thread 0x000000016e7fb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-11-19 07:30:18.702997[Thread 0x000000016ec07000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-11-19 07:30:18.703049[Thread 0x000000016f82b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-11-19 07:30:18.703056[Thread 0x000000016f82b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-11-19 07:30:18.703061[Thread 0x000000016f82b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[warning]	2025-11-19 07:30:21.667283[Thread 0x00000001f058a080]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-19 07:30:22.386171[Thread 0x000000017331f000]:Error getting: `check_new_version_sf`: HTTP 503, 
+[warning]	2025-11-19 17:27:49.355101[Thread 0x00000001f058a080]:05:27:49 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-19 17:27:49.373909[Thread 0x00000001f058a080]:05:27:49 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-19 18:06:00.208335[Thread 0x00000001f058a080]:06:06:00 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-19 18:06:00.245876[Thread 0x00000001f058a080]:06:06:00 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-19 18:13:02.128016[Thread 0x00000001f058a080]:06:13:02 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-19 18:13:02.644690[Thread 0x00000001f058a080]:06:13:02 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-19 18:43:39.170304[Thread 0x00000001f058a080]:06:43:39 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-19 18:43:39.180966[Thread 0x00000001f058a080]:06:43:39 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-19 18:51:53.984149[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-19 18:52:01.468100[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 

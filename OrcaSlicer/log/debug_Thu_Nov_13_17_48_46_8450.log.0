@@ -1,0 +1,187 @@
+[error]	2025-11-13 17:48:47.261415[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-11-13 17:48:47.607991[Thread 0x000000017048f000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-11-13 17:48:47.608045[Thread 0x0000000171cd7000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-11-13 17:48:47.608062[Thread 0x00000001724ef000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-11-13 17:48:47.608664[Thread 0x000000017089b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-11-13 17:48:47.608700[Thread 0x00000001714bf000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[warning]	2025-11-13 17:48:48.811638[Thread 0x00000001f058a080]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-11-13 19:05:36.874475[Thread 0x00000001f058a080]:07:05:36 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-13 19:05:36.874676[Thread 0x00000001f058a080]:07:05:36 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-13 21:25:15.336134[Thread 0x00000001f058a080]:09:25:15 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-13 21:25:16.014881[Thread 0x00000001f058a080]:09:25:16 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-14 07:15:23.493943[Thread 0x00000001f058a080]:07:15:23 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-14 07:15:23.509332[Thread 0x00000001f058a080]:07:15:23 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-14 07:18:31.378061[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-14 07:18:33.033362[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-14 07:18:42.199678[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-14 07:19:03.833935[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-14 07:19:05.752125[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-14 07:19:09.450544[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-14 07:19:14.543489[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-14 07:19:18.515697[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-14 07:19:23.349888[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-14 07:19:36.296442[Thread 0x0000000171cd7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-11-14 07:19:36.296843[Thread 0x0000000171cd7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-11-14 07:19:36.378108[Thread 0x000000017048f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-11-14 07:19:36.471945[Thread 0x000000017089b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-11-14 07:19:36.474110[Thread 0x000000017089b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-11-14 07:19:36.546619[Thread 0x000000017089b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-11-14 07:19:36.547755[Thread 0x000000017089b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-11-14 07:19:36.806967[Thread 0x000000017048f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-11-14 07:19:36.922398[Thread 0x0000000171cd7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-11-14 07:19:37.154621[Thread 0x0000000173167000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-11-14 07:19:37.602988[Thread 0x00000001710b3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-11-14 07:19:37.649749[Thread 0x0000000173167000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-14 07:19:37.782019[Thread 0x0000000173167000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-14 07:19:37.913137[Thread 0x0000000173167000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-14 07:19:40.711699[Thread 0x00000001714bf000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-11-14 07:19:42.078305[Thread 0x0000000173167000]:gcode path conflicts found between Nevermore_Mini_Beta.step and filter-cassetee-hepa-bottom-load_jtk_v21.stl
+[warning]	2025-11-14 17:28:14.307689[Thread 0x00000001f058a080]:05:28:14 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-14 17:28:14.307903[Thread 0x00000001f058a080]:05:28:14 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-14 18:15:59.605671[Thread 0x00000001f058a080]:06:15:59 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-14 18:16:00.278258[Thread 0x00000001f058a080]:06:16:00 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-14 20:15:18.864424[Thread 0x00000001f058a080]:08:15:18 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-14 20:15:18.920553[Thread 0x00000001f058a080]:08:15:18 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-14 20:24:53.722028[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-14 20:25:01.658079[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-14 20:38:09.185054[Thread 0x00000001f058a080]:08:38:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-14 20:38:09.185246[Thread 0x00000001f058a080]:08:38:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-14 21:03:08.703613[Thread 0x00000001f058a080]:09:03:08 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-14 21:03:08.720083[Thread 0x00000001f058a080]:09:03:08 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-15 06:58:51.135837[Thread 0x00000001f058a080]:06:58:51 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-15 06:58:51.136351[Thread 0x00000001f058a080]:06:58:51 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-15 09:56:27.713342[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-15 12:16:42.870296[Thread 0x00000001f058a080]:12:16:42 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-15 12:16:43.794234[Thread 0x00000001f058a080]:12:16:43 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-15 14:18:08.352801[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 14:18:11.049844[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 14:18:15.924251[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-15 14:18:15.969514[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 14:18:17.715147[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 14:18:36.788598[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 14:18:38.676837[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 14:19:04.587972[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 14:20:32.080354[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 14:20:32.725223[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 14:20:33.354937[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 14:20:34.716331[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 14:20:40.773864[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-15 14:20:55.820770[Thread 0x000000016fa47000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2025-11-15 15:52:23.799103[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 15:52:24.770308[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 15:52:25.643488[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 15:52:33.407613[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-15 15:52:44.171475[Thread 0x000000016fa47000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2025-11-15 15:54:59.183485[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 15:55:00.396186[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 15:55:01.175830[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 15:55:04.853436[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-15 15:55:11.499019[Thread 0x000000016fa47000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2025-11-15 16:32:42.414843[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 16:32:50.968086[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 16:32:58.484196[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 16:32:59.715131[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 16:33:00.520759[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 16:33:16.133538[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-15 16:33:24.531060[Thread 0x000000016fa47000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2025-11-15 17:33:59.359609[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 17:34:03.159089[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 17:34:07.526611[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-15 17:34:08.049674[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-15 17:34:08.082992[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 17:34:08.920561[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-15 17:34:08.963811[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 17:34:32.404938[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 17:34:33.912339[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 17:34:34.954222[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 17:35:48.126677[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 17:35:51.184919[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 17:35:51.497119[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-15 17:35:52.214148[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-15 17:35:52.243989[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 17:36:54.414813[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 17:36:57.799855[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 18:18:23.614629[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 18:18:25.263980[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 18:18:26.058185[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-15 18:18:32.515288[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-15 18:18:39.109985[Thread 0x000000016fa47000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2025-11-16 11:10:53.356234[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-16 11:13:01.476354[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-16 14:53:51.896927[Thread 0x00000001f058a080]:02:53:51 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-16 14:53:51.897439[Thread 0x00000001f058a080]:02:53:51 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-17 07:11:34.595461[Thread 0x00000001f058a080]:07:11:34 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-17 07:11:34.617154[Thread 0x00000001f058a080]:07:11:34 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-17 17:54:09.667281[Thread 0x00000001f058a080]:05:54:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-17 17:54:09.692572[Thread 0x00000001f058a080]:05:54:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-17 18:11:21.225329[Thread 0x00000001f058a080]:06:11:21 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-17 18:11:21.243769[Thread 0x00000001f058a080]:06:11:21 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-17 18:52:23.919493[Thread 0x00000001f058a080]:06:52:23 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-17 18:52:25.134406[Thread 0x00000001f058a080]:06:52:25 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-17 20:05:19.217921[Thread 0x00000001f058a080]:08:05:19 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-17 20:05:19.218428[Thread 0x00000001f058a080]:08:05:19 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-17 21:14:13.787574[Thread 0x00000001f058a080]:09:14:13 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-17 21:14:13.810354[Thread 0x00000001f058a080]:09:14:13 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-17 22:04:46.676637[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-17 22:04:53.249254[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-17 22:04:54.503152[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-17 22:04:55.389246[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-17 22:05:06.313558[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-17 22:05:11.232439[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-17 22:05:16.801264[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-17 22:05:17.425358[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-17 22:05:29.982527[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-17 22:05:51.316063[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-17 22:05:54.286871[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-17 22:06:44.777097[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-18 07:07:21.547133[Thread 0x00000001f058a080]:07:07:21 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-18 07:07:21.549404[Thread 0x00000001f058a080]:07:07:21 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-18 17:55:41.324604[Thread 0x00000001f058a080]:05:55:41 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-18 17:55:41.350120[Thread 0x00000001f058a080]:05:55:41 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-18 18:58:12.833942[Thread 0x00000001f058a080]:06:58:12 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-18 18:58:12.834350[Thread 0x00000001f058a080]:06:58:12 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-18 19:13:08.325833[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-18 21:30:15.350564[Thread 0x00000001f058a080]:09:30:15 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-18 21:30:15.352766[Thread 0x00000001f058a080]:09:30:15 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-18 21:30:39.612182[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-18 21:30:39.780691[Thread 0x00000001f058a080]:validate_preset: preset_name Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-18 21:30:39.780705[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the printer preset not inherit from system
+[warning]	2025-11-18 21:30:39.780725[Thread 0x00000001f058a080]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-18 21:30:39.780727[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-11-18 21:30:39.780737[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-18 21:30:39.780738[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-11-18 21:30:39.780740[Thread 0x00000001f058a080]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-18 21:30:39.780741[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-11-18 21:30:39.780742[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-18 21:30:39.780743[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-11-18 21:30:39.780744[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-18 21:30:39.780745[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-11-18 21:30:39.780746[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-18 21:30:39.780747[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 6 preset not inherit from system
+[warning]	2025-11-18 21:30:39.780748[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-18 21:30:39.780749[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 7 preset not inherit from system
+[warning]	2025-11-18 21:30:39.780750[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-18 21:30:39.780751[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 8 preset not inherit from system
+[warning]	2025-11-18 21:30:39.780752[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-18 21:30:39.780753[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 9 preset not inherit from system
+[warning]	2025-11-18 21:30:39.780754[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-18 21:30:39.780755[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 10 preset not inherit from system
+[warning]	2025-11-18 21:30:39.780756[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-18 21:30:39.780757[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 11 preset not inherit from system
+[warning]	2025-11-18 21:30:39.780758[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-18 21:30:39.780784[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 12 preset not inherit from system
+[warning]	2025-11-18 21:30:39.780786[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found self defined presets, count 3
+[warning]	2025-11-18 21:30:46.263296[Thread 0x0000000173167000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-18 21:30:46.264201[Thread 0x0000000173167000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-18 21:30:46.264256[Thread 0x0000000173167000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-18 21:30:46.264309[Thread 0x0000000173167000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-18 21:30:46.264362[Thread 0x0000000173167000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-18 21:30:46.291701[Thread 0x0000000173167000]:gcode path conflicts found between Cube and Cube
+[error]	2025-11-18 21:31:43.526142[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-18 21:32:45.793325[Thread 0x0000000173167000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-18 21:32:45.793427[Thread 0x0000000173167000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-18 21:32:45.793496[Thread 0x0000000173167000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-18 21:32:45.793559[Thread 0x0000000173167000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-18 21:32:45.793621[Thread 0x0000000173167000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-18 21:32:45.825373[Thread 0x0000000173167000]:gcode path conflicts found between Cube and Cube
+[error]	2025-11-18 21:36:13.049862[Thread 0x0000000174e2b000]:Error getting: `check_new_version_sf`: HTTP 503, 

@@ -64,7 +64,7 @@
         "10"
     ],
     "fan_max_speed": [
-        "80"
+        "60"
     ],
     "fan_min_speed": [
         "10"
@@ -222,6 +222,9 @@
     ],
     "inherits": "Voron Generic ABS",
     "internal_bridge_fan_speed": [
+        "-1"
+    ],
+    "ironing_fan_speed": [
         "-1"
     ],
     "is_custom_defined": "0",

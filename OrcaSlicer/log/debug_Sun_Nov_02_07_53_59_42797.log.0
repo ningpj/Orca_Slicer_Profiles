@@ -1,0 +1,71 @@
+[error]	2025-11-02 07:53:59.711708[Thread 0x00000001ee5c8800]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-11-02 07:54:00.030789[Thread 0x000000016cda3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-11-02 07:54:00.030796[Thread 0x000000016c997000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-11-02 07:54:00.030809[Thread 0x000000016cda3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-11-02 07:54:00.030916[Thread 0x000000016ddd3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-11-02 07:54:00.030921[Thread 0x000000016d9c7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[warning]	2025-11-02 07:54:01.426570[Thread 0x00000001ee5c8800]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-11-02 09:35:04.768839[Thread 0x00000001ee5c8800]:09:35:04 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-02 09:35:04.771155[Thread 0x00000001ee5c8800]:09:35:04 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-02 10:03:51.707550[Thread 0x00000001ee5c8800]:10:03:51 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-02 10:03:51.710207[Thread 0x00000001ee5c8800]:10:03:51 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-02 11:12:39.516252[Thread 0x00000001ee5c8800]:11:12:39 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-02 11:12:40.528128[Thread 0x00000001ee5c8800]:11:12:40 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-02 12:43:38.771782[Thread 0x00000001ee5c8800]:12:43:38 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-02 12:43:38.772260[Thread 0x00000001ee5c8800]:12:43:38 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-02 12:44:47.928794[Thread 0x00000001ee5c8800]:validate_preset: preset_name Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-02 12:44:47.928955[Thread 0x00000001ee5c8800]:validate_presets:file_name mmu20_ctt_a.3mf, found the printer preset not inherit from system
+[warning]	2025-11-02 12:44:47.928975[Thread 0x00000001ee5c8800]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-02 12:44:47.928977[Thread 0x00000001ee5c8800]:validate_presets:file_name mmu20_ctt_a.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-11-02 12:44:47.928980[Thread 0x00000001ee5c8800]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-02 12:44:47.928981[Thread 0x00000001ee5c8800]:validate_presets:file_name mmu20_ctt_a.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-11-02 12:44:47.928985[Thread 0x00000001ee5c8800]:validate_preset: preset_name Orvil ABS+ - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-02 12:44:47.928987[Thread 0x00000001ee5c8800]:validate_presets:file_name mmu20_ctt_a.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-11-02 12:44:47.928988[Thread 0x00000001ee5c8800]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-02 12:44:47.928989[Thread 0x00000001ee5c8800]:validate_presets:file_name mmu20_ctt_a.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-11-02 12:44:47.928990[Thread 0x00000001ee5c8800]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-02 12:44:47.928991[Thread 0x00000001ee5c8800]:validate_presets:file_name mmu20_ctt_a.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-11-02 12:44:47.928993[Thread 0x00000001ee5c8800]:validate_preset: preset_name eSun ABS - Natural White v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-02 12:44:47.928993[Thread 0x00000001ee5c8800]:validate_presets:file_name mmu20_ctt_a.3mf, found the filament 6 preset not inherit from system
+[warning]	2025-11-02 12:44:47.928995[Thread 0x00000001ee5c8800]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-02 12:44:47.928996[Thread 0x00000001ee5c8800]:validate_presets:file_name mmu20_ctt_a.3mf, found the filament 7 preset not inherit from system
+[warning]	2025-11-02 12:44:47.928997[Thread 0x00000001ee5c8800]:validate_preset: preset_name eSun ABS - Pastels v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-02 12:44:47.928998[Thread 0x00000001ee5c8800]:validate_presets:file_name mmu20_ctt_a.3mf, found the filament 8 preset not inherit from system
+[warning]	2025-11-02 12:44:47.929003[Thread 0x00000001ee5c8800]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-02 12:44:47.929004[Thread 0x00000001ee5c8800]:validate_presets:file_name mmu20_ctt_a.3mf, found the filament 9 preset not inherit from system
+[warning]	2025-11-02 12:44:47.929005[Thread 0x00000001ee5c8800]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-02 12:44:47.929006[Thread 0x00000001ee5c8800]:validate_presets:file_name mmu20_ctt_a.3mf, found the filament 10 preset not inherit from system
+[warning]	2025-11-02 12:44:47.929007[Thread 0x00000001ee5c8800]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-02 12:44:47.929008[Thread 0x00000001ee5c8800]:validate_presets:file_name mmu20_ctt_a.3mf, found the filament 11 preset not inherit from system
+[warning]	2025-11-02 12:44:47.929009[Thread 0x00000001ee5c8800]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-02 12:44:47.929010[Thread 0x00000001ee5c8800]:validate_presets:file_name mmu20_ctt_a.3mf, found the filament 12 preset not inherit from system
+[warning]	2025-11-02 12:44:47.929035[Thread 0x00000001ee5c8800]:validate_presets:file_name mmu20_ctt_a.3mf, found self defined presets, count 6
+[warning]	2025-11-02 12:45:58.981077[Thread 0x0000000170453000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-02 12:46:25.844673[Thread 0x0000000170453000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-02 12:47:12.218524[Thread 0x00000001ee5c8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-02 12:47:20.298408[Thread 0x00000001ee5c8800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-02 12:47:40.160188[Thread 0x0000000170453000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-02 12:47:58.868379[Thread 0x00000001ee5c8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-02 12:48:00.299689[Thread 0x00000001ee5c8800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-02 12:48:11.657450[Thread 0x0000000170453000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-02 15:36:44.852940[Thread 0x00000001ee5c8800]:03:36:44 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-02 15:36:44.853317[Thread 0x00000001ee5c8800]:03:36:44 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-02 15:36:44.853508[Thread 0x00000001ee5c8800]:03:36:44 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-02 17:03:38.398672[Thread 0x00000001ee5c8800]:05:03:38 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-02 17:03:38.399015[Thread 0x00000001ee5c8800]:05:03:38 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-02 17:04:04.854056[Thread 0x00000001ee5c8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-02 17:04:08.989244[Thread 0x00000001ee5c8800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-02 17:04:15.649446[Thread 0x00000001ee5c8800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-02 17:04:24.289114[Thread 0x00000001ee5c8800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-02 17:40:43.021619[Thread 0x00000001ee5c8800]:05:40:43 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-02 17:40:43.109509[Thread 0x00000001ee5c8800]:05:40:43 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-02 17:40:43.348058[Thread 0x00000001ee5c8800]:05:40:43 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-02 21:24:30.896543[Thread 0x00000001ee5c8800]:09:24:30 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-02 21:24:30.898416[Thread 0x00000001ee5c8800]:09:24:30 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-03 07:10:55.066848[Thread 0x00000001ee5c8800]:07:10:55 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-03 07:10:55.917318[Thread 0x00000001ee5c8800]:07:10:55 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-03 17:41:28.529142[Thread 0x00000001ee5c8800]:05:41:28 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-03 17:41:29.405686[Thread 0x00000001ee5c8800]:05:41:29 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-03 18:23:17.688045[Thread 0x0000000170453000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-03 18:49:58.803565[Thread 0x00000001ee5c8800]:06:49:58 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-03 18:49:58.989176[Thread 0x00000001ee5c8800]:06:49:58 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')

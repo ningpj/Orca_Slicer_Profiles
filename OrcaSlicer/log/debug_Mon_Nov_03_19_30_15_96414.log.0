@@ -1,0 +1,20 @@
+[error]	2025-11-03 19:30:16.531574[Thread 0x00000001ee5c8800]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-11-03 19:30:16.881418[Thread 0x000000016ff9b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-11-03 19:30:16.881580[Thread 0x000000016ef6b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-11-03 19:30:16.881589[Thread 0x000000016ef6b000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-11-03 19:30:16.881697[Thread 0x000000016f377000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-11-03 19:30:16.881703[Thread 0x00000001703a7000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-11-03 19:30:16.882362[Thread 0x0000000170bbf000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[warning]	2025-11-03 19:30:17.947246[Thread 0x00000001ee5c8800]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-11-03 19:30:47.037947[Thread 0x00000001717ab000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-03 19:31:33.982092[Thread 0x00000001717ab000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-03 19:49:34.891100[Thread 0x00000001717ab000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-03 19:49:34.893554[Thread 0x00000001717ab000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-03 19:50:52.112991[Thread 0x00000001717ab000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-03 19:50:52.119784[Thread 0x00000001717ab000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-03 19:51:14.625636[Thread 0x00000001717ab000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-03 19:51:14.628785[Thread 0x00000001717ab000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-03 19:51:55.264203[Thread 0x00000001717ab000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-03 19:52:23.171546[Thread 0x00000001717ab000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-03 23:06:32.369102[Thread 0x00000001ee5c8800]:11:06:32 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-03 23:06:32.392558[Thread 0x00000001ee5c8800]:11:06:32 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')

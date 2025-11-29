@@ -1,0 +1,25 @@
+[error]	2025-11-09 15:07:01.857283[Thread 0x000000020b5fc800]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-11-09 15:07:02.217074[Thread 0x000000016e93f000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-11-09 15:07:02.217268[Thread 0x000000016e93f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-11-09 15:07:02.217904[Thread 0x000000020b5fc800]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-11-09 15:07:02.217912[Thread 0x000000020b5fc800]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-11-09 15:07:02.218113[Thread 0x000000016ed4b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-11-09 15:07:02.218115[Thread 0x000000020b5fc800]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[warning]	2025-11-09 15:07:03.374859[Thread 0x000000020b5fc800]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-11-09 15:09:26.502803[Thread 0x00000001720fb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-09 15:09:26.502920[Thread 0x00000001720fb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-09 15:09:26.502992[Thread 0x00000001720fb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-09 15:09:26.503060[Thread 0x00000001720fb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-09 15:09:26.503125[Thread 0x00000001720fb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-09 15:09:26.532002[Thread 0x00000001720fb000]:gcode path conflicts found between Cube and Cube
+[warning]	2025-11-09 15:10:07.249338[Thread 0x00000001720fb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-09 15:10:07.249480[Thread 0x00000001720fb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-09 15:10:07.249571[Thread 0x00000001720fb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-09 15:10:07.249658[Thread 0x00000001720fb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-09 15:10:07.249739[Thread 0x00000001720fb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-09 15:10:07.255362[Thread 0x00000001720fb000]:gcode path conflicts found between Cube and Cube
+[warning]	2025-11-09 15:24:54.650441[Thread 0x00000001720fb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-09 18:32:26.144914[Thread 0x000000020b5fc800]:06:32:26 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-09 18:32:26.145168[Thread 0x000000020b5fc800]:06:32:26 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-09 19:04:10.042062[Thread 0x000000020b5fc800]:07:04:10 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-09 19:04:10.763477[Thread 0x000000020b5fc800]:07:04:10 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')

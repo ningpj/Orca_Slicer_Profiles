@@ -1,6 +1,5 @@
 {
-    "accel_to_decel_enable": "1",
-    "accel_to_decel_factor": "50%",
+    "bridge_speed": "70",
     "from": "User",
     "inherits": "0.20mm 45-Degrees @Voron v24 0.4 nozzle",
     "initial_layer_acceleration": "2000",

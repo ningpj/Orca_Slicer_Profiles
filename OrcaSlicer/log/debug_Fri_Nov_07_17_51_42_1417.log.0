@@ -1,0 +1,81 @@
+[error]	2025-11-07 17:51:43.762916[Thread 0x000000020b5fc800]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-11-07 17:51:44.113816[Thread 0x000000020b5fc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-07 17:51:44.119764[Thread 0x000000016f99f000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-11-07 17:51:44.119774[Thread 0x00000001705c3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-11-07 17:51:44.119777[Thread 0x000000016f593000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-11-07 17:51:44.120229[Thread 0x00000001705c3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-11-07 17:51:44.120982[Thread 0x000000016fdab000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-11-07 17:51:44.120987[Thread 0x00000001701b7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-11-07 17:51:45.114260[Thread 0x000000020b5fc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-07 17:51:45.782321[Thread 0x000000020b5fc800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-07 17:51:45.794244[Thread 0x000000020b5fc800]:validate_preset: preset_name Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-07 17:51:45.794274[Thread 0x000000020b5fc800]:validate_presets:file_name 2020 Bracket - right.3mf, found the printer preset not inherit from system
+[warning]	2025-11-07 17:51:45.794286[Thread 0x000000020b5fc800]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-07 17:51:45.794288[Thread 0x000000020b5fc800]:validate_presets:file_name 2020 Bracket - right.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-11-07 17:51:45.794292[Thread 0x000000020b5fc800]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-07 17:51:45.794293[Thread 0x000000020b5fc800]:validate_presets:file_name 2020 Bracket - right.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-11-07 17:51:45.794295[Thread 0x000000020b5fc800]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-07 17:51:45.794296[Thread 0x000000020b5fc800]:validate_presets:file_name 2020 Bracket - right.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-11-07 17:51:45.794298[Thread 0x000000020b5fc800]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-07 17:51:45.794299[Thread 0x000000020b5fc800]:validate_presets:file_name 2020 Bracket - right.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-11-07 17:51:45.794300[Thread 0x000000020b5fc800]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-07 17:51:45.794301[Thread 0x000000020b5fc800]:validate_presets:file_name 2020 Bracket - right.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-11-07 17:51:45.794303[Thread 0x000000020b5fc800]:validate_preset: preset_name eSun ABS - Natural White v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-07 17:51:45.794304[Thread 0x000000020b5fc800]:validate_presets:file_name 2020 Bracket - right.3mf, found the filament 6 preset not inherit from system
+[warning]	2025-11-07 17:51:45.794306[Thread 0x000000020b5fc800]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-07 17:51:45.794307[Thread 0x000000020b5fc800]:validate_presets:file_name 2020 Bracket - right.3mf, found the filament 7 preset not inherit from system
+[warning]	2025-11-07 17:51:45.794311[Thread 0x000000020b5fc800]:validate_preset: preset_name Orvil ABS+ - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-07 17:51:45.794312[Thread 0x000000020b5fc800]:validate_presets:file_name 2020 Bracket - right.3mf, found the filament 8 preset not inherit from system
+[warning]	2025-11-07 17:51:45.794322[Thread 0x000000020b5fc800]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-07 17:51:45.794323[Thread 0x000000020b5fc800]:validate_presets:file_name 2020 Bracket - right.3mf, found the filament 9 preset not inherit from system
+[warning]	2025-11-07 17:51:45.794325[Thread 0x000000020b5fc800]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-07 17:51:45.794326[Thread 0x000000020b5fc800]:validate_presets:file_name 2020 Bracket - right.3mf, found the filament 10 preset not inherit from system
+[warning]	2025-11-07 17:51:45.794328[Thread 0x000000020b5fc800]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-07 17:51:45.794329[Thread 0x000000020b5fc800]:validate_presets:file_name 2020 Bracket - right.3mf, found the filament 11 preset not inherit from system
+[warning]	2025-11-07 17:51:45.794331[Thread 0x000000020b5fc800]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-07 17:51:45.794365[Thread 0x000000020b5fc800]:validate_presets:file_name 2020 Bracket - right.3mf, found the filament 12 preset not inherit from system
+[warning]	2025-11-07 17:51:45.794368[Thread 0x000000020b5fc800]:validate_presets:file_name 2020 Bracket - right.3mf, found self defined presets, count 5
+[warning]	2025-11-07 17:51:47.409816[Thread 0x000000020b5fc800]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-11-07 17:53:40.839673[Thread 0x000000016e73f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[error]	2025-11-07 17:54:30.039789[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 17:55:41.981575[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 17:55:48.656729[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 17:55:58.524083[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 17:56:20.721714[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 17:57:05.180281[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 17:57:19.435794[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 17:57:20.080262[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 17:58:12.244023[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-07 17:58:35.772799[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 17:58:37.895263[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 17:58:42.695121[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 17:58:45.332117[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-07 17:58:56.363301[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 17:59:14.990264[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-07 17:59:46.711748[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-07 17:59:55.755186[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 17:59:58.521052[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-07 18:00:04.432091[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 18:00:08.667946[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-07 18:00:20.262552[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-07 18:00:50.324506[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-07 18:01:11.420113[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-07 18:01:34.026051[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-07 18:02:04.395631[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-07 18:02:15.180030[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 18:02:21.167303[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-07 18:02:49.700987[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 18:02:59.726596[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-07 18:03:22.076823[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-07 18:03:35.226136[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 18:03:35.865524[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 18:03:50.151159[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-07 18:04:15.014273[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-07 18:04:36.142464[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-07 18:04:47.983498[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 18:05:03.603709[Thread 0x000000016e73f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2025-11-07 18:05:10.268487[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-07 18:05:10.273704[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-07 18:06:00.580291[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-07 18:06:00.587795[Thread 0x0000000175293000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-07 18:07:59.716862[Thread 0x000000020b5fc800]:tree_sel_change_delayedcan not find page with current selection 

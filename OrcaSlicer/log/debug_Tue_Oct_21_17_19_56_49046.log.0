@@ -1,0 +1,151 @@
+[error]	2025-10-21 17:19:57.324971[Thread 0x00000002049cc800]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-10-21 17:19:57.641678[Thread 0x00000002049cc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-21 17:19:57.645208[Thread 0x000000016c79f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-10-21 17:19:57.645304[Thread 0x000000016dbdb000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-10-21 17:19:57.645331[Thread 0x000000016c79f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-10-21 17:19:57.645357[Thread 0x000000016dfe7000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/8d41cb1a-a841-4ff9-981d-5ce630965f44/v0.2-feet-accent-m-x2.3mf
+[error]	2025-10-21 17:19:57.645365[Thread 0x000000016ec0b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/1a65bfa7-0702-4f65-b260-653148effc83/Back_Right_Foot-extend.3mf
+[error]	2025-10-21 17:19:57.645365[Thread 0x000000016e7ff000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/fba4b0d9-ab59-4c51-b7ca-f48f852d9ad1/Back_Right_Foot-extend.3mf
+[error]	2025-10-21 17:19:57.645492[Thread 0x000000016ec0b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-10-21 17:19:57.645379[Thread 0x000000016e3f3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-10-21 17:19:58.619609[Thread 0x00000002049cc800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-21 17:19:58.636617[Thread 0x00000002049cc800]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-21 17:21:25.627225[Thread 0x00000002049cc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-21 17:23:33.228993[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-21 17:45:33.526470[Thread 0x00000002049cc800]:05:45:33 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-21 17:45:33.526784[Thread 0x00000002049cc800]:05:45:33 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-10-21 17:45:55.943898[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-21 17:46:18.451187[Thread 0x0000000170eef000]:OctoPrint: Error uploading file: , HTTP 403, body: `{"error": {"code": 403, "message": "Forbidden", "traceback": "Traceback (most recent call last):\n\n  File \"/home/pi/moonraker/moonraker/components/file_manager/file_manager.py\", line 903, in _finish_gcode_upload\n    can_start = self._handle_operation_check(check_path)\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/pi/moonraker/moonraker/components/file_manager/file_manager.py\", line 563, in _handle_operation_check\n    raise self.server.error(\"File currently in use\", 403)\n\nmoonraker.utils.exceptions.ServerError: File currently in use\n\n\nDuring handling of the above exception, another exception occurred:\n\n\nTraceback (most recent call last):\n\n  File \"/home/pi/moonraker/moonraker/components/application.py\", line 1018, in post\n    result = await self.file_manager.finalize_upload(form_args)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/pi/moonraker/moonraker/components/file_manager/file_manager.py\", line 833, in finalize_upload\n    result = await self._finish_gcode_upload(upload_info)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/pi/moonraker/moonraker/components/file_manager/file_manager.py\", line 906, in _finish_gcode_upload\n    raise self.server.error(\n\nmoonraker.utils.exceptions.ServerError: File is loaded, upload not permitted\n\n\nDuring handling of the above exception, another exception occurred:\n\n\nTraceback (most recent call last):\n\n  File \"/home/pi/moonraker-env/lib/python3.11/site-packages/tornado/web.py\", line 1848, in _execute\n    result = await result\n             ^^^^^^^^^^^^\n\n  File \"/home/pi/moonraker/moonraker/components/application.py\", line 1020, in post\n    raise tornado.web.HTTPError(\n\ntornado.web.HTTPError: HTTP 403: Forbidden (File is loaded, upload not permitted)\n"}}`
+[error]	2025-10-21 17:47:05.488953[Thread 0x0000000170eef000]:OctoPrint: Error uploading file: , HTTP 403, body: `{"error": {"code": 403, "message": "Forbidden", "traceback": "Traceback (most recent call last):\n\n  File \"/home/pi/moonraker/moonraker/components/file_manager/file_manager.py\", line 903, in _finish_gcode_upload\n    can_start = self._handle_operation_check(check_path)\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/pi/moonraker/moonraker/components/file_manager/file_manager.py\", line 563, in _handle_operation_check\n    raise self.server.error(\"File currently in use\", 403)\n\nmoonraker.utils.exceptions.ServerError: File currently in use\n\n\nDuring handling of the above exception, another exception occurred:\n\n\nTraceback (most recent call last):\n\n  File \"/home/pi/moonraker/moonraker/components/application.py\", line 1018, in post\n    result = await self.file_manager.finalize_upload(form_args)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/pi/moonraker/moonraker/components/file_manager/file_manager.py\", line 833, in finalize_upload\n    result = await self._finish_gcode_upload(upload_info)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/pi/moonraker/moonraker/components/file_manager/file_manager.py\", line 906, in _finish_gcode_upload\n    raise self.server.error(\n\nmoonraker.utils.exceptions.ServerError: File is loaded, upload not permitted\n\n\nDuring handling of the above exception, another exception occurred:\n\n\nTraceback (most recent call last):\n\n  File \"/home/pi/moonraker-env/lib/python3.11/site-packages/tornado/web.py\", line 1848, in _execute\n    result = await result\n             ^^^^^^^^^^^^\n\n  File \"/home/pi/moonraker/moonraker/components/application.py\", line 1020, in post\n    raise tornado.web.HTTPError(\n\ntornado.web.HTTPError: HTTP 403: Forbidden (File is loaded, upload not permitted)\n"}}`
+[warning]	2025-10-21 17:48:01.148900[Thread 0x00000002049cc800]:05:48:01 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-21 17:48:01.149267[Thread 0x00000002049cc800]:05:48:01 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-21 17:48:01.149470[Thread 0x00000002049cc800]:05:48:01 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-21 17:57:57.992928[Thread 0x00000002049cc800]:05:57:57 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-21 17:57:57.993349[Thread 0x00000002049cc800]:05:57:57 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-10-21 17:58:31.043717[Thread 0x00000002049cc800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-21 18:53:29.700028[Thread 0x00000002049cc800]:06:53:29 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-21 18:53:29.720038[Thread 0x00000002049cc800]:06:53:29 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-21 18:53:29.720382[Thread 0x00000002049cc800]:06:53:29 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-21 19:10:15.164625[Thread 0x00000002049cc800]:07:10:15 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-21 19:10:15.164920[Thread 0x00000002049cc800]:07:10:15 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-10-21 19:59:21.937782[Thread 0x00000002049cc800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-21 21:23:05.096199[Thread 0x00000002049cc800]:09:23:05 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-21 21:23:05.096583[Thread 0x00000002049cc800]:09:23:05 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-21 21:23:06.649259[Thread 0x00000002049cc800]:09:23:06 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-22 07:08:52.444485[Thread 0x00000002049cc800]:07:08:52 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-22 07:08:52.444701[Thread 0x00000002049cc800]:07:08:52 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-22 17:29:09.418141[Thread 0x00000002049cc800]:05:29:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-22 17:29:09.583201[Thread 0x00000002049cc800]:05:29:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-23 07:22:43.506945[Thread 0x00000002049cc800]:07:22:43 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-23 07:22:44.308954[Thread 0x00000002049cc800]:07:22:44 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-23 17:53:56.938861[Thread 0x00000002049cc800]:05:53:56 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-23 17:53:56.939290[Thread 0x00000002049cc800]:05:53:56 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-23 20:10:16.574411[Thread 0x00000002049cc800]:08:10:16 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-23 20:10:17.324110[Thread 0x00000002049cc800]:08:10:17 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-23 20:35:51.700216[Thread 0x000000016dbdb000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 20:35:51.895388[Thread 0x000000016e3f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-10-23 20:39:26.936540[Thread 0x00000002049cc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-23 20:39:42.032367[Thread 0x00000002049cc800]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-23 20:39:56.342760[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-23 20:40:05.195867[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-23 20:40:13.324431[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-23 20:40:13.329442[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-23 20:40:17.803593[Thread 0x00000001790c3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 20:40:17.876391[Thread 0x000000016cbab000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 20:40:17.898641[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-23 20:40:18.565788[Thread 0x000000016cfb7000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-10-23 20:40:39.198157[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-23 20:41:01.633094[Thread 0x000000016cbab000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 20:41:01.670518[Thread 0x000000016cbab000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 20:41:01.706343[Thread 0x000000016e3f3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 20:41:01.730647[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-23 20:41:02.453162[Thread 0x000000016c79f000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-10-23 20:41:36.508020[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-23 20:41:38.001801[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-23 20:41:41.599521[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-23 20:41:47.824074[Thread 0x000000016cbab000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 20:41:47.881743[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-23 20:41:48.634807[Thread 0x000000016cfb7000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-10-23 20:41:56.383973[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-23 20:42:22.849432[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-23 20:42:35.223516[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-23 20:42:44.218401[Thread 0x00000001790c3000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-10-23 20:42:44.310278[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-23 20:42:45.032590[Thread 0x000000016cbab000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-10-24 07:12:40.734272[Thread 0x00000002049cc800]:07:12:40 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-24 07:12:40.735192[Thread 0x00000002049cc800]:07:12:40 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-24 17:51:17.311650[Thread 0x00000002049cc800]:05:51:17 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-24 17:51:17.312145[Thread 0x00000002049cc800]:05:51:17 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-24 18:15:25.377296[Thread 0x00000002049cc800]:06:15:25 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-24 18:15:25.377510[Thread 0x00000002049cc800]:06:15:25 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-10-24 18:39:30.833296[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-24 18:39:50.901695[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-10-24 18:40:32.180801[Thread 0x00000001790c3000]:Failed to apply the print statistics to the export file name: Parsing error at line 1. Expecting tag literal-char
+Hex A4T Cowling - Dragon_Rapido - G2-Orbiter spacing [xol-carriage] (1)_ABS_0.4_2h52m
+                                                         ^
+[error]	2025-10-24 22:30:24.158871[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-24 22:30:28.601530[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-24 22:30:48.529373[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-24 22:30:51.951867[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-24 22:30:52.762819[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-24 22:30:54.611626[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-24 22:31:22.050085[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-24 22:31:25.682400[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-24 22:32:29.356580[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-25 03:50:55.540339[Thread 0x00000002049cc800]:03:50:55 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 03:50:55.638463[Thread 0x00000002049cc800]:03:50:55 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 06:37:06.164217[Thread 0x00000002049cc800]:06:37:06 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 06:37:06.237728[Thread 0x00000002049cc800]:06:37:06 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 08:20:46.835092[Thread 0x00000002049cc800]:08:20:46 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 08:20:46.873589[Thread 0x00000002049cc800]:08:20:46 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-10-25 09:13:00.895460[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-25 09:13:45.300958[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-10-25 09:14:03.276953[Thread 0x00000002049cc800]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-10-25 09:14:29.915843[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-25 09:15:56.874716[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-25 09:16:18.972274[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-25 09:16:54.091771[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-25 09:26:57.656142[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-25 09:40:41.648562[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-25 10:00:35.403797[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-25 10:00:35.434474[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-25 11:10:16.130378[Thread 0x00000002049cc800]:11:10:16 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 11:10:16.130865[Thread 0x00000002049cc800]:11:10:16 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 12:09:22.820389[Thread 0x000000016c163000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2025-10-25 12:10:02.344967[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-25 12:10:02.367674[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-25 14:03:48.830231[Thread 0x00000002049cc800]:02:03:48 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 14:03:53.249387[Thread 0x00000002049cc800]:02:03:53 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 14:05:01.937336[Thread 0x000000016c163000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2025-10-25 14:05:24.868454[Thread 0x000000016c163000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2025-10-25 14:05:52.100450[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-25 14:05:52.123123[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-25 14:22:33.983816[Thread 0x00000002049cc800]:02:22:33 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 14:22:34.055236[Thread 0x00000002049cc800]:02:22:34 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 14:22:34.055763[Thread 0x00000002049cc800]:02:22:34 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 16:49:28.400235[Thread 0x00000002049cc800]:04:49:28 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 16:49:28.401774[Thread 0x00000002049cc800]:04:49:28 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-10-25 16:50:41.280338[Thread 0x00000002049cc800]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-25 16:50:41.282321[Thread 0x00000002049cc800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-25 16:51:07.468757[Thread 0x000000016c163000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2025-10-25 18:24:32.085002[Thread 0x00000002049cc800]:06:24:32 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 18:24:32.132478[Thread 0x00000002049cc800]:06:24:32 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 18:24:34.485842[Thread 0x00000002049cc800]:06:24:34 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 18:24:34.486176[Thread 0x00000002049cc800]:06:24:34 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 18:25:33.386082[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-25 18:25:33.394678[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-25 18:26:02.114231[Thread 0x00000002049cc800]:06:26:02 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 18:26:02.114750[Thread 0x00000002049cc800]:06:26:02 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 18:26:02.115078[Thread 0x00000002049cc800]:06:26:02 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 18:48:37.498596[Thread 0x00000002049cc800]:06:48:37 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 18:48:37.647221[Thread 0x00000002049cc800]:06:48:37 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 18:48:38.780546[Thread 0x00000002049cc800]:06:48:38 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 18:48:39.010980[Thread 0x00000002049cc800]:06:48:39 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 18:49:25.876480[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-25 18:49:25.886130[Thread 0x00000001790c3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-10-25 18:52:27.417485[Thread 0x00000002049cc800]:06:52:27 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 18:52:27.417962[Thread 0x00000002049cc800]:06:52:27 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 18:52:27.418291[Thread 0x00000002049cc800]:06:52:27 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 20:57:18.568964[Thread 0x00000002049cc800]:08:57:18 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-10-25 20:57:18.569235[Thread 0x00000002049cc800]:08:57:18 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-10-25 20:57:54.923196[Thread 0x00000002049cc800]:Failed to delete lockfile /Users/nigel/Library/Application Support/OrcaSlicer/cache/12239093808561760700.lock

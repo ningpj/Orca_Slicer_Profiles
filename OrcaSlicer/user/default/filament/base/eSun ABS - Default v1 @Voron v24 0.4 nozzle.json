@@ -79,7 +79,7 @@
         "0"
     ],
     "filament_cost": [
-        "0"
+        "29"
     ],
     "filament_density": [
         "1.06"
@@ -223,6 +223,9 @@
     ],
     "inherits": "",
     "internal_bridge_fan_speed": [
+        "-1"
+    ],
+    "ironing_fan_speed": [
         "-1"
     ],
     "is_custom_defined": "0",

@@ -1,0 +1,25 @@
+[error]	2025-11-04 20:53:42.383669[Thread 0x00000001ee5c8800]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-11-04 20:53:42.713994[Thread 0x000000016eb27000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/06405ef6-1dcd-40e0-9161-61153b9dfdab/[mc] Shroud_Body.3mf
+[error]	2025-11-04 20:53:42.714007[Thread 0x000000016d6eb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-11-04 20:53:42.714015[Thread 0x000000016e71b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-11-04 20:53:42.714169[Thread 0x000000016eb27000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[error]	2025-11-04 20:53:42.714184[Thread 0x000000016e71b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-11-04 20:53:42.714279[Thread 0x000000016eb27000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[warning]	2025-11-04 20:53:43.659598[Thread 0x00000001ee5c8800]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-11-05 07:05:33.080962[Thread 0x00000001ee5c8800]:07:05:33 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-05 07:05:33.819823[Thread 0x00000001ee5c8800]:07:05:33 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-05 07:43:52.234329[Thread 0x00000001ee5c8800]:07:43:52 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-05 07:43:52.234652[Thread 0x00000001ee5c8800]:07:43:52 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-05 17:23:38.947502[Thread 0x00000001ee5c8800]:05:23:38 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-05 17:23:39.696343[Thread 0x00000001ee5c8800]:05:23:39 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-05 17:26:20.178447[Thread 0x00000001ee5c8800]:05:26:20 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-05 17:26:20.823953[Thread 0x00000001ee5c8800]:05:26:20 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-05 18:56:46.521773[Thread 0x00000001ee5c8800]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-05 19:01:59.512770[Thread 0x000000016c07f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2025-11-06 16:36:04.544726[Thread 0x00000001ee5c8800]:04:36:04 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-06 16:36:04.545983[Thread 0x00000001ee5c8800]:04:36:04 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-06 20:45:20.784572[Thread 0x00000001ee5c8800]:08:45:20 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-06 20:45:20.785057[Thread 0x00000001ee5c8800]:08:45:20 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-07 07:15:16.177966[Thread 0x00000001ee5c8800]:07:15:16 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-07 07:15:16.906915[Thread 0x00000001ee5c8800]:07:15:16 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-07 08:16:10.699965[Thread 0x00000001ee5c8800]:calc_exclude_triangles:Unable to create exclude triangles

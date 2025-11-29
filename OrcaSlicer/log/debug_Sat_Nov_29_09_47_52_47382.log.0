@@ -1,0 +1,47 @@
+[error]	2025-11-29 09:47:53.031356[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-11-29 09:47:53.377843[Thread 0x000000017207b000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-11-29 09:47:53.378164[Thread 0x0000000170427000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-11-29 09:47:53.378765[Thread 0x00000001f058a080]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-11-29 09:47:53.421792[Thread 0x000000017104b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-11-29 09:47:53.421795[Thread 0x0000000171c6f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[warning]	2025-11-29 09:47:54.463512[Thread 0x00000001f058a080]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-29 09:47:54.896806[Thread 0x000000016ff8f000]:Error getting: `check_new_version_sf`: HTTP 503, 
+[error]	2025-11-29 09:49:42.547420[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-29 09:49:46.287972[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-29 09:50:22.679301[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-29 09:50:23.576495[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-29 09:50:37.198998[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-29 09:50:45.536436[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-29 09:50:54.213685[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-29 09:51:15.633356[Thread 0x000000017644f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 09:51:15.645576[Thread 0x000000017644f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-29 11:42:43.140541[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-29 11:42:44.147727[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-29 11:42:44.844342[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-29 11:42:46.062404[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-29 11:42:58.415461[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-29 11:43:07.517157[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-29 11:43:45.900837[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-29 11:43:57.124099[Thread 0x000000017644f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 12:27:26.083799[Thread 0x00000001f058a080]:validate_preset: preset_name Siraya Tech PET-GF FDE Earth @Bambu Lab X1 Carbon 0.4 nozzle, inherit_name Siraya Tech PET-CF PET-GF FDE Earth @Bambu Lab X1 Carbon 0.4 nozzle, can not found preset and inherit in list
+[warning]	2025-11-29 12:27:26.083816[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech PET-GF X1C 20250723.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-11-29 12:27:26.083820[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech PET-GF X1C 20250723.3mf, found self defined presets, count 1
+[error]	2025-11-29 12:32:10.095771[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-29 12:32:49.068339[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-29 12:34:43.914910[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-29 12:34:43.999862[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-29 12:34:44.009624[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Sat_Nov_29/12_34_43#47382#478/_temp_2.config!
+[warning]	2025-11-29 12:34:45.861225[Thread 0x00000001f058a080]:validate_preset: preset_name Siraya Tech PET-CF Black @Bambu Lab X1 Carbon 0.4 nozzle, inherit_name Siraya Tech PET-CF Black @Bambu Lab X1 Carbon 0.4 nozzle(ST PET-CF X1C.3mf)(Siraya Tech PET-CF X1C.3mf), can not found preset and inherit in list
+[warning]	2025-11-29 12:34:45.861242[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech PET-CF X1C 20250722.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-11-29 12:34:45.861247[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech PET-CF X1C 20250722.3mf, found self defined presets, count 1
+[warning]	2025-11-29 12:38:23.464675[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Sat_Nov_29/12_38_23#47382#531/_temp_2.config!
+[warning]	2025-11-29 12:38:32.562008[Thread 0x00000001f058a080]:validate_preset: preset_name Siraya Tech ASA ASA-GF @Bambu Lab X1 Carbon 0.4 nozzle, inherit_name Siraya Tech ASA ASA-GF @Bambu Lab X1 Carbon 0.4 nozzle(Siraya Tech ASA-GF X1C.3mf), can not found preset and inherit in list
+[warning]	2025-11-29 12:38:32.562036[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech ASA-GF X1C 20250722.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-11-29 12:38:32.562044[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech ASA-GF X1C 20250722.3mf, found self defined presets, count 1
+[error]	2025-11-29 12:41:16.893120[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-29 12:41:58.496617[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-29 12:41:58.595706[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-29 12:41:58.604685[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Sat_Nov_29/12_41_58#47382#571/_temp_2.config!
+[warning]	2025-11-29 12:41:59.695226[Thread 0x00000001f058a080]:validate_preset: preset_name Siraya Tech ASA ASA-GF @Bambu Lab X1 Carbon 0.4 nozzle, inherit_name Siraya Tech ASA ASA-GF @Bambu Lab X1 Carbon 0.4 nozzle(Siraya Tech ASA-GF X1C.3mf), can not found preset and inherit in list
+[warning]	2025-11-29 12:41:59.695262[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech ASA-GF X1C 20250722.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-11-29 12:41:59.695270[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech ASA-GF X1C 20250722.3mf, found self defined presets, count 1
