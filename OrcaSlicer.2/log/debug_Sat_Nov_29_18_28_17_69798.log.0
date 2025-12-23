@@ -1,0 +1,113 @@
+[error]	2025-11-29 18:28:17.812667[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-11-29 18:28:18.131195[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-29 18:28:18.134626[Thread 0x0000000170a17000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-11-29 18:28:18.134964[Thread 0x0000000170e23000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-11-29 18:28:19.042096[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-29 18:28:19.056586[Thread 0x00000001f058a080]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-29 18:28:19.518992[Thread 0x0000000171427000]:Error getting: `check_new_version_sf`: HTTP 503, 
+[error]	2025-11-29 18:30:12.925668[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-29 18:30:13.009770[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-29 18:30:13.018997[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Sat_Nov_29/18_30_12#69798#42/_temp_2.config!
+[warning]	2025-11-29 18:30:16.156499[Thread 0x00000001f058a080]:validate_preset: preset_name Siraya Tech ASA ASA-GF @Bambu Lab X1 Carbon 0.4 nozzle, inherit_name Siraya Tech ASA ASA-GF @Bambu Lab X1 Carbon 0.4 nozzle(Siraya Tech ASA-GF X1C.3mf), can not found preset and inherit in list
+[warning]	2025-11-29 18:30:16.156515[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech ASA-GF X1C 20250722.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-11-29 18:30:16.156519[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech ASA-GF X1C 20250722.3mf, found self defined presets, count 1
+[error]	2025-11-29 18:33:31.561581[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-29 18:57:36.578937[Thread 0x00000001f058a080]:06:57:36 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-29 18:57:36.879541[Thread 0x00000001f058a080]:06:57:36 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-29 18:59:07.693913[Thread 0x000000017114f000]:OctoPrint: Error uploading file: , HTTP 403, body: `{"error": {"code": 403, "message": "Forbidden", "traceback": "Traceback (most recent call last):\n\n  File \"/home/pi/moonraker/moonraker/components/file_manager/file_manager.py\", line 903, in _finish_gcode_upload\n    can_start = self._handle_operation_check(check_path)\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/pi/moonraker/moonraker/components/file_manager/file_manager.py\", line 563, in _handle_operation_check\n    raise self.server.error(\"File currently in use\", 403)\n\nmoonraker.utils.exceptions.ServerError: File currently in use\n\n\nDuring handling of the above exception, another exception occurred:\n\n\nTraceback (most recent call last):\n\n  File \"/home/pi/moonraker/moonraker/components/application.py\", line 1018, in post\n    result = await self.file_manager.finalize_upload(form_args)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/pi/moonraker/moonraker/components/file_manager/file_manager.py\", line 833, in finalize_upload\n    result = await self._finish_gcode_upload(upload_info)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n  File \"/home/pi/moonraker/moonraker/components/file_manager/file_manager.py\", line 906, in _finish_gcode_upload\n    raise self.server.error(\n\nmoonraker.utils.exceptions.ServerError: File is loaded, upload not permitted\n\n\nDuring handling of the above exception, another exception occurred:\n\n\nTraceback (most recent call last):\n\n  File \"/home/pi/moonraker-env/lib/python3.11/site-packages/tornado/web.py\", line 1848, in _execute\n    result = await result\n             ^^^^^^^^^^^^\n\n  File \"/home/pi/moonraker/moonraker/components/application.py\", line 1020, in post\n    raise tornado.web.HTTPError(\n\ntornado.web.HTTPError: HTTP 403: Forbidden (File is loaded, upload not permitted)\n"}}`
+[error]	2025-11-29 19:06:40.552578[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-29 19:06:40.639470[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-29 19:06:40.649382[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Sat_Nov_29/19_06_40#69798#153/_temp_2.config!
+[warning]	2025-11-29 19:06:40.657151[Thread 0x00000001f058a080]:validate_preset: preset_name Voron v02 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-29 19:06:40.657164[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech ASA-GF X1C 20250722.3mf, found the printer preset not inherit from system
+[warning]	2025-11-29 19:06:40.657170[Thread 0x00000001f058a080]:validate_preset: preset_name Siraya Tech ASA-GF v1, no inherit, set to not found
+[warning]	2025-11-29 19:06:40.657171[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech ASA-GF X1C 20250722.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-11-29 19:06:40.657175[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech ASA-GF X1C 20250722.3mf, found self defined presets, count 2
+[error]	2025-11-29 19:07:17.006352[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-29 19:07:21.280045[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-29 19:07:21.373437[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-29 19:07:21.383646[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Sat_Nov_29/19_07_21#69798#196/_temp_2.config!
+[warning]	2025-11-29 19:07:21.391388[Thread 0x00000001f058a080]:validate_preset: preset_name Voron v02 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-29 19:07:21.391401[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech ASA-GF X1C 20250722.3mf, found the printer preset not inherit from system
+[warning]	2025-11-29 19:07:21.391407[Thread 0x00000001f058a080]:validate_preset: preset_name Siraya Tech ASA-GF v1, no inherit, set to not found
+[warning]	2025-11-29 19:07:21.391409[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech ASA-GF X1C 20250722.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-11-29 19:07:21.391412[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech ASA-GF X1C 20250722.3mf, found self defined presets, count 2
+[error]	2025-11-29 19:07:52.170481[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-29 19:07:52.264963[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-29 19:07:52.274626[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Sat_Nov_29/19_07_52#69798#233/_temp_2.config!
+[warning]	2025-11-29 19:07:54.306938[Thread 0x00000001f058a080]:validate_preset: preset_name Siraya Tech ASA ASA-GF @Bambu Lab X1 Carbon 0.4 nozzle, inherit_name Siraya Tech ASA ASA-GF @Bambu Lab X1 Carbon 0.4 nozzle(Siraya Tech ASA-GF X1C.3mf), can not found preset and inherit in list
+[warning]	2025-11-29 19:07:54.306957[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech ASA-GF X1C 20250722.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-11-29 19:07:54.306963[Thread 0x00000001f058a080]:validate_presets:file_name Siraya Tech ASA-GF X1C 20250722.3mf, found self defined presets, count 1
+[error]	2025-11-29 19:09:00.808271[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-29 20:08:06.514704[Thread 0x00000001f058a080]:08:08:06 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-29 20:08:07.244771[Thread 0x00000001f058a080]:08:08:07 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-29 20:08:07.279059[Thread 0x00000001f058a080]:08:08:07 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-29 20:10:41.814214[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-29 20:50:25.224960[Thread 0x00000001f058a080]:08:50:25 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-29 20:50:25.225314[Thread 0x00000001f058a080]:08:50:25 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-29 20:52:52.887939[Thread 0x000000016df6f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2025-11-29 20:52:52.900423[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-29 21:09:11.307832[Thread 0x00000001f058a080]:09:09:11 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-29 21:09:11.308050[Thread 0x00000001f058a080]:09:09:11 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-29 21:09:11.308232[Thread 0x00000001f058a080]:09:09:11 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-29 21:30:44.332646[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-29 21:30:44.462291[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-29 21:30:44.480288[Thread 0x00000001f058a080]:validate_preset: preset_name Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-29 21:30:44.480301[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the printer preset not inherit from system
+[warning]	2025-11-29 21:30:44.480326[Thread 0x00000001f058a080]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-29 21:30:44.480328[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-11-29 21:30:44.480350[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-29 21:30:44.480351[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-11-29 21:30:44.480353[Thread 0x00000001f058a080]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-29 21:30:44.480354[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-11-29 21:30:44.480355[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-29 21:30:44.480356[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-11-29 21:30:44.480357[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-29 21:30:44.480358[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-11-29 21:30:44.480359[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-29 21:30:44.480360[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 6 preset not inherit from system
+[warning]	2025-11-29 21:30:44.480361[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-29 21:30:44.480362[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 7 preset not inherit from system
+[warning]	2025-11-29 21:30:44.480363[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-29 21:30:44.480364[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 8 preset not inherit from system
+[warning]	2025-11-29 21:30:44.480365[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-29 21:30:44.480365[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 9 preset not inherit from system
+[warning]	2025-11-29 21:30:44.480366[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-29 21:30:44.480367[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 10 preset not inherit from system
+[warning]	2025-11-29 21:30:44.480368[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-29 21:30:44.480369[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 11 preset not inherit from system
+[warning]	2025-11-29 21:30:44.480370[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-29 21:30:44.480408[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found the filament 12 preset not inherit from system
+[warning]	2025-11-29 21:30:44.480410[Thread 0x00000001f058a080]:validate_presets:file_name Colour chunks.3mf, found self defined presets, count 3
+[error]	2025-11-29 21:30:55.495302[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-29 21:31:28.060069[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 21:31:28.060200[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 21:31:28.060276[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 21:31:28.060351[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 21:31:28.060422[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-29 21:31:28.098655[Thread 0x00000001717a7000]:gcode path conflicts found between Cube and Cube
+[warning]	2025-11-29 21:32:07.586178[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 21:32:07.586423[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 21:32:07.586589[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 21:32:07.586744[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 21:32:07.586892[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-29 21:32:07.607908[Thread 0x00000001717a7000]:gcode path conflicts found between Cube and Cube
+[warning]	2025-11-29 21:33:58.117448[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 21:33:58.117602[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 21:33:58.117704[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 21:33:58.117800[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 21:33:58.117890[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-29 21:33:58.135623[Thread 0x00000001717a7000]:gcode path conflicts found between Cube and Cube
+[warning]	2025-11-29 21:34:42.983949[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 21:34:42.984124[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 21:34:42.984233[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 21:34:42.984334[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-29 21:34:42.984429[Thread 0x00000001717a7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-11-29 21:34:43.002055[Thread 0x00000001717a7000]:gcode path conflicts found between Cube and Cube
+[error]	2025-11-29 21:36:24.666018[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-29 21:51:29.119778[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-30 06:26:41.462642[Thread 0x00000001f058a080]:06:26:41 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-30 06:26:42.291188[Thread 0x00000001f058a080]:06:26:42 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-30 07:04:53.924645[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-30 07:11:16.092392[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-30 07:11:34.587990[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles

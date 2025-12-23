@@ -111,3 +111,13 @@
 [error]	2025-11-30 07:04:53.924645[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-11-30 07:11:16.092392[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
 [error]	2025-11-30 07:11:34.587990[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-30 12:43:28.182284[Thread 0x00000001f058a080]:12:43:28 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-30 12:43:28.183619[Thread 0x00000001f058a080]:12:43:28 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-30 16:05:09.638329[Thread 0x00000001f058a080]:04:05:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-30 16:05:09.672490[Thread 0x00000001f058a080]:04:05:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-30 17:11:36.469858[Thread 0x00000001f058a080]:05:11:36 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-30 17:11:37.543445[Thread 0x00000001f058a080]:05:11:37 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-30 18:00:13.429625[Thread 0x00000001f058a080]:06:00:13 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-30 18:00:14.134219[Thread 0x00000001f058a080]:06:00:14 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-30 19:10:14.509039[Thread 0x00000001f058a080]:07:10:14 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-30 19:10:15.742481[Thread 0x00000001f058a080]:07:10:15 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')

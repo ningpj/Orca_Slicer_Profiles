@@ -1,0 +1,130 @@
+[error]	2025-12-05 20:47:27.648923[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-12-05 20:47:28.038558[Thread 0x0000000170eff000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-12-05 20:47:28.039307[Thread 0x00000001f058a080]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[warning]	2025-12-05 20:47:29.149454[Thread 0x00000001f058a080]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-05 20:47:29.863107[Thread 0x000000016f91f000]:Error getting: `check_new_version_sf`: HTTP 503, 
+[warning]	2025-12-06 06:34:13.143211[Thread 0x00000001f058a080]:06:34:13 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-06 06:34:13.144627[Thread 0x00000001f058a080]:06:34:13 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-06 11:36:32.598845[Thread 0x00000001f058a080]:11:36:32 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-06 11:36:32.600097[Thread 0x00000001f058a080]:11:36:32 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-06 14:06:55.636617[Thread 0x0000000172e0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-06 14:06:55.649413[Thread 0x0000000172e0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-06 14:06:55.667802[Thread 0x0000000172e0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-06 17:46:34.563249[Thread 0x00000001f058a080]:05:46:34 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-06 17:46:34.563717[Thread 0x00000001f058a080]:05:46:34 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-06 19:15:30.875258[Thread 0x00000001f058a080]:07:15:30 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-06 19:15:30.875710[Thread 0x00000001f058a080]:07:15:30 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-06 19:22:48.258599[Thread 0x00000001f058a080]:07:22:48 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-06 19:22:48.285393[Thread 0x00000001f058a080]:07:22:48 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-07 08:03:07.196477[Thread 0x00000001f058a080]:08:03:07 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-07 08:03:07.223428[Thread 0x00000001f058a080]:08:03:07 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-07 11:41:41.362912[Thread 0x0000000172e0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-07 11:41:41.382823[Thread 0x0000000172e0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-07 12:59:48.074129[Thread 0x0000000172e0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-07 12:59:48.087246[Thread 0x0000000172e0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-07 14:32:56.278115[Thread 0x0000000172e0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-07 14:33:53.153270[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-07 14:34:14.170719[Thread 0x0000000172e0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-07 14:39:38.895208[Thread 0x0000000172e0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-07 17:54:35.219116[Thread 0x00000001f058a080]:05:54:35 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-07 17:54:35.244250[Thread 0x00000001f058a080]:05:54:35 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-07 19:52:12.166167[Thread 0x00000001f058a080]:07:52:12 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-07 19:52:12.190348[Thread 0x00000001f058a080]:07:52:12 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-07 19:53:22.686820[Thread 0x00000001f058a080]:validate_preset: preset_name Bambu Lab P2S 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-07 19:53:22.687026[Thread 0x00000001f058a080]:validate_presets:file_name SnowmanSplit_Print_SQ_Object-3h-1_plate.3mf, found the printer preset not inherit from system
+[warning]	2025-12-07 19:53:22.687045[Thread 0x00000001f058a080]:validate_preset: preset_name Bambu PLA Matte @BBL P2S, no inherit, set to not found
+[warning]	2025-12-07 19:53:22.687046[Thread 0x00000001f058a080]:validate_presets:file_name SnowmanSplit_Print_SQ_Object-3h-1_plate.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-12-07 19:53:22.687049[Thread 0x00000001f058a080]:validate_preset: preset_name Bambu PLA Matte @BBL P2S, no inherit, set to not found
+[warning]	2025-12-07 19:53:22.687050[Thread 0x00000001f058a080]:validate_presets:file_name SnowmanSplit_Print_SQ_Object-3h-1_plate.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-12-07 19:53:22.687052[Thread 0x00000001f058a080]:validate_preset: preset_name Bambu PLA Matte @BBL P2S, no inherit, set to not found
+[warning]	2025-12-07 19:53:22.687052[Thread 0x00000001f058a080]:validate_presets:file_name SnowmanSplit_Print_SQ_Object-3h-1_plate.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-12-07 19:53:22.687054[Thread 0x00000001f058a080]:validate_preset: preset_name Bambu PLA Matte @BBL P2S, no inherit, set to not found
+[warning]	2025-12-07 19:53:22.687054[Thread 0x00000001f058a080]:validate_presets:file_name SnowmanSplit_Print_SQ_Object-3h-1_plate.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-12-07 19:53:22.687055[Thread 0x00000001f058a080]:validate_presets:file_name SnowmanSplit_Print_SQ_Object-3h-1_plate.3mf, found self defined presets, count 2
+[error]	2025-12-07 19:53:24.232852[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-07 19:53:24.632187[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-07 19:53:45.208822[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-07 19:55:58.572781[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-08 07:22:42.717407[Thread 0x00000001f058a080]:07:22:42 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-08 07:22:42.723758[Thread 0x00000001f058a080]:07:22:42 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-08 17:44:15.009599[Thread 0x00000001f058a080]:05:44:15 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-08 17:44:15.010656[Thread 0x00000001f058a080]:05:44:15 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-12-08 17:57:23.909897[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-08 17:57:27.704969[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-08 17:57:31.803720[Thread 0x0000000172e0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-08 18:01:22.978015[Thread 0x000000016f893000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2025-12-08 18:01:28.135998[Thread 0x0000000172e0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-08 18:01:28.169584[Thread 0x0000000172e0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-08 18:01:28.203859[Thread 0x0000000172e0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-08 18:01:28.217168[Thread 0x0000000172e0f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-09 07:13:37.440620[Thread 0x00000001f058a080]:07:13:37 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-09 07:13:37.441787[Thread 0x00000001f058a080]:07:13:37 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-09 18:11:12.047815[Thread 0x00000001f058a080]:06:11:12 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-09 18:11:12.049251[Thread 0x00000001f058a080]:06:11:12 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-10 06:10:29.734707[Thread 0x00000001f058a080]:06:10:29 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-10 06:10:29.771787[Thread 0x00000001f058a080]:06:10:29 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-10 07:25:20.567368[Thread 0x00000001f058a080]:07:25:20 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-10 07:25:20.600600[Thread 0x00000001f058a080]:07:25:20 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-10 17:36:16.044424[Thread 0x00000001f058a080]:05:36:16 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-10 17:36:16.044802[Thread 0x00000001f058a080]:05:36:16 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-13 07:58:54.704617[Thread 0x00000001f058a080]:07:58:54 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-13 07:58:54.705944[Thread 0x00000001f058a080]:07:58:54 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-13 17:23:09.103539[Thread 0x00000001f058a080]:05:23:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-13 17:23:09.134094[Thread 0x00000001f058a080]:05:23:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-13 23:34:10.730393[Thread 0x00000001f058a080]:11:34:10 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-13 23:34:10.881127[Thread 0x00000001f058a080]:11:34:10 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-14 08:08:21.033302[Thread 0x00000001f058a080]:08:08:21 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-14 08:08:21.035140[Thread 0x00000001f058a080]:08:08:21 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-14 10:26:50.353084[Thread 0x00000001f058a080]:10:26:50 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-14 10:26:50.355299[Thread 0x00000001f058a080]:10:26:50 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-14 12:36:18.574509[Thread 0x00000001f058a080]:12:36:18 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-14 12:36:18.576368[Thread 0x00000001f058a080]:12:36:18 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-14 16:00:34.594645[Thread 0x00000001f058a080]:04:00:34 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-14 16:00:34.596438[Thread 0x00000001f058a080]:04:00:34 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-14 16:00:37.935727[Thread 0x00000001f058a080]:04:00:37 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-12-14 16:03:01.665377[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:03:01.772956[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-14 16:07:22.987574[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-14 16:07:41.863332[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-14 16:07:50.780306[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-14 16:07:52.737568[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-14 16:10:25.850608[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:10:27.762854[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:10:27.773103[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:10:27.781526[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:10:27.802033[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:10:27.809466[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:10:27.810230[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:10:27.810972[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:10:27.818277[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:10:27.828911[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-14 16:10:27.842254[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Sun_Dec_14/16_10_25#17737#3058/_temp_2.config!
+[warning]	2025-12-14 16:10:27.842365[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Sun_Dec_14/16_10_25#17737#3058/_temp_2.config!
+[warning]	2025-12-14 16:10:27.850639[Thread 0x00000001f058a080]:validate_preset: preset_name Bambu ABS GF - shrinkage(Door Latch.3mf), inherit_name Voron Generic ASA, can not found preset and inherit in list
+[warning]	2025-12-14 16:10:27.850652[Thread 0x00000001f058a080]:validate_presets:file_name Door Latch.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-12-14 16:10:27.850665[Thread 0x00000001f058a080]:validate_preset: preset_name Polyterra Black, inherit_name Voron Generic PLA, can not found preset and inherit in list
+[warning]	2025-12-14 16:10:27.850667[Thread 0x00000001f058a080]:validate_presets:file_name Door Latch.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-12-14 16:10:27.850669[Thread 0x00000001f058a080]:validate_preset: preset_name Polyterra Red, inherit_name Voron Generic PLA, can not found preset and inherit in list
+[warning]	2025-12-14 16:10:27.850670[Thread 0x00000001f058a080]:validate_presets:file_name Door Latch.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-12-14 16:10:27.850672[Thread 0x00000001f058a080]:validate_preset: preset_name Polyterra Peanut, inherit_name Voron Generic PLA, can not found preset and inherit in list
+[warning]	2025-12-14 16:10:27.850673[Thread 0x00000001f058a080]:validate_presets:file_name Door Latch.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-12-14 16:10:27.850674[Thread 0x00000001f058a080]:validate_preset: preset_name Polyterra Grey, inherit_name Voron Generic PLA, can not found preset and inherit in list
+[warning]	2025-12-14 16:10:27.850675[Thread 0x00000001f058a080]:validate_presets:file_name Door Latch.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-12-14 16:10:27.850677[Thread 0x00000001f058a080]:validate_preset: preset_name Sunlu ABS Black - shrinkage, inherit_name Voron Generic ASA, can not found preset and inherit in list
+[warning]	2025-12-14 16:10:27.850679[Thread 0x00000001f058a080]:validate_presets:file_name Door Latch.3mf, found the filament 6 preset not inherit from system
+[warning]	2025-12-14 16:10:27.850681[Thread 0x00000001f058a080]:validate_preset: preset_name Bambu ABS GF White - shrinkage(Door Latch.3mf), inherit_name Voron Generic ASA, can not found preset and inherit in list
+[warning]	2025-12-14 16:10:27.850682[Thread 0x00000001f058a080]:validate_presets:file_name Door Latch.3mf, found the filament 7 preset not inherit from system
+[warning]	2025-12-14 16:10:27.850683[Thread 0x00000001f058a080]:validate_preset: preset_name Bambu ABS GF - shrinkage(Door Latch.3mf), inherit_name Voron Generic ASA, can not found preset and inherit in list
+[warning]	2025-12-14 16:10:27.850684[Thread 0x00000001f058a080]:validate_presets:file_name Door Latch.3mf, found the filament 8 preset not inherit from system
+[warning]	2025-12-14 16:10:27.850686[Thread 0x00000001f058a080]:validate_presets:file_name Door Latch.3mf, found self defined presets, count 7
+[error]	2025-12-14 16:11:05.928520[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-14 16:11:48.987101[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:11:48.988397[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:11:48.989451[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:11:48.990485[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:11:48.991526[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:11:48.992706[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:11:48.993568[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:11:49.062078[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:11:53.490521[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:12:13.431900[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles

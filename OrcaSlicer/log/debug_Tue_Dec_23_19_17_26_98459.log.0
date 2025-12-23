@@ -1,0 +1,80 @@
+[error]	2025-12-23 19:17:27.624215[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-12-23 19:17:28.078499[Thread 0x000000016ecef000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2025-12-23 19:17:28.078499[Thread 0x000000016e4d7000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-12-23 19:17:28.079031[Thread 0x00000001f058a080]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2025-12-23 19:17:28.079033[Thread 0x000000016d09b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2025-12-23 19:17:28.079072[Thread 0x000000016ecef000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2025-12-23 19:17:28.079071[Thread 0x000000016d8b3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2025-12-23 19:17:28.079086[Thread 0x000000016e0cb000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[warning]	2025-12-23 19:17:29.223995[Thread 0x00000001f058a080]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-23 19:19:41.965575[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-23 19:28:36.762950[Thread 0x00000001f058a080]:07:28:36 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-23 19:28:36.763317[Thread 0x00000001f058a080]:07:28:36 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-23 21:50:09.835718[Thread 0x00000001f058a080]:09:50:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-23 21:50:09.836334[Thread 0x00000001f058a080]:09:50:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-24 05:41:28.125141[Thread 0x00000001f058a080]:05:41:28 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-24 05:41:28.147266[Thread 0x00000001f058a080]:05:41:28 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-24 06:37:18.982087[Thread 0x000000016be3b000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2025-12-24 06:38:56.119392[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:38:56.134754[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:38:56.224608[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-24 06:38:58.072497[Thread 0x000000016f443000]:gcode path conflicts found between handle_1_of_3.stl and handle_3_of_3.stl
+[warning]	2025-12-24 06:40:48.965564[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:40:48.988646[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-24 06:40:50.180619[Thread 0x000000016f443000]:gcode path conflicts found between handle_1_of_3.stl and handle_3_of_3.stl
+[warning]	2025-12-24 06:41:03.045619[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:41:03.059528[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:41:46.254691[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-24 06:42:00.229686[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-24 06:42:20.449355[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-24 06:42:23.419457[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-24 06:42:31.147091[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-24 06:42:36.394027[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:42:36.502096[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-24 06:42:59.059549[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-24 06:43:06.659746[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:43:06.777440[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:43:26.583506[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:43:26.704614[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-24 06:43:44.003307[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-24 06:43:48.257394[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-24 06:43:59.740488[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-24 06:44:17.099722[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:44:17.217573[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-24 06:44:50.457384[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-24 06:45:19.295020[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:45:19.417334[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-24 06:45:35.306246[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-24 06:46:04.606280[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-24 06:46:09.536814[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-24 06:46:10.507257[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-24 06:46:12.769983[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-24 06:46:14.254358[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-24 06:46:27.624121[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:46:27.743061[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-24 06:46:38.567365[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-24 06:46:39.636083[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-24 06:46:48.996577[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-24 06:46:54.516022[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:46:54.633206[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:47:37.768680[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:47:37.898290[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-24 06:47:37.961857[Thread 0x000000016f443000]:call_process:got other exception
+[warning]	2025-12-24 06:47:43.284511[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:47:43.403992[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-24 06:47:43.422180[Thread 0x000000016f443000]:call_process:got other exception
+[warning]	2025-12-24 06:47:51.598144[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:47:51.725488[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:48:13.015308[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:48:13.145268[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:48:31.289636[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:48:31.404801[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:48:45.771226[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:48:45.893292[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:48:54.251673[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:48:54.380911[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:49:56.321071[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:49:56.437061[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:51:31.554509[Thread 0x000000016be3b000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2025-12-24 06:51:42.482933[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-24 06:51:42.497373[Thread 0x000000016f443000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used

@@ -1,0 +1,15 @@
+[error]	2025-11-21 19:35:47.777987[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-11-21 19:35:48.141678[Thread 0x000000016e20b000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-11-21 19:35:48.141700[Thread 0x000000016f647000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/f8b3274a-448e-4052-8585-ec6aaca7e082/Kirigami brace 3 x wagos with 3010 Fan no PCB.3mf
+[error]	2025-11-21 19:35:48.141692[Thread 0x0000000170a83000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-11-21 19:35:48.145527[Thread 0x000000016fe5f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End cps.3mf
+[error]	2025-11-21 19:35:48.145529[Thread 0x000000016ee2f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Annex Tradrack/Other mods/Filamentalist Enclosure/End caps.3mf
+[warning]	2025-11-21 19:35:49.267196[Thread 0x00000001f058a080]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-21 19:35:49.851892[Thread 0x000000016dc5b000]:Error getting: `check_new_version_sf`: HTTP 503, 
+[error]	2025-11-21 19:36:26.024107[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-21 19:36:28.726345[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-21 19:36:37.036260[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-21 19:36:43.671035[Thread 0x0000000177163000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-11-21 21:21:01.189528[Thread 0x00000001f058a080]:09:21:01 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-11-21 21:21:01.189974[Thread 0x00000001f058a080]:09:21:01 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-11-21 21:46:12.965001[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 

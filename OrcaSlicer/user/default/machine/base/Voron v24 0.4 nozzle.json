@@ -30,7 +30,7 @@
         "30"
     ],
     "disable_m73": "0",
-    "emit_machine_limits_to_gcode": "0",
+    "emit_machine_limits_to_gcode": "1",
     "enable_filament_ramming": "0",
     "enable_long_retraction_when_cut": "0",
     "extra_loading_move": "0",
@@ -58,7 +58,7 @@
         "0"
     ],
     "machine_end_gcode": "MMU_END\nPRINT_END\n",
-    "machine_load_filament_time": "29.4",
+    "machine_load_filament_time": "17.9",
     "machine_max_acceleration_e": [
         "5000",
         "5000"
@@ -68,7 +68,7 @@
         "20000"
     ],
     "machine_max_acceleration_retracting": [
-        "5000",
+        "20000",
         "5000"
     ],
     "machine_max_acceleration_travel": [
@@ -84,7 +84,7 @@
         "20000"
     ],
     "machine_max_acceleration_z": [
-        "500",
+        "350",
         "200"
     ],
     "machine_max_jerk_e": [
@@ -108,7 +108,7 @@
         "0"
     ],
     "machine_max_speed_e": [
-        "25",
+        "120",
         "25"
     ],
     "machine_max_speed_x": [
@@ -120,7 +120,7 @@
         "200"
     ],
     "machine_max_speed_z": [
-        "12",
+        "35",
         "12"
     ],
     "machine_min_extruding_rate": [
@@ -132,9 +132,9 @@
         "0"
     ],
     "machine_pause_gcode": "PAUSE",
-    "machine_start_gcode": "_CASELIGHTS_ON ; so we can see!\n;\nSET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\n;\nMMU_START_SETUP INITIAL_TOOL={initial_tool} REFERENCED_TOOLS=!referenced_tools! TOOL_COLORS=!colors! TOOL_TEMPS=!temperatures! TOOL_MATERIALS=!materials! FILAMENT_NAMES=!filament_names! PURGE_VOLUMES=!purge_volumes!\n;\nMMU_START_CHECK\n;\nPRINT_START EXTRUDER=[first_layer_temperature[initial_extruder]] BED=[first_layer_bed_temperature] CHAMBER=[chamber_temperature] FILAMENT=[filament_type] PA=[pressure_advance[]] NOZZLE=[nozzle_diameter] TOOL=[initial_extruder] SIZE={first_layer_print_min[0]}_{first_layer_print_min[1]}_{first_layer_print_max[0]}_{first_layer_print_max[1]}\n;",
-    "machine_tool_change_time": "44.9",
-    "machine_unload_filament_time": "15.5",
+    "machine_start_gcode": "_CASELIGHTS_ON ; so we can see!\n;\nSET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\n;\nMMU_START_SETUP INITIAL_TOOL={initial_tool} REFERENCED_TOOLS=!referenced_tools! TOOL_COLORS=!colors! TOOL_TEMPS=!temperatures! TOOL_MATERIALS=!materials! FILAMENT_NAMES=!filament_names! PURGE_VOLUMES=!purge_volumes!\n;\nMMU_START_CHECK\n;\nPRINT_START EXTRUDER=[first_layer_temperature[initial_extruder]] BED=[first_layer_bed_temperature] CHAMBER=[chamber_temperature] FILAMENT=[filament_type] PA=[pressure_advance] NOZZLE=[nozzle_diameter] TOOL=[initial_extruder] SIZE={first_layer_print_min[0]}_{first_layer_print_min[1]}_{first_layer_print_max[0]}_{first_layer_print_max[1]}\n;",
+    "machine_tool_change_time": "50.8",
+    "machine_unload_filament_time": "32.9",
     "manual_filament_change": "0",
     "max_layer_height": [
         "0.32"
@@ -178,7 +178,7 @@
     "printhost_ssl_ignore_revoke": "0",
     "printhost_user": "",
     "printing_by_object_gcode": "",
-    "purge_in_prime_tower": "1",
+    "purge_in_prime_tower": "0",
     "resonance_avoidance": "1",
     "retract_before_wipe": [
         "70%"
@@ -223,12 +223,12 @@
     "support_chamber_temp_control": "1",
     "support_multi_bed_types": "0",
     "template_custom_gcode": "",
-    "thumbnails": "300x300/PNG",
+    "thumbnails": "32x32/PNG, 100x100/PNG, 400x300/PNG",
     "thumbnails_format": "PNG",
     "time_cost": "0",
     "time_lapse_gcode": "",
     "travel_slope": [
-        "3"
+        "6"
     ],
     "upward_compatible_machine": [],
     "use_firmware_retraction": "1",
@@ -241,7 +241,7 @@
         "1"
     ],
     "z_hop": [
-        "0"
+        "0.4"
     ],
     "z_hop_types": [
         "Auto Lift"

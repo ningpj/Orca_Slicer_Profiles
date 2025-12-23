@@ -1,0 +1,7 @@
+[error]	2025-12-22 18:52:23.329697[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-12-22 18:52:23.738439[Thread 0x000000016e97b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2025-12-22 18:52:23.738684[Thread 0x000000016d133000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2025-12-22 18:52:23.738689[Thread 0x000000016ed87000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[warning]	2025-12-22 18:52:33.609314[Thread 0x00000001f058a080]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-12-23 06:00:27.382746[Thread 0x00000001f058a080]:06:00:27 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-23 06:00:27.384178[Thread 0x00000001f058a080]:06:00:27 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')

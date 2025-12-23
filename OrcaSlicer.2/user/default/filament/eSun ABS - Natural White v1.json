@@ -1,0 +1,106 @@
+{
+    "chamber_temperature": [
+        "38"
+    ],
+    "close_fan_the_first_x_layers": [
+        "4"
+    ],
+    "cool_plate_temp": [
+        "0"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "0"
+    ],
+    "eng_plate_temp": [
+        "0"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "0"
+    ],
+    "fan_cooling_layer_time": [
+        "10"
+    ],
+    "filament_cooling_final_speed": [
+        "0"
+    ],
+    "filament_cooling_initial_speed": [
+        "0"
+    ],
+    "filament_cooling_moves": [
+        "0"
+    ],
+    "filament_cost": [
+        "0"
+    ],
+    "filament_density": [
+        "1.06"
+    ],
+    "filament_load_time": [
+        "10"
+    ],
+    "filament_loading_speed": [
+        "0"
+    ],
+    "filament_loading_speed_start": [
+        "0"
+    ],
+    "filament_max_volumetric_speed": [
+        "30"
+    ],
+    "filament_minimal_purge_on_wipe_tower": [
+        "70"
+    ],
+    "filament_notes": [
+        "My FIlament"
+    ],
+    "filament_ramming_parameters": [
+        "120 100| 0.05 6.6 0.45 6.8 0.95 7.8 1.45 8.3 1.95 9.7 2.45 10 2.95 7.6 3.45 7.6 3.95 7.6 4.45 7.6 4.95 7.6"
+    ],
+    "filament_settings_id": [
+        "eSun ABS - Natural White v1"
+    ],
+    "filament_unload_time": [
+        "18"
+    ],
+    "filament_unloading_speed": [
+        "0"
+    ],
+    "filament_unloading_speed_start": [
+        "0"
+    ],
+    "filament_vendor": [
+        "eSun"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "eSun ABS - Natural White v1",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "nozzle_temperature_range_high": [
+        "0"
+    ],
+    "nozzle_temperature_range_low": [
+        "0"
+    ],
+    "overhang_fan_speed": [
+        "60"
+    ],
+    "textured_plate_temp": [
+        "110"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "110"
+    ],
+    "version": "2.0.2.0"
+}

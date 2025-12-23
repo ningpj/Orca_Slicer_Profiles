@@ -1,0 +1,55 @@
+{
+    "before_layer_change_gcode": "; ORCA BEFORE LAYER CHANGE\nG92 E0\n",
+    "change_filament_gcode": "; ORCA TOOL CHANGE\n;RESPOND TYPE=command MSG=\"Long slow retract to help with ooze\"\n;G1 E-5.0 F300\nT[next_extruder]\n",
+    "cooling_tube_length": "0.0001",
+    "cooling_tube_retraction": "0",
+    "deretraction_speed": [
+        "20"
+    ],
+    "enable_filament_ramming": "0",
+    "extra_loading_move": "0",
+    "from": "User",
+    "inherits": "Voron Trident 250 0.4 nozzle",
+    "is_custom_defined": "0",
+    "layer_change_gcode": "; ORCA AFTER LAYER CHANGE\n",
+    "machine_end_gcode": "MMU_END\n; Enter YOUR print end macro call here\nPRINT_END HOTBED=YES",
+    "machine_max_acceleration_extruding": [
+        "6000",
+        "20000"
+    ],
+    "machine_max_acceleration_x": [
+        "6000",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "6000",
+        "20000"
+    ],
+    "machine_start_gcode": "MMU_START_SETUP INITIAL_TOOL={initial_tool} REFERENCED_TOOLS=!referenced_tools! TOOL_COLORS=!colors! TOOL_TEMPS=!temperatures! TOOL_MATERIALS=!materials! PURGE_VOLUMES=!purge_volumes!\nMMU_START_CHECK\n; ESTIMATOR_ADD_TIME 170 Print start / Level / Tilt / MMU\nPRINT_START_MMU BED_TEMP=[first_layer_bed_temperature] EXTRUDER_TEMP=[first_layer_temperature[initial_extruder]] CHAMBER=50 ADAPTIVE=NO\nMMU_START_LOAD_INITIAL_TOOL\nVORON_PURGE",
+    "name": "Voron Trident 250 0.4 nozzle - MMU",
+    "nozzle_type": "brass",
+    "parking_pos_retraction": "0",
+    "print_host": "http://192.168.2.100/",
+    "printable_area": [
+        "-7x-6",
+        "248x-6",
+        "248x249",
+        "-7x249"
+    ],
+    "printer_settings_id": "Voron Trident 250 0.4 nozzle - MMU",
+    "printhost_ssl_ignore_revoke": "1",
+    "retract_length_toolchange": [
+        "5"
+    ],
+    "retraction_length": [
+        "1"
+    ],
+    "retraction_speed": [
+        "40"
+    ],
+    "support_multi_bed_types": "1",
+    "version": "1.9.0.2",
+    "z_hop": [
+        "0.2"
+    ]
+}

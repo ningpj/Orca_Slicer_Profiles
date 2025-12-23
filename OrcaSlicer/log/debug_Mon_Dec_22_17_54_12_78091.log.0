@@ -1,0 +1,103 @@
+[error]	2025-12-22 17:54:13.120790[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-12-22 17:54:13.520167[Thread 0x00000001f058a080]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2025-12-22 17:54:13.520197[Thread 0x00000001f058a080]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2025-12-22 17:54:13.520400[Thread 0x0000000170e1b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[warning]	2025-12-22 17:54:14.508679[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Mon_Dec_22/17_54_14#78091#36/_temp_2.config!
+[warning]	2025-12-22 17:54:14.508813[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Mon_Dec_22/17_54_14#78091#36/_temp_2.config!
+[warning]	2025-12-22 17:54:14.508903[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Mon_Dec_22/17_54_14#78091#36/_temp_2.config!
+[warning]	2025-12-22 17:54:14.508979[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Mon_Dec_22/17_54_14#78091#36/_temp_2.config!
+[warning]	2025-12-22 17:54:14.509044[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Mon_Dec_22/17_54_14#78091#36/_temp_2.config!
+[warning]	2025-12-22 17:54:14.509101[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Mon_Dec_22/17_54_14#78091#36/_temp_2.config!
+[warning]	2025-12-22 17:54:14.509159[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Mon_Dec_22/17_54_14#78091#36/_temp_2.config!
+[warning]	2025-12-22 17:54:14.509216[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Mon_Dec_22/17_54_14#78091#36/_temp_2.config!
+[warning]	2025-12-22 17:54:14.518370[Thread 0x00000001f058a080]:validate_preset: preset_name Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-22 17:54:14.518383[Thread 0x00000001f058a080]:validate_presets:file_name NJ_Cube.3mf, found the printer preset not inherit from system
+[warning]	2025-12-22 17:54:14.518391[Thread 0x00000001f058a080]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-22 17:54:14.518393[Thread 0x00000001f058a080]:validate_presets:file_name NJ_Cube.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-12-22 17:54:14.518395[Thread 0x00000001f058a080]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-22 17:54:14.518396[Thread 0x00000001f058a080]:validate_presets:file_name NJ_Cube.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-12-22 17:54:14.518399[Thread 0x00000001f058a080]:validate_preset: preset_name Orvil ABS+ - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-22 17:54:14.518400[Thread 0x00000001f058a080]:validate_presets:file_name NJ_Cube.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-12-22 17:54:14.518401[Thread 0x00000001f058a080]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-22 17:54:14.518402[Thread 0x00000001f058a080]:validate_presets:file_name NJ_Cube.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-12-22 17:54:14.518403[Thread 0x00000001f058a080]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-22 17:54:14.518404[Thread 0x00000001f058a080]:validate_presets:file_name NJ_Cube.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-12-22 17:54:14.518406[Thread 0x00000001f058a080]:validate_preset: preset_name eSun ABS - Natural White v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-22 17:54:14.518407[Thread 0x00000001f058a080]:validate_presets:file_name NJ_Cube.3mf, found the filament 6 preset not inherit from system
+[warning]	2025-12-22 17:54:14.518408[Thread 0x00000001f058a080]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-22 17:54:14.518409[Thread 0x00000001f058a080]:validate_presets:file_name NJ_Cube.3mf, found the filament 7 preset not inherit from system
+[warning]	2025-12-22 17:54:14.518456[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-22 17:54:14.518458[Thread 0x00000001f058a080]:validate_presets:file_name NJ_Cube.3mf, found the filament 8 preset not inherit from system
+[warning]	2025-12-22 17:54:14.518460[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-22 17:54:14.518461[Thread 0x00000001f058a080]:validate_presets:file_name NJ_Cube.3mf, found the filament 9 preset not inherit from system
+[warning]	2025-12-22 17:54:14.518463[Thread 0x00000001f058a080]:validate_preset: preset_name Siraya Tech PET-CF v1, no inherit, set to not found
+[warning]	2025-12-22 17:54:14.518464[Thread 0x00000001f058a080]:validate_presets:file_name NJ_Cube.3mf, found the filament 10 preset not inherit from system
+[warning]	2025-12-22 17:54:14.518465[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-22 17:54:14.518466[Thread 0x00000001f058a080]:validate_presets:file_name NJ_Cube.3mf, found the filament 11 preset not inherit from system
+[warning]	2025-12-22 17:54:14.518467[Thread 0x00000001f058a080]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-22 17:54:14.518468[Thread 0x00000001f058a080]:validate_presets:file_name NJ_Cube.3mf, found the filament 12 preset not inherit from system
+[warning]	2025-12-22 17:54:14.518469[Thread 0x00000001f058a080]:validate_presets:file_name NJ_Cube.3mf, found self defined presets, count 6
+[warning]	2025-12-22 17:54:23.266153[Thread 0x00000001f058a080]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-12-22 17:54:27.748620[Thread 0x000000017318b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-22 17:55:05.274936[Thread 0x000000017318b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-22 17:55:34.129471[Thread 0x000000017318b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-22 17:56:15.791814[Thread 0x000000017318b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-22 17:57:28.207634[Thread 0x000000017318b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-22 18:00:26.931104[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:00:32.789764[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-22 18:00:50.087294[Thread 0x000000017318b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-22 18:01:46.766680[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:01:48.808090[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:02:08.818791[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-22 18:02:13.804847[Thread 0x000000017318b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-22 18:20:38.719234[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:20:41.562267[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:21:25.146726[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:21:27.655844[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:21:35.357170[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:21:48.624093[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:21:49.992798[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:21:51.521706[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:22:02.783591[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:22:09.540148[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:22:12.880262[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:22:29.037223[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:22:31.606863[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:22:45.145326[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:22:47.391713[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:22:49.211009[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:23:30.328501[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:23:34.910863[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:23:36.895272[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:23:59.183069[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:24:01.277113[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:24:24.687121[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:24:29.103267[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 18:24:34.875829[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-22 18:24:45.453618[Thread 0x000000017318b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-22 18:25:05.633437[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-22 18:25:13.395544[Thread 0x000000017318b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-22 18:25:33.989470[Thread 0x000000017318b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-22 19:14:18.597122[Thread 0x000000017318b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-22 20:33:22.304584[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 20:33:24.103081[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-22 20:35:24.087155[Thread 0x000000017318b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-23 06:00:27.382744[Thread 0x00000001f058a080]:06:00:27 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-23 06:00:27.384178[Thread 0x00000001f058a080]:06:00:27 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-12-23 10:31:35.587216[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-23 10:31:37.942944[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-23 10:31:39.339640[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-23 10:31:40.931817[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-23 10:33:16.136566[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-23 10:34:04.995371[Thread 0x000000017318b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-23 12:23:25.216534[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-23 12:23:36.128761[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-23 12:36:57.960939[Thread 0x000000017318b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-23 12:50:53.531766[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Tue_Dec_23/12_50_53#78091#946/_temp_2.config!
+[warning]	2025-12-23 12:50:53.531916[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Tue_Dec_23/12_50_53#78091#946/_temp_2.config!
+[warning]	2025-12-23 12:50:53.532010[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Tue_Dec_23/12_50_53#78091#946/_temp_2.config!
+[warning]	2025-12-23 12:50:53.532088[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Tue_Dec_23/12_50_53#78091#946/_temp_2.config!
+[warning]	2025-12-23 12:50:53.532160[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Tue_Dec_23/12_50_53#78091#946/_temp_2.config!
+[warning]	2025-12-23 12:50:53.532227[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Tue_Dec_23/12_50_53#78091#946/_temp_2.config!
+[warning]	2025-12-23 12:50:53.532291[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Tue_Dec_23/12_50_53#78091#946/_temp_2.config!
+[warning]	2025-12-23 12:50:53.532352[Thread 0x00000001f058a080]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Tue_Dec_23/12_50_53#78091#946/_temp_2.config!

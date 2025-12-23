@@ -1,0 +1,24 @@
+[error]	2025-12-03 17:59:12.422506[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-12-03 17:59:12.801323[Thread 0x000000017059f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-12-03 17:59:12.801740[Thread 0x000000016f56f000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[warning]	2025-12-03 17:59:13.991585[Thread 0x00000001f058a080]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-03 17:59:14.531379[Thread 0x000000016e0a7000]:Error getting: `check_new_version_sf`: HTTP 503, 
+[warning]	2025-12-03 17:59:41.076885[Thread 0x00000001738bb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-03 17:59:41.230312[Thread 0x00000001738bb000]:call_process:got other exception
+[warning]	2025-12-03 18:00:21.105783[Thread 0x00000001738bb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-04 07:20:59.480555[Thread 0x00000001f058a080]:07:20:59 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-04 07:20:59.481874[Thread 0x00000001f058a080]:07:20:59 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-04 15:35:30.199162[Thread 0x00000001f058a080]:03:35:30 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-04 15:35:30.222537[Thread 0x00000001f058a080]:03:35:30 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-04 19:00:36.342032[Thread 0x00000001f058a080]:07:00:36 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-04 19:00:36.368256[Thread 0x00000001f058a080]:07:00:36 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-04 19:52:22.561649[Thread 0x00000001738bb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-04 19:52:47.400491[Thread 0x00000001738bb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-04 19:53:09.181863[Thread 0x00000001738bb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-05 07:24:36.650860[Thread 0x00000001f058a080]:07:24:36 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-05 07:24:36.651380[Thread 0x00000001f058a080]:07:24:36 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-05 09:01:43.769626[Thread 0x00000001f058a080]:09:01:43 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-05 09:01:44.763462[Thread 0x00000001f058a080]:09:01:44 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-05 10:12:26.232386[Thread 0x00000001f058a080]:10:12:26 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-05 10:12:26.232918[Thread 0x00000001f058a080]:10:12:26 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-05 12:18:57.716984[Thread 0x00000001738bb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used

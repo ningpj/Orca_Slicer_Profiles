@@ -1,0 +1,8 @@
+[error]	2025-12-24 11:03:55.740086[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-12-24 11:03:56.137673[Thread 0x0000000171f3f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2025-12-24 11:03:56.137701[Thread 0x0000000171727000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-12-24 11:03:56.138277[Thread 0x00000001f058a080]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2025-12-24 11:03:56.138282[Thread 0x0000000171f3f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2025-12-24 11:03:56.138309[Thread 0x0000000172b63000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2025-12-24 11:03:56.138396[Thread 0x0000000172b63000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2025-12-24 11:03:56.138422[Thread 0x0000000170b03000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf

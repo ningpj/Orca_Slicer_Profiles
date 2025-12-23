@@ -1,0 +1,251 @@
+[error]	2025-12-14 16:15:53.713451[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-12-14 16:15:54.057344[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:15:54.061867[Thread 0x000000016f07f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-12-14 16:15:55.091514[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-14 16:15:55.107644[Thread 0x00000001f058a080]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-14 16:16:31.549532[Thread 0x000000016f85f000]:call_process:got other exception
+[error]	2025-12-14 16:18:02.093884[Thread 0x000000016f85f000]:call_process:got other exception
+[warning]	2025-12-14 16:18:27.209773[Thread 0x00000001f058a080]:reslice: process_completed_with_error, return directly
+[warning]	2025-12-14 16:18:28.979820[Thread 0x00000001f058a080]:reslice: process_completed_with_error, return directly
+[warning]	2025-12-14 16:18:35.558523[Thread 0x00000001f058a080]:reslice: process_completed_with_error, return directly
+[warning]	2025-12-14 16:18:35.588936[Thread 0x00000001f058a080]:reslice: process_completed_with_error, return directly
+[warning]	2025-12-14 16:18:39.225317[Thread 0x00000001f058a080]:reslice: process_completed_with_error, return directly
+[error]	2025-12-14 16:18:52.598626[Thread 0x000000016f85f000]:call_process:got other exception
+[warning]	2025-12-14 16:19:03.222092[Thread 0x000000016f85f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-14 16:19:24.509722[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-14 16:19:56.221541[Thread 0x000000016c1cb000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2025-12-14 16:19:57.835012[Thread 0x000000016f85f000]:call_process:got other exception
+[error]	2025-12-14 16:20:38.619779[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 16:46:58.055530[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-14 17:03:36.531503[Thread 0x00000001f058a080]:05:03:36 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-14 17:03:36.532133[Thread 0x00000001f058a080]:05:03:36 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-14 17:11:47.141296[Thread 0x00000001f058a080]:05:11:47 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-14 17:11:47.165839[Thread 0x00000001f058a080]:05:11:47 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-14 17:59:28.055189[Thread 0x00000001f058a080]:05:59:28 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-14 17:59:28.055681[Thread 0x00000001f058a080]:05:59:28 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-14 21:09:51.571915[Thread 0x00000001f058a080]:09:09:51 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-14 21:09:51.572477[Thread 0x00000001f058a080]:09:09:51 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-15 07:11:24.637516[Thread 0x00000001f058a080]:07:11:24 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-15 07:11:24.639067[Thread 0x00000001f058a080]:07:11:24 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-15 16:55:22.950525[Thread 0x00000001f058a080]:04:55:22 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-15 16:55:22.952892[Thread 0x00000001f058a080]:04:55:22 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-15 17:28:52.412544[Thread 0x00000001f058a080]:05:28:52 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-15 17:28:52.412956[Thread 0x00000001f058a080]:05:28:52 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-15 18:19:12.427963[Thread 0x00000001f058a080]:06:19:12 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-15 18:19:12.469771[Thread 0x00000001f058a080]:06:19:12 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-15 19:21:03.409749[Thread 0x00000001f058a080]:07:21:03 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-15 19:21:03.415835[Thread 0x00000001f058a080]:07:21:03 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-16 07:10:11.346345[Thread 0x00000001f058a080]:07:10:11 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-16 07:10:11.350484[Thread 0x00000001f058a080]:07:10:11 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-16 16:38:46.352753[Thread 0x00000001f058a080]:04:38:46 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-16 16:38:46.354277[Thread 0x00000001f058a080]:04:38:46 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-17 07:05:23.341143[Thread 0x00000001f058a080]:07:05:23 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-17 07:05:23.342138[Thread 0x00000001f058a080]:07:05:23 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-17 17:11:58.650976[Thread 0x00000001f058a080]:05:11:58 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-17 17:11:58.652792[Thread 0x00000001f058a080]:05:11:58 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-17 19:08:11.560769[Thread 0x00000001f058a080]:07:08:11 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-17 19:08:11.560980[Thread 0x00000001f058a080]:07:08:11 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-17 21:13:12.548742[Thread 0x00000001f058a080]:09:13:12 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-17 21:13:12.568613[Thread 0x00000001f058a080]:09:13:12 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-18 07:27:42.085589[Thread 0x00000001f058a080]:07:27:42 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-18 07:27:42.087819[Thread 0x00000001f058a080]:07:27:42 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-18 16:35:47.180944[Thread 0x00000001f058a080]:04:35:47 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-18 16:35:47.182208[Thread 0x00000001f058a080]:04:35:47 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-19 07:24:28.955326[Thread 0x00000001f058a080]:07:24:28 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-19 07:24:28.956534[Thread 0x00000001f058a080]:07:24:28 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-19 15:05:52.558945[Thread 0x00000001f058a080]:03:05:52 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-19 15:05:52.560638[Thread 0x00000001f058a080]:03:05:52 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-20 13:10:02.056131[Thread 0x00000001f058a080]:01:10:02 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-20 13:10:02.078422[Thread 0x00000001f058a080]:01:10:02 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-20 18:57:48.748773[Thread 0x00000001f058a080]:06:57:48 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-20 18:57:48.749145[Thread 0x00000001f058a080]:06:57:48 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-20 20:08:04.638453[Thread 0x00000001f058a080]:08:08:04 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-20 20:08:04.638697[Thread 0x00000001f058a080]:08:08:04 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-21 06:03:32.271786[Thread 0x00000001f058a080]:06:03:32 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-21 06:03:32.274052[Thread 0x00000001f058a080]:06:03:32 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-21 07:54:29.338787[Thread 0x000000016c1cb000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2025-12-21 07:55:30.898195[Thread 0x000000016f85f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-21 07:55:30.918341[Thread 0x000000016f85f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-21 07:56:12.715503[Thread 0x000000016f85f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-21 07:56:12.728013[Thread 0x000000016f85f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-21 14:34:37.743291[Thread 0x00000001f058a080]:02:34:37 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-21 14:34:37.745798[Thread 0x00000001f058a080]:02:34:37 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-21 16:06:32.636600[Thread 0x00000001f058a080]:04:06:32 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-21 16:06:32.638059[Thread 0x00000001f058a080]:04:06:32 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-21 16:42:51.235873[Thread 0x00000001f058a080]:04:42:51 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-21 16:42:51.236130[Thread 0x00000001f058a080]:04:42:51 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-21 18:10:56.514122[Thread 0x00000001f058a080]:06:10:56 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-21 18:10:56.516454[Thread 0x00000001f058a080]:06:10:56 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-22 07:08:44.703028[Thread 0x00000001f058a080]:07:08:44 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-22 07:08:44.704305[Thread 0x00000001f058a080]:07:08:44 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-22 16:56:48.203564[Thread 0x00000001f058a080]:04:56:48 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-22 16:56:48.205285[Thread 0x00000001f058a080]:04:56:48 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-22 17:11:23.362396[Thread 0x00000001f058a080]:validate_preset: preset_name Polyterra White, inherit_name Voron Generic PLA, can not found preset and inherit in list
+[warning]	2025-12-22 17:11:23.362662[Thread 0x00000001f058a080]:validate_presets:file_name Cube.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-12-22 17:11:23.362669[Thread 0x00000001f058a080]:validate_preset: preset_name Polyterra Black, inherit_name Voron Generic PLA, can not found preset and inherit in list
+[warning]	2025-12-22 17:11:23.362671[Thread 0x00000001f058a080]:validate_presets:file_name Cube.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-12-22 17:11:23.362673[Thread 0x00000001f058a080]:validate_preset: preset_name Polyterra Red, inherit_name Voron Generic PLA, can not found preset and inherit in list
+[warning]	2025-12-22 17:11:23.362674[Thread 0x00000001f058a080]:validate_presets:file_name Cube.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-12-22 17:11:23.362676[Thread 0x00000001f058a080]:validate_preset: preset_name Polyterra Peanut, inherit_name Voron Generic PLA, can not found preset and inherit in list
+[warning]	2025-12-22 17:11:23.362678[Thread 0x00000001f058a080]:validate_presets:file_name Cube.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-12-22 17:11:23.362679[Thread 0x00000001f058a080]:validate_preset: preset_name Polyterra Grey, inherit_name Voron Generic PLA, can not found preset and inherit in list
+[warning]	2025-12-22 17:11:23.362681[Thread 0x00000001f058a080]:validate_presets:file_name Cube.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-12-22 17:11:23.362683[Thread 0x00000001f058a080]:validate_preset: preset_name Sunlu ABS Black - shrinkage, inherit_name Voron Generic ASA, can not found preset and inherit in list
+[warning]	2025-12-22 17:11:23.362685[Thread 0x00000001f058a080]:validate_presets:file_name Cube.3mf, found the filament 6 preset not inherit from system
+[warning]	2025-12-22 17:11:23.362694[Thread 0x00000001f058a080]:validate_preset: preset_name Bambu ABS GF White - shrinkage, inherit_name Voron Generic ASA, can not found preset and inherit in list
+[warning]	2025-12-22 17:11:23.362696[Thread 0x00000001f058a080]:validate_presets:file_name Cube.3mf, found the filament 7 preset not inherit from system
+[warning]	2025-12-22 17:11:23.362698[Thread 0x00000001f058a080]:validate_preset: preset_name Bambu ABS GF - shrinkage, inherit_name Voron Generic ASA, can not found preset and inherit in list
+[warning]	2025-12-22 17:11:23.362699[Thread 0x00000001f058a080]:validate_presets:file_name Cube.3mf, found the filament 8 preset not inherit from system
+[warning]	2025-12-22 17:11:23.362700[Thread 0x00000001f058a080]:validate_presets:file_name Cube.3mf, found self defined presets, count 8
+[warning]	2025-12-22 17:11:49.249190[Thread 0x000000016e45b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249191[Thread 0x000000016f85f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249210[Thread 0x000000016c807000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249218[Thread 0x000000016d42b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249205[Thread 0x000000016d01f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249215[Thread 0x000000016f07f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249215[Thread 0x000000016ec73000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249195[Thread 0x000000016e04f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249201[Thread 0x000000016cc13000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249237[Thread 0x000000016e867000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249190[Thread 0x000000016d837000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249221[Thread 0x000000016dc43000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249440[Thread 0x000000016f85f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249442[Thread 0x000000016f07f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249470[Thread 0x000000016d01f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249484[Thread 0x000000016ec73000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249492[Thread 0x000000016e867000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249516[Thread 0x000000016e45b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249527[Thread 0x000000016cc13000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249541[Thread 0x000000016d42b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249569[Thread 0x000000016f85f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249581[Thread 0x000000016f07f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249605[Thread 0x000000016d01f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249608[Thread 0x000000016ec73000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249640[Thread 0x000000016e45b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249695[Thread 0x000000016f85f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249703[Thread 0x000000016f07f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249718[Thread 0x000000016c807000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249724[Thread 0x000000016e04f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249778[Thread 0x000000016cc13000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249781[Thread 0x000000016e867000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249782[Thread 0x000000016d837000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249787[Thread 0x000000016dc43000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249743[Thread 0x000000016ec73000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249811[Thread 0x000000016f85f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249819[Thread 0x000000016f07f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249881[Thread 0x000000016e04f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249900[Thread 0x000000016cc13000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249926[Thread 0x000000016d837000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249927[Thread 0x000000016f85f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249931[Thread 0x000000016f07f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249931[Thread 0x000000016c807000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249933[Thread 0x000000016ec73000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249977[Thread 0x000000016e04f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249993[Thread 0x000000016e867000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250018[Thread 0x000000016dc43000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250021[Thread 0x000000016cc13000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250030[Thread 0x000000016d837000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250049[Thread 0x000000016f07f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250050[Thread 0x000000016f85f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250081[Thread 0x000000016ec73000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250088[Thread 0x000000016e04f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250137[Thread 0x000000016cc13000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250144[Thread 0x000000016c807000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250154[Thread 0x000000016d837000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250164[Thread 0x000000016f07f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249744[Thread 0x000000016e45b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250213[Thread 0x000000016e04f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250232[Thread 0x000000016f85f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250237[Thread 0x000000016dc43000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250246[Thread 0x000000016cc13000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250259[Thread 0x000000016d837000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250193[Thread 0x000000016e867000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250277[Thread 0x000000016f07f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250195[Thread 0x000000016ec73000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249771[Thread 0x000000016d42b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250318[Thread 0x000000016c807000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250340[Thread 0x000000016e04f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250343[Thread 0x000000016cc13000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250352[Thread 0x000000016f85f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250356[Thread 0x000000016d837000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250377[Thread 0x000000016dc43000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250385[Thread 0x000000016e45b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250391[Thread 0x000000016f07f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250397[Thread 0x000000016e867000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250452[Thread 0x000000016d837000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250459[Thread 0x000000016cc13000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250460[Thread 0x000000016e04f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250473[Thread 0x000000016f85f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250482[Thread 0x000000016d42b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250483[Thread 0x000000016ec73000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250503[Thread 0x000000016dc43000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250518[Thread 0x000000016f07f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250521[Thread 0x000000016e45b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250530[Thread 0x000000016c807000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250569[Thread 0x000000016f85f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250573[Thread 0x000000016d837000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.249737[Thread 0x000000016d01f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250604[Thread 0x000000016dc43000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250617[Thread 0x000000016f07f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250642[Thread 0x000000016e45b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250643[Thread 0x000000016d42b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250578[Thread 0x000000016e04f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250583[Thread 0x000000016cc13000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250690[Thread 0x000000016f85f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250714[Thread 0x000000016dc43000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250728[Thread 0x000000016e867000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250730[Thread 0x000000016f07f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250756[Thread 0x000000016d01f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250764[Thread 0x000000016e45b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250790[Thread 0x000000016d42b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.250870[Thread 0x000000016c807000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-22 17:11:49.300177[Thread 0x000000016f85f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-22 17:14:31.560946[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:32:11.686583[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-22 17:44:15.284671[Thread 0x00000001f058a080]:05:44:15 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-22 17:44:15.287572[Thread 0x00000001f058a080]:05:44:15 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2025-12-22 17:45:19.789604[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:45:23.445327[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:45:35.089301[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:45:35.789489[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:45:46.063597[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:45:47.096643[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:46:44.111125[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:46:53.529198[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:47:22.023577[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:47:23.102302[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:47:23.986049[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:47:27.677272[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:48:00.435821[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:48:05.138520[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:48:09.709304[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:48:13.407871[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:48:26.572960[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:48:27.852395[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:48:58.504882[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:48:59.888353[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:49:08.976240[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:49:10.833369[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:49:50.538414[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:49:57.863474[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:50:02.617673[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:50:02.660750[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:50:04.727763[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:50:12.469741[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:50:15.209319[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:50:39.485251[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:50:41.289667[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:51:00.332807[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:51:04.391358[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:51:08.674984[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:51:10.862340[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:51:24.978310[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:51:33.975526[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:51:38.702999[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:51:54.964994[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:51:59.706794[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:52:06.440759[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-22 17:52:10.208620[Thread 0x000000016f85f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-12-22 17:52:22.847285[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-22 17:52:37.833388[Thread 0x00000001f058a080]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-22 17:52:42.614005[Thread 0x000000016f85f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used

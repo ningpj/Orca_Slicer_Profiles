@@ -1,0 +1,10 @@
+[error]	2025-11-29 18:26:20.209826[Thread 0x00000001f058a080]:can not find parent for config /Users/nigel/Library/Application Support/OrcaSlicer/user/default/filament/Siraya Tech PET-GF v1.json!
+[error]	2025-11-29 18:26:20.210356[Thread 0x00000001f058a080]:can not find parent for config /Users/nigel/Library/Application Support/OrcaSlicer/user/default/filament/Siraya Tech PET-CF v1.json!
+[error]	2025-11-29 18:26:20.426943[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-11-29 18:26:20.743353[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-29 18:26:20.747352[Thread 0x0000000170bbb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-11-29 18:26:20.747685[Thread 0x000000016ef67000]:Unable to open the file/Users/nigel/Downloads/[a]_XY_Joint_Right_Upper_extra 0.8.3mf
+[error]	2025-11-29 18:26:21.693452[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-29 18:26:21.709375[Thread 0x00000001f058a080]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-29 18:26:24.239202[Thread 0x000000017194b000]:Error getting: `check_new_version_sf`: HTTP 503, 
+[error]	2025-11-29 18:28:12.644508[Thread 0x00000001f058a080]:calc_exclude_triangles:Unable to create exclude triangles

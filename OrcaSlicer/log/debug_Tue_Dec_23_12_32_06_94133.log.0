@@ -1,0 +1,7 @@
+[error]	2025-12-23 12:32:06.759080[Thread 0x00000001f058a080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-12-23 12:32:07.151154[Thread 0x000000016d787000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2025-12-23 12:32:07.151174[Thread 0x000000016e3ab000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2025-12-23 12:32:07.151197[Thread 0x000000016df9f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2025-12-23 12:32:07.151302[Thread 0x000000016d37b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-12-23 12:32:07.151303[Thread 0x000000016df9f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[warning]	2025-12-23 12:32:08.233286[Thread 0x00000001f058a080]:get_version, get_version not supported,return 00.00.00.00!
