@@ -1,0 +1,27 @@
+[error]	2026-01-04 21:28:23.376978[Thread 0x00000001f4012c40]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2026-01-04 21:28:23.768965[Thread 0x00000001f4012c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-01-04 21:28:23.768997[Thread 0x00000001f4012c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-01-04 21:28:23.769003[Thread 0x00000001f4012c40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2026-01-04 21:28:23.769007[Thread 0x00000001f4012c40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-01-04 21:28:23.769015[Thread 0x00000001f4012c40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-01-04 21:28:23.769020[Thread 0x00000001f4012c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2026-01-04 21:28:23.769087[Thread 0x0000000170353000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-01-04 21:28:23.769132[Thread 0x00000001727bf000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2026-01-04 21:28:23.769054[Thread 0x0000000170f77000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[warning]	2026-01-04 21:28:24.859476[Thread 0x00000001f4012c40]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-01-04 21:28:28.881204[Thread 0x000000016faaf000]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Failed to connect to check-version.orcaslicer.com port 443: Operation timed out
+[Error 28]
+[warning]	2026-01-04 21:28:31.013735[Thread 0x000000017302b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-04 21:54:01.248966[Thread 0x00000001f4012c40]:09:54:01 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-04 21:54:01.275853[Thread 0x00000001f4012c40]:09:54:01 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-04 21:54:37.549701[Thread 0x000000017302b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-04 21:57:30.459236[Thread 0x00000001f4012c40]:09:57:30 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-04 21:57:30.726644[Thread 0x00000001f4012c40]:09:57:30 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-04 21:58:02.942881[Thread 0x000000017302b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-04 21:58:02.943921[Thread 0x000000017302b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-05 07:45:10.288689[Thread 0x00000001f4012c40]:07:45:10 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-05 07:45:10.960379[Thread 0x00000001f4012c40]:07:45:10 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-05 07:45:11.322100[Thread 0x00000001f4012c40]:07:45:11 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-05 08:24:05.113823[Thread 0x000000017302b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-05 08:24:05.122713[Thread 0x000000017302b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used

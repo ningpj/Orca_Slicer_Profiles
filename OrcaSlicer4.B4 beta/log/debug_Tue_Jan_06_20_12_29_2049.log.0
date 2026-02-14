@@ -1,0 +1,58 @@
+[error]	2026-01-06 20:12:30.676823[Thread 0x00000001f4012c40]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2026-01-06 20:12:31.096212[Thread 0x000000017119f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-01-06 20:12:31.096229[Thread 0x0000000170d93000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-01-06 20:12:31.096236[Thread 0x0000000172df3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-01-06 20:12:31.096249[Thread 0x000000017119f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2026-01-06 20:12:31.096273[Thread 0x000000017119f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-01-06 20:12:31.096335[Thread 0x00000001f4012c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-01-06 20:12:31.096342[Thread 0x0000000170d93000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-01-06 20:12:31.096351[Thread 0x0000000172df3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2026-01-06 20:12:31.096358[Thread 0x00000001715ab000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[warning]	2026-01-06 20:12:34.054294[Thread 0x00000001f4012c40]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-01-06 20:15:02.569270[Thread 0x000000017034b000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2026-01-06 20:15:11.752962[Thread 0x0000000171dc3000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-06 20:15:11.763739[Thread 0x0000000171dc3000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-06 20:15:11.786090[Thread 0x00000001721cf000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-06 20:15:11.791062[Thread 0x00000001721cf000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-06 20:15:11.872643[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-06 20:15:11.889453[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-06 20:15:11.891920[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-06 20:15:21.220826[Thread 0x0000000170987000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-06 20:15:21.225395[Thread 0x0000000170987000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-06 20:15:21.235214[Thread 0x0000000171dc3000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-06 20:15:21.240826[Thread 0x0000000171dc3000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-06 20:15:21.316418[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-06 20:15:21.332838[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-06 20:15:21.335413[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-06 21:59:31.497229[Thread 0x00000001719b7000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-06 21:59:31.509303[Thread 0x00000001719b7000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-06 21:59:31.572792[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-06 21:59:31.589529[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-06 22:00:48.835333[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-06 22:00:48.851176[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-06 22:00:48.853702[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-06 22:01:13.176684[Thread 0x0000000171dc3000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-06 22:01:13.182362[Thread 0x0000000171dc3000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-06 22:01:13.282489[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-06 22:01:13.298354[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-06 22:01:13.300914[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-07 07:14:16.292836[Thread 0x00000001f4012c40]:07:14:16 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-07 07:14:16.293652[Thread 0x00000001f4012c40]:07:14:16 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-07 07:32:04.888985[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-07 07:32:04.905155[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-07 07:32:04.907687[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-07 07:32:04.917281[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-07 07:32:28.161235[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-07 07:32:28.175636[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-07 07:32:28.177922[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-07 07:32:28.187798[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-07 07:33:35.426142[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-07 07:33:35.441515[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-07 07:33:35.443912[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-07 07:33:35.453453[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-07 16:56:38.647166[Thread 0x00000001f4012c40]:04:56:38 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-07 16:56:38.647797[Thread 0x00000001f4012c40]:04:56:38 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-07 17:35:20.004999[Thread 0x000000017034b000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2026-01-07 17:35:42.740675[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-07 17:35:42.759998[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-07 17:35:42.762777[Thread 0x000000017a90f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used

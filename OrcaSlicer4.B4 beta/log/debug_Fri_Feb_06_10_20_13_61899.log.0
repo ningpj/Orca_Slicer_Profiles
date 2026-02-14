@@ -1,0 +1,25 @@
+[error]	2026-02-06 10:20:14.261952[Thread 0x0000000200cc2c40]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2026-02-06 10:20:14.626319[Thread 0x0000000200cc2c40]:Unable to open the file/Users/nigel/Downloads/Top Tank Sensor Container-Body-1.3mf
+[error]	2026-02-06 10:20:14.626341[Thread 0x000000016c3cf000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-02-06 10:20:14.626347[Thread 0x0000000200cc2c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-02-06 10:20:14.626350[Thread 0x000000016c3cf000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-02-06 10:20:14.626352[Thread 0x0000000200cc2c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-02-06 10:20:14.626355[Thread 0x000000016c3cf000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-02-06 10:20:14.626356[Thread 0x0000000200cc2c40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2026-02-06 10:20:14.626358[Thread 0x000000016c3cf000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-02-06 10:20:14.626361[Thread 0x0000000200cc2c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[warning]	2026-02-06 10:20:17.557511[Thread 0x0000000200cc2c40]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-02-06 10:21:21.015439[Thread 0x0000000200cc2c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-02-06 10:21:33.188101[Thread 0x0000000200cc2c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-02-06 10:22:10.613777[Thread 0x0000000200cc2c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-02-06 10:22:11.274102[Thread 0x0000000200cc2c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-02-06 10:22:21.521613[Thread 0x0000000200cc2c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-02-06 10:22:23.466175[Thread 0x0000000200cc2c40]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-02-06 10:22:27.867036[Thread 0x000000016f133000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-02-06 10:22:45.086145[Thread 0x000000016f133000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-02-06 10:23:22.422999[Thread 0x000000016f133000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-02-06 10:23:22.439982[Thread 0x000000016f133000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-02-06 10:40:17.397514[Thread 0x0000000200cc2c40]:10:40:17 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-06 10:40:17.397899[Thread 0x0000000200cc2c40]:10:40:17 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-06 10:40:17.682887[Thread 0x0000000200cc2c40]:10:40:17 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2026-02-06 10:41:02.442708[Thread 0x0000000200cc2c40]:tree_sel_change_delayedcan not find page with current selection 

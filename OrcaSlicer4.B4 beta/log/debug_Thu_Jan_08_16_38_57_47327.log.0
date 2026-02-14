@@ -1,0 +1,109 @@
+[error]	2026-01-08 16:38:58.684722[Thread 0x00000001f4012c40]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2026-01-08 16:38:59.086636[Thread 0x000000016e9d3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-01-08 16:38:59.086679[Thread 0x000000016e9d3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-01-08 16:38:59.086694[Thread 0x000000016f5f7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-01-08 16:38:59.086705[Thread 0x000000016fe0f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2026-01-08 16:38:59.086734[Thread 0x000000016fe0f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-01-08 16:38:59.086761[Thread 0x00000001f4012c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-01-08 16:38:59.086773[Thread 0x000000016f1eb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-01-08 16:38:59.086776[Thread 0x00000001f4012c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2026-01-08 16:38:59.086776[Thread 0x000000016fa03000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[warning]	2026-01-08 16:39:01.948749[Thread 0x00000001f4012c40]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-01-08 16:39:08.077664[Thread 0x0000000172b03000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-08 16:39:08.116386[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-08 16:39:18.599494[Thread 0x000000016eddf000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-08 16:39:18.660502[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-08 16:56:17.500662[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 16:56:25.501953[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 16:56:35.675715[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-08 16:56:38.067586[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-08 18:33:47.440419[Thread 0x00000001f4012c40]:06:33:47 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-08 18:33:47.440922[Thread 0x00000001f4012c40]:06:33:47 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2026-01-08 18:49:23.621099[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 18:49:27.284104[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 18:49:28.432882[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-08 18:49:37.836945[Thread 0x000000016f1eb000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-08 18:49:37.865800[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-08 18:57:34.048012[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 18:57:34.812913[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 19:25:03.243324[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-08 19:25:04.231266[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-08 19:25:11.806456[Thread 0x0000000170627000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2026-01-08 19:25:11.822675[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-08 20:04:14.188601[Thread 0x00000001f4012c40]:08:04:14 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-08 20:04:14.189402[Thread 0x00000001f4012c40]:08:04:14 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-08 20:04:14.189657[Thread 0x00000001f4012c40]:08:04:14 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-09 07:18:42.895993[Thread 0x00000001f4012c40]:07:18:42 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-09 07:18:42.897978[Thread 0x00000001f4012c40]:07:18:42 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-09 16:25:41.580576[Thread 0x00000001f4012c40]:04:25:41 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-09 16:25:41.581901[Thread 0x00000001f4012c40]:04:25:41 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2026-01-09 17:00:43.126410[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 17:00:53.329404[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 17:01:01.498701[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 17:01:41.363429[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 17:01:42.383197[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 17:01:57.127651[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 17:02:01.027483[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 17:02:04.086461[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-09 17:02:06.582089[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-09 17:02:06.586531[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-09 17:07:19.223306[Thread 0x00000001f4012c40]:05:07:19 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-09 17:07:19.224236[Thread 0x00000001f4012c40]:05:07:19 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2026-01-09 17:07:36.613033[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-09 17:07:53.371160[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-09 17:07:53.374124[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-09 17:16:40.400207[Thread 0x00000001f4012c40]:05:16:40 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-09 17:16:40.400663[Thread 0x00000001f4012c40]:05:16:40 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-09 17:16:40.400880[Thread 0x00000001f4012c40]:05:16:40 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2026-01-09 17:59:20.724083[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 17:59:34.512868[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-09 17:59:48.513447[Thread 0x000000016db7f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[error]	2026-01-09 17:59:51.308270[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 17:59:51.740357[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 17:59:52.882375[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 17:59:53.933302[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 17:59:54.704086[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 17:59:57.940364[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 18:00:17.478305[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-09 18:00:19.004147[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-09 18:11:22.174772[Thread 0x00000001f4012c40]:06:11:22 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-09 18:11:22.176024[Thread 0x00000001f4012c40]:06:11:22 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2026-01-09 18:11:34.639015[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 18:11:40.649622[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 18:11:45.146370[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 18:11:46.300253[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 18:11:47.110290[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 18:11:47.440366[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 18:11:55.918077[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-09 18:12:15.850534[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-09 18:12:15.851094[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-09 18:12:26.677628[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-09 18:12:26.678380[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-09 18:25:14.475149[Thread 0x00000001f4012c40]:06:25:14 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-09 18:25:14.475902[Thread 0x00000001f4012c40]:06:25:14 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-09 18:58:44.827042[Thread 0x000000016db7f000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2026-01-09 18:58:47.614180[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-09 18:58:47.615551[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-09 20:14:04.422254[Thread 0x00000001f4012c40]:08:14:04 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-09 20:14:04.502630[Thread 0x00000001f4012c40]:08:14:04 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2026-01-09 20:47:28.136234[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 20:47:40.208656[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 20:47:46.113426[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-09 20:48:11.101983[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-09 20:48:15.139243[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-10 01:58:55.968774[Thread 0x00000001f4012c40]:01:58:55 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-10 01:58:55.999106[Thread 0x00000001f4012c40]:01:58:55 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-10 05:10:55.654362[Thread 0x00000001f4012c40]:05:10:55 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-10 05:10:55.676848[Thread 0x00000001f4012c40]:05:10:55 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2026-01-10 05:51:26.276821[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-10 05:51:34.475063[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-10 05:51:41.702935[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-10 05:51:56.199861[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-10 05:52:04.320706[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-10 05:52:12.619098[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-10 05:52:20.511249[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-10 05:52:21.385842[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-10 05:52:25.764728[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-10 05:52:32.927740[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-10 05:52:49.570367[Thread 0x00000001f4012c40]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-10 05:53:03.055172[Thread 0x0000000172b03000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used

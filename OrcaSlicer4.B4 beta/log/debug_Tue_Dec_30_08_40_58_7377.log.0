@@ -1,0 +1,30 @@
+[error]	2025-12-30 08:40:59.108302[Thread 0x000000020b642c40]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2025-12-30 08:40:59.507492[Thread 0x000000020b642c40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2025-12-30 08:40:59.507535[Thread 0x000000020b642c40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2025-12-30 08:40:59.507545[Thread 0x000000020b642c40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2025-12-30 08:40:59.507544[Thread 0x000000016f227000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2025-12-30 08:40:59.507575[Thread 0x000000020b642c40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2025-12-30 08:40:59.507601[Thread 0x000000016f633000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2025-12-30 08:40:59.507643[Thread 0x000000016f633000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[warning]	2025-12-30 08:41:00.786843[Thread 0x000000020b642c40]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Tue_Dec_30/08_41_00#7377#36/_temp_2.config!
+[warning]	2025-12-30 08:41:00.786993[Thread 0x000000020b642c40]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Tue_Dec_30/08_41_00#7377#36/_temp_2.config!
+[warning]	2025-12-30 08:41:00.787083[Thread 0x000000020b642c40]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Tue_Dec_30/08_41_00#7377#36/_temp_2.config!
+[warning]	2025-12-30 08:41:00.787161[Thread 0x000000020b642c40]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Tue_Dec_30/08_41_00#7377#36/_temp_2.config!
+[warning]	2025-12-30 08:41:00.787232[Thread 0x000000020b642c40]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Tue_Dec_30/08_41_00#7377#36/_temp_2.config!
+[warning]	2025-12-30 08:41:00.787295[Thread 0x000000020b642c40]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Tue_Dec_30/08_41_00#7377#36/_temp_2.config!
+[warning]	2025-12-30 08:41:00.787354[Thread 0x000000020b642c40]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Tue_Dec_30/08_41_00#7377#36/_temp_2.config!
+[warning]	2025-12-30 08:41:00.787414[Thread 0x000000020b642c40]:can not find parent for config /var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/orcaslicer_model/Tue_Dec_30/08_41_00#7377#36/_temp_2.config!
+[warning]	2025-12-30 08:41:00.954084[Thread 0x000000020b642c40]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-12-30 08:41:24.963877[Thread 0x000000017147f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2025-12-30 10:34:24.721214[Thread 0x000000020b642c40]:10:34:24 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-30 10:34:24.721556[Thread 0x000000020b642c40]:10:34:24 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-30 12:50:22.700914[Thread 0x000000020b642c40]:12:50:22 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-30 12:50:22.709056[Thread 0x000000020b642c40]:12:50:22 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-30 14:33:25.178410[Thread 0x000000020b642c40]:02:33:25 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-30 14:33:25.954724[Thread 0x000000020b642c40]:02:33:25 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-30 18:51:51.213517[Thread 0x000000020b642c40]:06:51:51 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-30 18:51:51.218690[Thread 0x000000020b642c40]:06:51:51 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-30 19:54:13.717865[Thread 0x000000020b642c40]:07:54:13 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-30 19:54:14.478210[Thread 0x000000020b642c40]:07:54:14 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-31 07:33:53.680299[Thread 0x000000020b642c40]:07:33:53 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-12-31 07:33:53.680711[Thread 0x000000020b642c40]:07:33:53 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')

@@ -1,0 +1,26 @@
+[error]	2026-01-26 19:52:30.442240[Thread 0x000000020796ac40]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2026-01-26 19:52:30.829338[Thread 0x000000016e203000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-01-26 19:52:30.829377[Thread 0x000000016e203000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-01-26 19:52:30.829405[Thread 0x000000016cdc7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2026-01-26 19:52:30.829380[Thread 0x000000016d1d3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-01-26 19:52:30.829419[Thread 0x000000016d1d3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-01-26 19:52:30.829428[Thread 0x000000016d1d3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2026-01-26 19:52:30.829410[Thread 0x000000016e203000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-01-26 19:52:30.829435[Thread 0x000000016d1d3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-01-26 19:52:30.829435[Thread 0x000000020796ac40]:Unable to open the file/Users/nigel/Downloads/Top Tank Sensor Container-Body-1.3mf
+[warning]	2026-01-26 19:52:33.554191[Thread 0x000000020796ac40]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-01-26 19:52:53.007340[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-26 19:52:58.245187[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-26 19:53:31.541028[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-26 19:53:34.525971[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-26 19:53:36.779536[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-26 19:53:39.221411[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-26 19:53:43.227242[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-26 19:53:45.160645[Thread 0x00000001702d3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-26 19:53:45.178354[Thread 0x00000001702d3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-26 19:54:00.183551[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-26 19:54:13.725606[Thread 0x00000001702d3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-26 19:54:13.747363[Thread 0x00000001702d3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-27 07:10:06.402494[Thread 0x000000020796ac40]:07:10:06 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-27 07:10:06.402731[Thread 0x000000020796ac40]:07:10:06 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2026-01-27 07:47:51.258946[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 

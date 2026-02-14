@@ -1,0 +1,11 @@
+[error]	2026-01-24 17:08:42.335262[Thread 0x000000020796ac40]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2026-01-24 17:08:42.674371[Thread 0x000000016fc77000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-01-24 17:08:42.674387[Thread 0x0000000170083000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-01-24 17:08:42.674440[Thread 0x000000017089b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-01-24 17:08:42.674444[Thread 0x000000017048f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-01-24 17:08:42.674531[Thread 0x00000001710b3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2026-01-24 17:08:42.674573[Thread 0x000000016f86b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2026-01-24 17:08:42.674575[Thread 0x000000017089b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-01-24 17:08:42.674579[Thread 0x000000017048f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[warning]	2026-01-24 17:08:45.623277[Thread 0x000000020796ac40]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-01-24 17:08:53.315062[Thread 0x0000000171db7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used

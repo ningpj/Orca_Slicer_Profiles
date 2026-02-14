@@ -1,0 +1,14 @@
+[error]	2026-02-05 17:35:59.671457[Thread 0x0000000200cc2c40]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2026-02-05 17:35:59.989896[Thread 0x0000000200cc2c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-02-05 17:35:59.993682[Thread 0x0000000200cc2c40]:Unable to open the file/Users/nigel/Downloads/Top Tank Sensor Container-Body-1.3mf
+[error]	2026-02-05 17:35:59.993773[Thread 0x00000001705c3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-02-05 17:35:59.993792[Thread 0x00000001705c3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-02-05 17:35:59.993810[Thread 0x00000001701b7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2026-02-05 17:35:59.993821[Thread 0x00000001701b7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-02-05 17:35:59.993842[Thread 0x000000016ed7b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-02-05 17:35:59.993884[Thread 0x0000000200cc2c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-02-05 17:35:59.993886[Thread 0x00000001701b7000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2026-02-05 17:35:59.993894[Thread 0x000000016f593000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[warning]	2026-02-05 17:36:00.937514[Thread 0x0000000200cc2c40]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-02-05 19:51:50.094801[Thread 0x0000000200cc2c40]:07:51:50 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-05 19:51:50.095187[Thread 0x0000000200cc2c40]:07:51:50 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')

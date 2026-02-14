@@ -1,0 +1,31 @@
+[error]	2026-01-11 14:52:48.660745[Thread 0x00000001f4012c40]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2026-01-11 14:52:49.027052[Thread 0x00000001f4012c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-01-11 14:52:49.027079[Thread 0x00000001f4012c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-01-11 14:52:49.027078[Thread 0x000000016cf2f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-01-11 14:52:49.027085[Thread 0x00000001f4012c40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2026-01-11 14:52:49.027089[Thread 0x00000001f4012c40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-01-11 14:52:49.027089[Thread 0x000000016cf2f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-01-11 14:52:49.027092[Thread 0x00000001f4012c40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-01-11 14:52:49.027096[Thread 0x000000016cf2f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2026-01-11 14:52:49.027179[Thread 0x000000016e777000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[warning]	2026-01-11 14:52:50.112389[Thread 0x00000001f4012c40]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-01-11 16:48:38.023177[Thread 0x00000001f4012c40]:04:48:38 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-11 16:48:38.023638[Thread 0x00000001f4012c40]:04:48:38 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-11 20:56:44.043729[Thread 0x00000001f4012c40]:08:56:44 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-11 20:56:44.892897[Thread 0x00000001f4012c40]:08:56:44 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-12 07:10:07.881416[Thread 0x00000001f4012c40]:07:10:07 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-12 07:10:07.881879[Thread 0x00000001f4012c40]:07:10:07 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-12 17:32:54.166707[Thread 0x00000001f4012c40]:05:32:54 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-12 17:32:55.080975[Thread 0x00000001f4012c40]:05:32:55 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-13 07:25:56.693448[Thread 0x00000001f4012c40]:07:25:56 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-13 07:25:57.379607[Thread 0x00000001f4012c40]:07:25:57 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-13 16:59:34.789848[Thread 0x00000001f4012c40]:04:59:34 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-13 16:59:35.763385[Thread 0x00000001f4012c40]:04:59:35 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-13 19:55:59.917153[Thread 0x00000001f4012c40]:07:55:59 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-13 19:55:59.918427[Thread 0x00000001f4012c40]:07:55:59 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-13 21:19:09.202224[Thread 0x00000001f4012c40]:09:19:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-13 21:19:09.202717[Thread 0x00000001f4012c40]:09:19:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-14 07:06:24.966776[Thread 0x00000001f4012c40]:07:06:24 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-14 07:06:25.768569[Thread 0x00000001f4012c40]:07:06:25 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-14 20:32:40.406453[Thread 0x00000001f4012c40]:08:32:40 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-14 20:32:41.419173[Thread 0x00000001f4012c40]:08:32:41 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')

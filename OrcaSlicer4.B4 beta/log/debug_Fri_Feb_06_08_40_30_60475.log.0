@@ -1,0 +1,14 @@
+[error]	2026-02-06 08:40:31.679965[Thread 0x0000000200cc2c40]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2026-02-06 08:40:32.073054[Thread 0x0000000200cc2c40]:Unable to open the file/Users/nigel/Downloads/Top Tank Sensor Container-Body-1.3mf
+[error]	2026-02-06 08:40:32.073247[Thread 0x0000000200cc2c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-02-06 08:40:32.073270[Thread 0x0000000200cc2c40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-02-06 08:40:32.073276[Thread 0x0000000200cc2c40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2026-02-06 08:40:32.073275[Thread 0x00000001733eb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2026-02-06 08:40:32.073283[Thread 0x0000000172bd3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-02-06 08:40:32.073329[Thread 0x000000017138b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-02-06 08:40:32.073314[Thread 0x0000000171797000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-02-06 08:40:32.073314[Thread 0x0000000170f7f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[warning]	2026-02-06 08:40:36.488718[Thread 0x0000000200cc2c40]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-02-06 08:40:44.075638[Thread 0x0000000174923000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-02-06 10:14:45.446008[Thread 0x0000000200cc2c40]:10:14:45 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-06 10:14:45.731891[Thread 0x0000000200cc2c40]:10:14:45 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')

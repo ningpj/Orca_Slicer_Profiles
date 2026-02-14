@@ -1,0 +1,171 @@
+[error]	2026-01-16 21:22:48.855144[Thread 0x00000001fc4f2c40]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2026-01-16 21:22:49.246089[Thread 0x00000001fc4f2c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-01-16 21:22:49.246104[Thread 0x0000000170e17000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-01-16 21:22:49.246128[Thread 0x00000001fc4f2c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-01-16 21:22:49.246136[Thread 0x00000001fc4f2c40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2026-01-16 21:22:49.246142[Thread 0x00000001fc4f2c40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-01-16 21:22:49.246154[Thread 0x0000000170e17000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-01-16 21:22:49.246163[Thread 0x0000000170e17000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-01-16 21:22:49.246167[Thread 0x0000000170e17000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2026-01-16 21:22:49.246199[Thread 0x0000000171a3b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[warning]	2026-01-16 21:22:50.356909[Thread 0x00000001fc4f2c40]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-01-16 21:33:12.628891[Thread 0x0000000172253000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.628931[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.628932[Thread 0x0000000171a3b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.628955[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629013[Thread 0x0000000173283000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629085[Thread 0x0000000172253000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629087[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629096[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629108[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629116[Thread 0x0000000171a3b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629097[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629097[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629221[Thread 0x0000000173283000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629233[Thread 0x0000000171a3b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629241[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629252[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629334[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629337[Thread 0x0000000171a3b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629351[Thread 0x0000000172253000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629351[Thread 0x0000000173283000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629357[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629363[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629434[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629438[Thread 0x0000000171a3b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629464[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629477[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629495[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629518[Thread 0x0000000171a3b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629537[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629622[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629625[Thread 0x0000000173283000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629636[Thread 0x0000000172253000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629682[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629545[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629556[Thread 0x0000000171223000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629715[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629720[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629782[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629819[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629836[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629840[Thread 0x0000000171223000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629846[Thread 0x0000000173283000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629872[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629886[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629888[Thread 0x0000000172253000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629895[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629925[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629951[Thread 0x0000000173283000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629958[Thread 0x0000000171223000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629981[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629991[Thread 0x0000000172253000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630023[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630027[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630034[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630047[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630077[Thread 0x0000000171223000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630081[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629586[Thread 0x0000000171a3b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630114[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630089[Thread 0x0000000172253000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630162[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630177[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630198[Thread 0x0000000171223000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630202[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630205[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630253[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630252[Thread 0x0000000171a3b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630257[Thread 0x0000000172253000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630276[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630290[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630298[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630299[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630306[Thread 0x0000000171223000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630338[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630369[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630379[Thread 0x0000000171a3b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630390[Thread 0x0000000172253000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630391[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630395[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630413[Thread 0x0000000171223000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630420[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630474[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630487[Thread 0x0000000171a3b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630496[Thread 0x0000000171223000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630502[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630504[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630536[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630090[Thread 0x0000000173283000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630550[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630565[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630570[Thread 0x0000000171223000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630599[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630618[Thread 0x0000000172253000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630671[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630680[Thread 0x0000000171223000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630682[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630687[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630693[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630699[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630749[Thread 0x0000000171223000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630752[Thread 0x0000000172253000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630785[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630789[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630846[Thread 0x0000000171223000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630848[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630851[Thread 0x0000000171a3b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630874[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630874[Thread 0x0000000173283000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630887[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630894[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630916[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630948[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630957[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630958[Thread 0x0000000171223000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630984[Thread 0x0000000172253000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.630988[Thread 0x0000000173283000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631013[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631040[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631042[Thread 0x0000000171a3b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629563[Thread 0x000000017265f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631050[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631082[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631089[Thread 0x0000000173283000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631108[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631122[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631127[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631138[Thread 0x0000000171223000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631171[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631183[Thread 0x0000000173283000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631200[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631213[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631227[Thread 0x0000000172253000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631256[Thread 0x0000000171a3b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631261[Thread 0x0000000171e47000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631268[Thread 0x0000000171223000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631273[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631280[Thread 0x0000000170e17000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631294[Thread 0x000000017265f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631317[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631322[Thread 0x0000000173283000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631339[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629568[Thread 0x0000000172e77000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.629575[Thread 0x0000000173efb000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631494[Thread 0x0000000173efb000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631503[Thread 0x0000000172e77000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631505[Thread 0x0000000170a0b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631511[Thread 0x000000017162f000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.631522[Thread 0x0000000172a6b000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-01-16 21:33:12.649469[Thread 0x0000000173efb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-16 21:33:12.701341[Thread 0x0000000173efb000]:call_process:got other exception
+[warning]	2026-01-16 21:34:34.363608[Thread 0x0000000173efb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-16 21:34:34.407006[Thread 0x0000000173efb000]:call_process:got other exception
+[warning]	2026-01-16 21:34:55.587502[Thread 0x0000000173efb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-16 21:34:55.635028[Thread 0x0000000173efb000]:call_process:got other exception
+[warning]	2026-01-16 21:36:47.280368[Thread 0x0000000173efb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-16 21:36:47.323340[Thread 0x0000000173efb000]:call_process:got other exception
+[warning]	2026-01-16 21:38:17.478911[Thread 0x0000000173efb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-16 21:38:17.517076[Thread 0x0000000173efb000]:call_process:got other exception
+[warning]	2026-01-16 21:38:46.219165[Thread 0x0000000173efb000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-16 21:38:46.256552[Thread 0x0000000173efb000]:call_process:got other exception

@@ -1,0 +1,73 @@
+[error]	2026-01-23 20:11:16.733277[Thread 0x000000020796ac40]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2026-01-23 20:11:17.110062[Thread 0x000000020796ac40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-01-23 20:11:17.110092[Thread 0x000000020796ac40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-01-23 20:11:17.110734[Thread 0x0000000170aaf000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2026-01-23 20:11:17.110746[Thread 0x000000016fe8b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[error]	2026-01-23 20:11:17.110960[Thread 0x000000016e643000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-01-23 20:11:17.110984[Thread 0x000000020796ac40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2026-01-23 20:11:17.111015[Thread 0x00000001706a3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-01-23 20:11:17.111021[Thread 0x000000016ea4f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-01-23 20:11:17.111022[Thread 0x000000016e237000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[warning]	2026-01-23 20:11:18.171541[Thread 0x000000020796ac40]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-01-23 20:12:24.548179[Thread 0x000000016dbfb000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[error]	2026-01-23 20:13:01.202543[Thread 0x000000020796ac40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-23 20:55:45.628642[Thread 0x000000020796ac40]:08:55:45 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-23 20:55:46.286052[Thread 0x000000020796ac40]:08:55:46 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-23 20:57:11.720994[Thread 0x000000020796ac40]:08:57:11 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2026-01-23 20:57:53.802051[Thread 0x000000020796ac40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-23 20:57:54.466716[Thread 0x000000020796ac40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-23 20:58:30.802313[Thread 0x000000020796ac40]:08:58:30 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-24 08:28:14.518555[Thread 0x000000020796ac40]:08:28:14 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-24 08:28:15.191644[Thread 0x000000020796ac40]:08:28:15 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-24 08:48:30.115340[Thread 0x000000016dbfb000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2026-01-24 08:48:49.463944[Thread 0x000000016dbfb000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2026-01-24 08:49:21.571920[Thread 0x000000016dbfb000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2026-01-24 08:49:40.386498[Thread 0x000000016dbfb000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[error]	2026-01-24 08:50:52.263216[Thread 0x000000020796ac40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-24 08:52:23.850285[Thread 0x000000020796ac40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-24 08:58:03.376142[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-24 08:58:56.945839[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 08:58:57.266094[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 08:58:57.291148[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 08:58:57.316057[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-24 08:58:57.860325[Thread 0x000000017a4e7000]:gcode path conflicts found between Top Tank Sensor Container-Sensor Bottom.stl and Top Tank Sensor Container-Sensor Bottom.stl
+[warning]	2026-01-24 08:59:31.754979[Thread 0x000000016dbfb000]:Arrange full params: {"min_obj_distance":2130000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2026-01-24 08:59:54.176007[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 08:59:54.500630[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 08:59:54.525825[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 08:59:54.551254[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 08:59:54.557494[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 09:00:42.792125[Thread 0x000000016dbfb000]:Arrange full params: {"min_obj_distance":2130000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2026-01-24 09:01:44.151310[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 09:01:44.478652[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 09:01:44.504681[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 09:11:50.765579[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 09:11:50.912914[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 09:11:50.937510[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 09:12:15.858797[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 09:12:16.188026[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 09:12:16.214245[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 09:12:50.066735[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 09:19:58.377466[Thread 0x000000020796ac40]:09:19:58 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-24 09:19:58.377988[Thread 0x000000020796ac40]:09:19:58 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-24 09:50:54.779294[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 09:52:25.401572[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 10:18:15.913923[Thread 0x000000020796ac40]:10:18:15 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-24 10:18:16.062902[Thread 0x000000020796ac40]:10:18:16 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-24 10:18:16.063403[Thread 0x000000020796ac40]:10:18:16 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-24 10:18:41.615522[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 10:18:41.935005[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 10:18:41.959687[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 10:19:06.961113[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 10:19:07.079747[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 10:19:07.093089[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 11:34:45.370032[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 11:34:45.497337[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 11:34:45.511427[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 13:44:21.058681[Thread 0x000000020796ac40]:01:44:21 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-24 13:44:21.059432[Thread 0x000000020796ac40]:01:44:21 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-24 13:47:08.365117[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 13:48:22.409420[Thread 0x000000017a4e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-24 14:05:50.989725[Thread 0x000000020796ac40]:02:05:50 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-24 14:05:50.990308[Thread 0x000000020796ac40]:02:05:50 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-24 14:05:50.990658[Thread 0x000000020796ac40]:02:05:50 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')

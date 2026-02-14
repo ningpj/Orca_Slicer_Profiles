@@ -1,0 +1,58 @@
+[error]	2026-01-31 09:53:31.970229[Thread 0x0000000200cc2c40]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2026-01-31 09:53:32.313765[Thread 0x0000000200cc2c40]:Unable to open the file/Users/nigel/Downloads/Top Tank Sensor Container-Body-1.3mf
+[error]	2026-01-31 09:53:32.313783[Thread 0x000000016ed43000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-01-31 09:53:32.313794[Thread 0x000000016ed43000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-01-31 09:53:32.313800[Thread 0x000000016ed43000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-01-31 09:53:32.313802[Thread 0x0000000200cc2c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-01-31 09:53:32.313804[Thread 0x000000016ed43000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-01-31 09:53:32.313807[Thread 0x0000000200cc2c40]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-01-31 09:53:32.313808[Thread 0x000000016ed43000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2026-01-31 09:53:32.313813[Thread 0x0000000200cc2c40]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[warning]	2026-01-31 09:53:35.915926[Thread 0x0000000200cc2c40]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-01-31 09:53:51.877802[Thread 0x0000000200cc2c40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-31 09:53:58.795911[Thread 0x000000016e707000]:Arrange full params: {"min_obj_distance":2130000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[warning]	2026-01-31 09:54:15.709884[Thread 0x000000016e707000]:Arrange full params: {"min_obj_distance":2130000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":120.000000,
+[error]	2026-01-31 09:54:49.881573[Thread 0x0000000200cc2c40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-31 10:00:15.270807[Thread 0x0000000200cc2c40]:10:00:15 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-31 10:00:15.283683[Thread 0x0000000200cc2c40]:10:00:15 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-31 10:00:15.284027[Thread 0x0000000200cc2c40]:10:00:15 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-31 10:04:40.770689[Thread 0x0000000200cc2c40]:10:04:40 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-31 10:04:40.771060[Thread 0x0000000200cc2c40]:10:04:40 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-31 10:19:25.813760[Thread 0x0000000200cc2c40]:10:19:25 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-31 10:19:25.814091[Thread 0x0000000200cc2c40]:10:19:25 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-31 10:19:25.814248[Thread 0x0000000200cc2c40]:10:19:25 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-31 11:43:38.051749[Thread 0x0000000200cc2c40]:11:43:38 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-31 11:43:38.051957[Thread 0x0000000200cc2c40]:11:43:38 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-01 08:12:18.462765[Thread 0x0000000200cc2c40]:08:12:18 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-01 08:12:19.245703[Thread 0x0000000200cc2c40]:08:12:19 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-01 17:22:33.141510[Thread 0x0000000200cc2c40]:05:22:33 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-01 17:22:33.143403[Thread 0x0000000200cc2c40]:05:22:33 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-02 07:28:15.159477[Thread 0x0000000200cc2c40]:07:28:15 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-02 07:28:15.159989[Thread 0x0000000200cc2c40]:07:28:15 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-02 18:12:19.129798[Thread 0x0000000200cc2c40]:06:12:19 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-02 18:12:19.138755[Thread 0x0000000200cc2c40]:06:12:19 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-02 18:45:08.932200[Thread 0x0000000200cc2c40]:06:45:08 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-02 18:45:09.813311[Thread 0x0000000200cc2c40]:06:45:09 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-02 21:13:45.868330[Thread 0x0000000200cc2c40]:09:13:45 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-02 21:13:45.874583[Thread 0x0000000200cc2c40]:09:13:45 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-03 07:09:30.516317[Thread 0x0000000200cc2c40]:07:09:30 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-03 07:09:30.517255[Thread 0x0000000200cc2c40]:07:09:30 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-03 15:59:31.041463[Thread 0x0000000200cc2c40]:03:59:31 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-03 15:59:31.041778[Thread 0x0000000200cc2c40]:03:59:31 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-03 18:54:15.280964[Thread 0x0000000200cc2c40]:06:54:15 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-03 18:54:16.276109[Thread 0x0000000200cc2c40]:06:54:16 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-03 20:10:13.207023[Thread 0x0000000200cc2c40]:08:10:13 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-03 20:10:13.216110[Thread 0x0000000200cc2c40]:08:10:13 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-04 07:06:03.932375[Thread 0x0000000200cc2c40]:07:06:03 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-04 07:06:03.932657[Thread 0x0000000200cc2c40]:07:06:03 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-04 07:51:11.268102[Thread 0x0000000200cc2c40]:07:51:11 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-04 07:51:11.274455[Thread 0x0000000200cc2c40]:07:51:11 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-04 17:08:57.833816[Thread 0x0000000200cc2c40]:05:08:57 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-04 17:08:57.834266[Thread 0x0000000200cc2c40]:05:08:57 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-04 18:20:41.707976[Thread 0x0000000200cc2c40]:06:20:41 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-04 18:20:42.612036[Thread 0x0000000200cc2c40]:06:20:42 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-04 18:55:41.649650[Thread 0x0000000200cc2c40]:06:55:41 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-04 18:55:41.651892[Thread 0x0000000200cc2c40]:06:55:41 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-05 07:15:10.352187[Thread 0x0000000200cc2c40]:07:15:10 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-02-05 07:15:10.352601[Thread 0x0000000200cc2c40]:07:15:10 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2026-02-05 07:26:12.696490[Thread 0x0000000200cc2c40]:calc_exclude_triangles:Unable to create exclude triangles

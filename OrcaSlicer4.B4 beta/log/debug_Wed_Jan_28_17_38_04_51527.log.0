@@ -1,0 +1,19 @@
+[error]	2026-01-28 17:38:05.314903[Thread 0x000000020796ac40]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2026-01-28 17:38:05.746245[Thread 0x000000020796ac40]:Unable to open the file/Users/nigel/Downloads/Top Tank Sensor Container-Body-1.3mf
+[error]	2026-01-28 17:38:05.746301[Thread 0x000000016c8cb000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-01-28 17:38:05.746349[Thread 0x000000016e113000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-01-28 17:38:05.746382[Thread 0x000000016d0e3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-01-28 17:38:05.746385[Thread 0x000000016f143000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-01-28 17:38:05.746487[Thread 0x000000016c8cb000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-01-28 17:38:05.746494[Thread 0x000000016c8cb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2026-01-28 17:38:05.746488[Thread 0x000000016e113000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-01-28 17:38:05.746506[Thread 0x000000016d0e3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[warning]	2026-01-28 17:38:06.975229[Thread 0x000000020796ac40]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-01-28 17:57:56.890911[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-28 17:57:59.612545[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-28 17:58:04.781442[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-01-28 17:58:10.165965[Thread 0x0000000175a3b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-28 20:06:19.968557[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-28 20:06:35.411577[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-28 20:06:53.755522[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-28 20:06:54.547143[Thread 0x000000020796ac40]:tree_sel_change_delayedcan not find page with current selection 

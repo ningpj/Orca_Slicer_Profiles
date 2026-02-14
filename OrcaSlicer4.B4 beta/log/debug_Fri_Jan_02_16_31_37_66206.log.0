@@ -1,0 +1,52 @@
+[error]	2026-01-02 16:31:37.851837[Thread 0x00000001f4012c40]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2026-01-02 16:31:38.230845[Thread 0x000000016dfd3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-01-02 16:31:38.230890[Thread 0x000000016ebf7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2026-01-02 16:31:38.230893[Thread 0x000000016dfd3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-01-02 16:31:38.230900[Thread 0x000000016ebf7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-01-02 16:31:38.230900[Thread 0x000000016dfd3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-01-02 16:31:38.230912[Thread 0x000000016dbc7000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-01-02 16:31:38.230915[Thread 0x000000016dfd3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2026-01-02 16:31:38.230937[Thread 0x000000016dfd3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/61bbfb08-a75d-467c-aa71-e242693d9387/Dragonburner_crossbow_cutter_mount.3mf
+[warning]	2026-01-02 16:31:39.357101[Thread 0x00000001f4012c40]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-01-02 18:28:41.742300[Thread 0x00000001f4012c40]:06:28:41 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-02 18:28:41.762184[Thread 0x00000001f4012c40]:06:28:41 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-02 19:00:02.358540[Thread 0x000000016c55b000]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":270.000000,
+[warning]	2026-01-02 19:01:03.688246[Thread 0x000000017b00f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 19:01:03.694813[Thread 0x000000017b00f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 19:01:03.696674[Thread 0x000000017b00f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 19:01:03.704413[Thread 0x000000017b00f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 19:01:03.756844[Thread 0x000000017b00f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 19:01:56.844699[Thread 0x000000017b00f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 19:01:56.851501[Thread 0x000000017b00f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-02 19:02:00.859128[Thread 0x000000017b00f000]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+PTFE Cutter and Length Tool[PSF]_ABS_0.4_1h50m
+                            ^
+[warning]	2026-01-02 19:02:42.303951[Thread 0x000000017b00f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 19:02:42.310514[Thread 0x000000017b00f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 19:02:42.312339[Thread 0x000000017b00f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 19:02:51.794962[Thread 0x000000017b00f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 19:02:51.799064[Thread 0x000000017b00f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-02 19:02:56.105093[Thread 0x000000017b00f000]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_Cable_cover[PSF]_ABS_0.4_19m6s
+ ^
+[warning]	2026-01-02 19:03:15.749144[Thread 0x000000017b00f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-02 19:03:18.667376[Thread 0x000000017b00f000]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+[a]_ECAS_trigger[PSF]_ABS_0.4_9m52s
+ ^
+[warning]	2026-01-02 19:19:51.399666[Thread 0x000000017b00f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-01-02 19:19:51.406552[Thread 0x000000017b00f000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2026-01-02 19:19:56.178378[Thread 0x000000017b00f000]:Failed to apply the print statistics to the export file name: Parsing error at line 1: Variable does not exist
+PTFE Cutter and Length Tool[PSF]_ABS_0.4_1h50m
+                            ^
+[warning]	2026-01-02 23:33:10.083425[Thread 0x00000001f4012c40]:11:33:10 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-02 23:33:10.084141[Thread 0x00000001f4012c40]:11:33:10 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-03 07:23:00.882449[Thread 0x00000001f4012c40]:07:23:00 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-03 07:23:01.648516[Thread 0x00000001f4012c40]:07:23:01 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-03 09:46:47.368420[Thread 0x00000001f4012c40]:09:46:47 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-03 09:46:47.413982[Thread 0x00000001f4012c40]:09:46:47 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-03 17:38:51.020811[Thread 0x00000001f4012c40]:05:38:51 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-03 17:38:51.022903[Thread 0x00000001f4012c40]:05:38:51 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-03 21:45:12.565878[Thread 0x00000001f4012c40]:09:45:12 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-03 21:45:13.521761[Thread 0x00000001f4012c40]:09:45:13 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-04 04:23:58.649997[Thread 0x00000001f4012c40]:04:23:58 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2026-01-04 04:23:59.552649[Thread 0x00000001f4012c40]:04:23:59 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
