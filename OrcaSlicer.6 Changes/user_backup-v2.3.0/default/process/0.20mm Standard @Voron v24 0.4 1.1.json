@@ -1,0 +1,17 @@
+{
+    "bottom_shell_thickness": "1",
+    "enable_prime_tower": "0",
+    "from": "User",
+    "inherits": "0.20mm Standard @Voron v24 0.4 nozzle",
+    "initial_layer_infill_speed": "100",
+    "initial_layer_speed": "100",
+    "interlocking_beam": "1",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @Voron v24 0.4 1.1",
+    "print_settings_id": "0.20mm Standard @Voron v24 0.4 1.1",
+    "small_perimeter_speed": "120",
+    "top_shell_thickness": "1",
+    "version": "2.0.2.0",
+    "wall_generator": "classic",
+    "wall_sequence": "inner wall/outer wall"
+}

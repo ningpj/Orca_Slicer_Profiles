@@ -1,0 +1,33 @@
+[info]	2026-03-30 07:45:48.136880[Thread 0x00000001fa9458c0]:gui mode, Current OrcaSlicer Version 2.3.2 build c724a3f5
+[error]	2026-03-30 07:45:48.646076[Thread 0x00000001fa9458c0]:can not find parent Siraya Tech PET-CF v1 for config /Users/nigel/Library/Application Support/OrcaSlicer/user/default/filament/Siraya Tech PET-CF v1.1.json!
+[error]	2026-03-30 07:45:48.875964[Thread 0x00000001fa9458c0]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[warning]	2026-03-30 07:45:48.991094[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-03-30 07:45:49.237157[Thread 0x0000000171247000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2026-03-30 07:45:49.237192[Thread 0x0000000170a2f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-03-30 07:45:49.237214[Thread 0x0000000170a2f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-03-30 07:45:49.237249[Thread 0x0000000172683000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/018934bb-7165-48ea-9ccf-c19ccc8ae10e/Yavoth_WWBMG_SHT36_Mount.3mf
+[error]	2026-03-30 07:45:49.237289[Thread 0x00000001fa9458c0]:Unable to open the file/Users/nigel/Downloads/Top Tank Sensor Container-Body-1.3mf
+[error]	2026-03-30 07:45:49.237289[Thread 0x0000000172277000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-03-30 07:45:49.237366[Thread 0x00000001732a7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-03-30 07:45:49.237367[Thread 0x0000000171e6b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-03-30 07:45:49.237369[Thread 0x0000000171653000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-03-30 07:45:49.237372[Thread 0x0000000172e9b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[warning]	2026-03-30 07:45:49.408024[Thread 0x00000001fa9458c0]:07:45:49 AM: Error: can't open file '/Applications/OrcaSlicer.app/Contents/Resources/images/printer_preview_.png' (error 2: No such file or directory)
+[warning]	2026-03-30 07:45:49.408070[Thread 0x00000001fa9458c0]:07:45:49 AM: Error: Failed to load image from file "/Applications/OrcaSlicer.app/Contents/Resources/images/printer_preview_.png".
+[error]	2026-03-30 07:45:49.408078[Thread 0x00000001fa9458c0]:create_scaled_bitmapCould not load bitmap: printer_preview_
+[error]	2026-03-30 07:45:49.414577[Thread 0x00000001fa9458c0]:_parse_printer_type Unsupported printer type: Voron v24
+[warning]	2026-03-30 07:45:49.766759[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-30 07:45:50.491259[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-30 07:45:51.675368[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-30 07:45:53.675051[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-30 07:45:55.675457[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-30 07:45:57.675352[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-30 07:45:59.686244[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-30 07:46:01.677001[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-30 07:46:03.675745[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-30 07:46:05.675501[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-30 07:46:07.675242[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-30 07:46:09.675499[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-30 07:46:11.675531[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-30 07:46:13.675521[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-30 07:46:15.675882[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!

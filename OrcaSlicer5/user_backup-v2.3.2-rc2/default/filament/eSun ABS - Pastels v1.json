@@ -1,0 +1,24 @@
+{
+    "fan_min_speed": [
+        "25"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_settings_id": [
+        "eSun ABS - Pastels v1"
+    ],
+    "from": "User",
+    "inherits": "eSun ABS - Pastels v1 @Voron v24 0.4 nozzle",
+    "name": "eSun ABS - Pastels v1",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "pressure_advance": [
+        "0"
+    ],
+    "version": "2.0.2.0"
+}

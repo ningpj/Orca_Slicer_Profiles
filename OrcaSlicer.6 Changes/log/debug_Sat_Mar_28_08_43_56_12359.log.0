@@ -1,0 +1,48 @@
+[info]	2026-03-28 08:43:56.220209[Thread 0x00000001fa9458c0]:gui mode, Current OrcaSlicer Version 2.3.2-rc2 build 61870631
+[error]	2026-03-28 08:43:57.251812[Thread 0x00000001fa9458c0]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[warning]	2026-03-28 08:43:57.381093[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-03-28 08:43:57.623667[Thread 0x00000001fa9458c0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-03-28 08:43:57.629462[Thread 0x00000001fa9458c0]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/018934bb-7165-48ea-9ccf-c19ccc8ae10e/Yavoth_WWBMG_SHT36_Mount.3mf
+[error]	2026-03-28 08:43:57.629492[Thread 0x00000001713bf000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2026-03-28 08:43:57.629497[Thread 0x0000000171bd7000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-03-28 08:43:57.629516[Thread 0x0000000173013000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-03-28 08:43:57.629835[Thread 0x0000000170fb3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-03-28 08:43:57.629841[Thread 0x0000000171bd7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-03-28 08:43:57.629841[Thread 0x0000000173013000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-03-28 08:43:57.629862[Thread 0x0000000171fe3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-03-28 08:43:57.629864[Thread 0x000000017341f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2026-03-28 08:43:57.630001[Thread 0x0000000171bd7000]:Unable to open the file/Users/nigel/Downloads/Top Tank Sensor Container-Body-1.3mf
+[warning]	2026-03-28 08:43:57.771966[Thread 0x00000001fa9458c0]:08:43:57 AM: Error: can't open file '/Applications/OrcaSlicer.app/Contents/Resources/images/printer_preview_.png' (error 2: No such file or directory)
+[warning]	2026-03-28 08:43:57.772037[Thread 0x00000001fa9458c0]:08:43:57 AM: Error: Failed to load image from file "/Applications/OrcaSlicer.app/Contents/Resources/images/printer_preview_.png".
+[error]	2026-03-28 08:43:57.772047[Thread 0x00000001fa9458c0]:create_scaled_bitmapCould not load bitmap: printer_preview_
+[error]	2026-03-28 08:43:57.775357[Thread 0x00000001fa9458c0]:_parse_printer_type Unsupported printer type: Voron v02
+[warning]	2026-03-28 08:43:58.178522[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-03-28 08:43:59.260358[Thread 0x00000001fa9458c0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-28 08:43:59.281790[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:00.092958[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:02.092907[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:04.093518[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:06.093044[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:08.093009[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:10.093327[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:12.092973[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:14.092999[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:16.093040[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:18.093041[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:20.092521[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:22.093026[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:24.093051[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:26.092938[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:28.092342[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:30.092823[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:32.092534[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:34.092091[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:36.092100[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:38.092103[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:40.093047[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:42.093090[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:44.093063[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:46.093065[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:48.093091[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 08:44:50.092410[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-03-28 08:44:51.667656[Thread 0x00000001fa9458c0]:calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,14 @@
+{
+    "from": "User",
+    "inherits": "Voron v02 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Voron v02 0.6 nozzle",
+    "nozzle_diameter": [
+        "0.6"
+    ],
+    "printer_settings_id": "Voron v02 0.6 nozzle",
+    "retraction_minimum_travel": [
+        "2"
+    ],
+    "version": "2.0.2.0"
+}

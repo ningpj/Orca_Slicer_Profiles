@@ -1,0 +1,23 @@
+[info]	2026-03-28 12:05:31.441594[Thread 0x00000001fa9458c0]:gui mode, Current OrcaSlicer Version 2.3.2-rc2 build 61870631
+[error]	2026-03-28 12:05:32.435921[Thread 0x00000001fa9458c0]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[warning]	2026-03-28 12:05:32.561159[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-03-28 12:05:32.832210[Thread 0x0000000170d8b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-03-28 12:05:32.832535[Thread 0x00000001729df000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-03-28 12:05:32.832565[Thread 0x00000001729df000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2026-03-28 12:05:32.832563[Thread 0x000000017097f000]:Unable to open the file/Users/nigel/Downloads/Top Tank Sensor Container-Body-1.3mf
+[error]	2026-03-28 12:05:32.832563[Thread 0x0000000170d8b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-03-28 12:05:32.832578[Thread 0x00000001729df000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-03-28 12:05:32.832583[Thread 0x0000000170573000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-03-28 12:05:32.832584[Thread 0x0000000171dbb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-03-28 12:05:32.832588[Thread 0x00000001725d3000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/018934bb-7165-48ea-9ccf-c19ccc8ae10e/Yavoth_WWBMG_SHT36_Mount.3mf
+[error]	2026-03-28 12:05:32.832590[Thread 0x00000001715a3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[warning]	2026-03-28 12:05:32.994922[Thread 0x00000001fa9458c0]:12:05:32 PM: Error: can't open file '/Applications/OrcaSlicer 2.3.2-RC2.app/Contents/Resources/images/printer_preview_.png' (error 2: No such file or directory)
+[warning]	2026-03-28 12:05:32.994963[Thread 0x00000001fa9458c0]:12:05:32 PM: Error: Failed to load image from file "/Applications/OrcaSlicer 2.3.2-RC2.app/Contents/Resources/images/printer_preview_.png".
+[error]	2026-03-28 12:05:32.994972[Thread 0x00000001fa9458c0]:create_scaled_bitmapCould not load bitmap: printer_preview_
+[error]	2026-03-28 12:05:33.001673[Thread 0x00000001fa9458c0]:_parse_printer_type Unsupported printer type: Voron v24
+[warning]	2026-03-28 12:05:33.414520[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 12:05:35.288206[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 12:05:36.882823[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 12:05:37.287648[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 12:05:39.288068[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-03-28 12:05:41.288004[Thread 0x00000001fa9458c0]:get_version, get_version not supported, return 00.00.00.00!

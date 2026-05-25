@@ -1,0 +1,214 @@
+[info]	2026-04-17 09:49:48.313863[Thread 0x00000001f57398c0]:gui mode, Current OrcaSlicer Version 2.3.2 build c724a3f5
+[error]	2026-04-17 09:49:49.067223[Thread 0x00000001f57398c0]:can not find parent Siraya Tech PET-CF v1 for config /Users/nigel/Library/Application Support/OrcaSlicer/user/default/filament/Siraya Tech PET-CF v1.1.json!
+[error]	2026-04-17 09:49:49.359853[Thread 0x00000001f57398c0]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[warning]	2026-04-17 09:49:49.483393[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-04-17 09:49:49.756599[Thread 0x000000016c3a3000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2026-04-17 09:49:49.756636[Thread 0x000000016cfc7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-04-17 09:49:49.756652[Thread 0x000000016dff7000]:Unable to open the file/Users/nigel/Downloads/Top Tank Sensor Container-Body-1.3mf
+[error]	2026-04-17 09:49:49.756631[Thread 0x000000016cbbb000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-04-17 09:49:49.756612[Thread 0x000000016c7af000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-04-17 09:49:49.756629[Thread 0x000000016e403000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-04-17 09:49:49.756786[Thread 0x000000016c7af000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-04-17 09:49:49.756858[Thread 0x000000016dbeb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-04-17 09:49:49.756860[Thread 0x000000016c7af000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/018934bb-7165-48ea-9ccf-c19ccc8ae10e/Yavoth_WWBMG_SHT36_Mount.3mf
+[error]	2026-04-17 09:49:49.756865[Thread 0x000000016e80f000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[warning]	2026-04-17 09:49:49.926891[Thread 0x00000001f57398c0]:09:49:49 AM: Error: can't open file '/Applications/OrcaSlicer.app/Contents/Resources/images/printer_preview_.png' (error 2: No such file or directory)
+[warning]	2026-04-17 09:49:49.926936[Thread 0x00000001f57398c0]:09:49:49 AM: Error: Failed to load image from file "/Applications/OrcaSlicer.app/Contents/Resources/images/printer_preview_.png".
+[error]	2026-04-17 09:49:49.926943[Thread 0x00000001f57398c0]:create_scaled_bitmapCould not load bitmap: printer_preview_
+[error]	2026-04-17 09:49:49.939364[Thread 0x00000001f57398c0]:_parse_printer_type Unsupported printer type: Voron v24
+[warning]	2026-04-17 09:49:50.333973[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:49:51.111871[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:49:52.224203[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:49:54.224816[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:49:56.224726[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:49:58.225292[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:00.225093[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:01.501418[Thread 0x00000001f57398c0]:validate_preset: preset_name Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-17 09:50:01.501453[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the printer preset not inherit from system
+[warning]	2026-04-17 09:50:01.501463[Thread 0x00000001f57398c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-17 09:50:01.501467[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-04-17 09:50:01.501473[Thread 0x00000001f57398c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-17 09:50:01.501475[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the filament 2 preset not inherit from system
+[warning]	2026-04-17 09:50:01.501479[Thread 0x00000001f57398c0]:validate_preset: preset_name Orvil ABS+ - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-17 09:50:01.501482[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the filament 3 preset not inherit from system
+[warning]	2026-04-17 09:50:01.501485[Thread 0x00000001f57398c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-17 09:50:01.501488[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the filament 4 preset not inherit from system
+[warning]	2026-04-17 09:50:01.501491[Thread 0x00000001f57398c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-17 09:50:01.501493[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the filament 5 preset not inherit from system
+[warning]	2026-04-17 09:50:01.501496[Thread 0x00000001f57398c0]:validate_preset: preset_name eSun ABS - Natural White v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-17 09:50:01.501499[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the filament 6 preset not inherit from system
+[warning]	2026-04-17 09:50:01.501502[Thread 0x00000001f57398c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-17 09:50:01.501504[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the filament 7 preset not inherit from system
+[warning]	2026-04-17 09:50:01.501507[Thread 0x00000001f57398c0]:validate_preset: preset_name eSun ABS - Pastels v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-17 09:50:01.501509[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the filament 8 preset not inherit from system
+[warning]	2026-04-17 09:50:01.501513[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found self defined presets, count 5
+[warning]	2026-04-17 09:50:02.225074[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:04.226156[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:06.232400[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:08.225428[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:10.226532[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:12.225645[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:14.226008[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:16.226137[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:18.226251[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:20.225961[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:22.226564[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:24.226120[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:26.227102[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:28.239223[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:30.226239[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:32.226722[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:34.226530[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:36.227167[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:38.226543[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:40.226513[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:42.226840[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:44.226740[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:46.226600[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:48.226942[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:50.227330[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:52.227099[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:54.227492[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:56.227423[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:50:58.227770[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:00.227690[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:02.227887[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:04.227625[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:06.227251[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:08.227768[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:10.226984[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:12.227089[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:14.227118[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:16.238482[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:18.227299[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:20.227267[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:22.228066[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:24.227721[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:26.227399[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:28.227872[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:30.227640[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:32.227545[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:34.228096[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:36.228385[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:38.228165[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:40.227891[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:42.228198[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:44.228086[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:46.228635[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:48.229056[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:50.227677[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:52.228268[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:54.227907[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:56.228405[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:51:58.228818[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:00.228672[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:02.228487[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:04.228511[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:06.227967[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:08.228195[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:10.228447[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:12.229116[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:14.228324[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:16.229036[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:18.230072[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:20.228791[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:22.228447[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:24.228284[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:26.228655[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:28.228420[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:30.228431[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:32.228533[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:34.229050[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:36.228722[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:38.228576[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:40.229032[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:42.228636[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:44.233128[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:46.229093[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:48.229366[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:50.229230[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:52.228873[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:54.229256[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:56.228856[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:52:58.228887[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:00.229079[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:00.714061[Thread 0x00000001f57398c0]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-04-17 09:53:02.228961[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:04.229960[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:06.229158[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:08.229704[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:10.229132[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:12.229150[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:14.236768[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:15.307511[Thread 0x000000017286b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2026-04-17 09:53:16.229868[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:18.232549[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:20.229789[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:22.229305[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:24.229424[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:26.230280[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:28.230345[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:30.229374[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:32.229960[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:34.229690[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:36.229501[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:38.230209[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:40.229590[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:42.229553[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:44.229671[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:46.229688[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:48.229821[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:50.230264[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:52.230749[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:54.229899[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:56.230173[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:53:58.229944[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:00.230778[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:02.231060[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:04.230071[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:06.230441[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:08.230712[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:10.230621[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:12.230988[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:14.230676[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:16.230658[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:18.230528[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:20.230497[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:22.230258[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:24.230671[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:26.230356[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:28.230407[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:30.230594[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:32.230486[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:34.230470[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:36.230520[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:38.230932[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:40.230659[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:40.882636[Thread 0x00000001f57398c0]:option: attempt to access option with wrong type: flush_multiplier
+[warning]	2026-04-17 09:54:42.230594[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:44.231579[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:46.231342[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:48.231004[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:50.230901[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:52.231179[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:54.230899[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:56.230776[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:54:58.271324[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:00.233089[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:02.231256[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:04.351144[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:06.230982[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:08.231153[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:10.231093[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:12.231387[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:14.231168[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:16.232129[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:18.231254[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:20.231877[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:22.231681[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:24.231320[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:26.232286[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:28.231435[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:30.231407[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:32.231733[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-17 09:55:34.232063[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!

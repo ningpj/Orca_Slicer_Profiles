@@ -1,0 +1,52 @@
+[info]	2026-04-18 08:47:17.318727[Thread 0x00000001f57398c0]:gui mode, Current OrcaSlicer Version 2.3.2-rc2 build 61870631
+[error]	2026-04-18 08:47:18.069671[Thread 0x00000001f57398c0]:can not find parent Siraya Tech PET-CF v1 for config /Users/nigel/Library/Application Support/OrcaSlicer/user/default/filament/Siraya Tech PET-CF v1.1.json!
+[error]	2026-04-18 08:47:18.406927[Thread 0x00000001f57398c0]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[warning]	2026-04-18 08:47:18.544948[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-04-18 08:47:18.820317[Thread 0x0000000170dd7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2026-04-18 08:47:18.820354[Thread 0x00000001719fb000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-04-18 08:47:18.820417[Thread 0x0000000170dd7000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-04-18 08:47:18.820360[Thread 0x0000000171e07000]:Unable to open the file/Users/nigel/Downloads/Top Tank Sensor Container-Body-1.3mf
+[error]	2026-04-18 08:47:18.820426[Thread 0x000000017364f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[error]	2026-04-18 08:47:18.820444[Thread 0x0000000172e37000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-04-18 08:47:18.820465[Thread 0x0000000171e07000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-04-18 08:47:18.820578[Thread 0x0000000173243000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/018934bb-7165-48ea-9ccf-c19ccc8ae10e/Yavoth_WWBMG_SHT36_Mount.3mf
+[error]	2026-04-18 08:47:18.820584[Thread 0x0000000172213000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-04-18 08:47:18.820588[Thread 0x00000001719fb000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[warning]	2026-04-18 08:47:18.993586[Thread 0x00000001f57398c0]:08:47:18 AM: Error: can't open file '/Applications/OrcaSlicer 2.3.2-RC2.app/Contents/Resources/images/printer_preview_.png' (error 2: No such file or directory)
+[warning]	2026-04-18 08:47:18.993643[Thread 0x00000001f57398c0]:08:47:18 AM: Error: Failed to load image from file "/Applications/OrcaSlicer 2.3.2-RC2.app/Contents/Resources/images/printer_preview_.png".
+[error]	2026-04-18 08:47:18.993651[Thread 0x00000001f57398c0]:create_scaled_bitmapCould not load bitmap: printer_preview_
+[error]	2026-04-18 08:47:19.002045[Thread 0x00000001f57398c0]:_parse_printer_type Unsupported printer type: Voron v24
+[warning]	2026-04-18 08:47:19.399991[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-18 08:47:21.306557[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-18 08:47:22.599504[Thread 0x00000001f57398c0]:validate_preset: preset_name Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-18 08:47:22.599550[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the printer preset not inherit from system
+[warning]	2026-04-18 08:47:22.599571[Thread 0x00000001f57398c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-18 08:47:22.599577[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-04-18 08:47:22.599601[Thread 0x00000001f57398c0]:validate_preset: preset_name 3rdax ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-18 08:47:22.599605[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the filament 2 preset not inherit from system
+[warning]	2026-04-18 08:47:22.599613[Thread 0x00000001f57398c0]:validate_preset: preset_name Orvil ABS+ - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-18 08:47:22.599616[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the filament 3 preset not inherit from system
+[warning]	2026-04-18 08:47:22.599620[Thread 0x00000001f57398c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-18 08:47:22.599623[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the filament 4 preset not inherit from system
+[warning]	2026-04-18 08:47:22.599627[Thread 0x00000001f57398c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-18 08:47:22.599630[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the filament 5 preset not inherit from system
+[warning]	2026-04-18 08:47:22.599634[Thread 0x00000001f57398c0]:validate_preset: preset_name eSun ABS - Natural White v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-18 08:47:22.599637[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the filament 6 preset not inherit from system
+[warning]	2026-04-18 08:47:22.599640[Thread 0x00000001f57398c0]:validate_preset: preset_name eSun ABS - Default v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-18 08:47:22.599643[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the filament 7 preset not inherit from system
+[warning]	2026-04-18 08:47:22.599646[Thread 0x00000001f57398c0]:validate_preset: preset_name eSun ABS - Pastels v1 @Voron v24 0.4 nozzle, no inherit, set to not found
+[warning]	2026-04-18 08:47:22.599649[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found the filament 8 preset not inherit from system
+[warning]	2026-04-18 08:47:22.599654[Thread 0x00000001f57398c0]:validate_presets:file_name EMU_Makerchip.3mf, found self defined presets, count 6
+[warning]	2026-04-18 08:47:23.306631[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-18 08:47:24.249654[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-18 08:47:25.306604[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-18 08:47:27.306571[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-18 08:47:29.306679[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-18 08:47:31.306833[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-18 08:47:33.306683[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-18 08:47:35.306685[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-18 08:47:37.306710[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-18 08:47:39.306933[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-18 08:47:41.306800[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-18 08:47:43.306644[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-04-18 08:47:45.306826[Thread 0x00000001f57398c0]:get_version, get_version not supported, return 00.00.00.00!

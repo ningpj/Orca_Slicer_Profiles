@@ -1,0 +1,65 @@
+[info]	2026-02-20 14:57:33.130937[Thread 0x0000000203f17080]:gui mode, Current OrcaSlicer Version 2.3.2-beta build f0386d98
+[error]	2026-02-20 14:57:34.147741[Thread 0x0000000203f17080]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[warning]	2026-02-20 14:57:34.270999[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-02-20 14:57:34.571448[Thread 0x000000016da23000]:Unable to open the file/Users/nigel/Downloads/Top Tank Sensor Container-Body-1.3mf
+[error]	2026-02-20 14:57:34.571534[Thread 0x000000016ea53000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/c81b9dfa-06ee-4678-ac4a-13ec4ba947e8/Door Latch.3mf
+[error]	2026-02-20 14:57:34.571539[Thread 0x000000016cdff000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/df0d04fd-784f-4bda-b7f7-9a53af902d05/ningpj_Cube_67_2.3mf
+[error]	2026-02-20 14:57:34.571548[Thread 0x000000016f26b000]:Unable to open the file/private/var/folders/tc/5992m81s7597sm8x9vwn0_3h0000gn/T/MicrosoftEdgeDownloads/db0533f4-847b-4591-b133-14735e66d5b5/petcf.3mf
+[error]	2026-02-20 14:57:34.572632[Thread 0x000000016d20b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/Cube.3mf
+[error]	2026-02-20 14:57:34.572638[Thread 0x000000016e23b000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_1.3mf
+[error]	2026-02-20 14:57:34.572652[Thread 0x000000016cdff000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube.3mf
+[error]	2026-02-20 14:57:34.572659[Thread 0x000000016f677000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67_2.3mf
+[error]	2026-02-20 14:57:34.572661[Thread 0x000000016ee5f000]:Unable to open the file/Volumes/u01/My Files/3DPrinting/Calibration/NJ_Cube_67.3mf
+[warning]	2026-02-20 14:57:34.733874[Thread 0x0000000203f17080]:02:57:34 PM: Error: can't open file '/Applications/OrcaSlicer.app/Contents/Resources/images/printer_preview_.png' (error 2: No such file or directory)
+[warning]	2026-02-20 14:57:34.733926[Thread 0x0000000203f17080]:02:57:34 PM: Error: Failed to load image from file "/Applications/OrcaSlicer.app/Contents/Resources/images/printer_preview_.png".
+[error]	2026-02-20 14:57:34.733933[Thread 0x0000000203f17080]:create_scaled_bitmapCould not load bitmap: printer_preview_
+[error]	2026-02-20 14:57:34.741935[Thread 0x0000000203f17080]:_parse_printer_type Unsupported printer type: Voron v24
+[warning]	2026-02-20 14:57:35.162430[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:57:36.163836[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:57:37.063853[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:57:39.063855[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:57:41.063874[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:57:43.063887[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:57:45.063542[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:57:47.063921[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:57:49.063918[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:57:51.063876[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:57:53.063889[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:57:55.063937[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:57:57.063969[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:57:59.063966[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:01.063985[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:03.063996[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:05.064007[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:07.064024[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:09.062992[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:11.063061[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:13.063374[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:15.063118[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:17.063184[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:19.063687[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:21.063867[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:23.064060[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:25.063266[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:27.064014[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:29.063455[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:31.063762[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:33.063231[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:35.063138[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:37.063152[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:39.063484[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:41.064137[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:43.063728[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:45.063488[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:47.063383[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:49.063663[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:51.063675[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:53.063875[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:55.063401[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:57.063302[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:58:59.063295[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:59:01.063765[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:59:03.063297[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:59:05.064318[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:59:07.064269[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!
+[warning]	2026-02-20 14:59:09.064316[Thread 0x0000000203f17080]:get_version, get_version not supported, return 00.00.00.00!

@@ -1,0 +1,38 @@
+{
+    "compatible_printers": [
+        "Voron v02 0.4 nozzle",
+        "Voron v02 0.6 nozzle",
+        "Voron v02 45-degree 0.4 nozzle",
+        "Voron v24 0.4 nozzle",
+        "Voron v24 0.6 nozzle"
+    ],
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "filament_flow_ratio": [
+        "0.92"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_settings_id": [
+        "Wondershop ABS-GF - Default v1 @Voron v24 0.4 nozzle"
+    ],
+    "filament_type": [
+        "ABS-GF"
+    ],
+    "filament_vendor": [
+        "Wondershop ABS-GF"
+    ],
+    "from": "User",
+    "inherits": "3rdax ABS - Default v1 @Voron v24 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Wondershop ABS-GF - Default v1 @Voron v24 0.4 nozzle",
+    "nozzle_temperature": [
+        "270"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "version": "2.0.2.0"
+}

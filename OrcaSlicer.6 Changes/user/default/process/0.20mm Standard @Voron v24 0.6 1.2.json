@@ -1,0 +1,30 @@
+{
+    "bridge_density": "90%",
+    "enable_prime_tower": "1",
+    "enable_tower_interface_features": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @Voron v24 0.4 nozzle",
+    "internal_bridge_density": "90%",
+    "internal_bridge_flow": "0.85",
+    "name": "0.20mm Standard @Voron v24 0.6 1.2",
+    "prime_tower_enable_framework": "1",
+    "prime_tower_infill_gap": "200%",
+    "prime_volume": "6",
+    "prime_tower_width": "20",
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "0.20mm Standard @Voron v24 0.6 1.2",
+    "sparse_infill_pattern": "tpmsd",
+    "sparse_infill_rotate_template": "",
+    "version": "2.0.2.0",
+    "wall_loops": "3",
+    "wipe_before_external_loop": "1",
+    "wipe_on_loops": "1",
+    "wipe_tower_extra_spacing": "150%",
+    "wipe_tower_max_purge_speed": "300",
+    "wipe_tower_wall_type": "cone"
+}
