@@ -1,5 +1,0 @@
-.env
-*.swp
-*.tmp
-*.bak
-*.bkp
